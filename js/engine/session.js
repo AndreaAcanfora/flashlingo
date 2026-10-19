@@ -138,7 +138,12 @@ export function createSession(deck, { mode, gradeMode, filters, length, learn = 
       return pos < queue.length ? queue[pos] : null;
     },
     grade(card, correct) {
-      results[card._id] = { correct };
+      // Keep every attempt: the summary must reflect mistakes even when a card
+      // is eventually answered correctly (always the case in "learn" mode).
+      const r = results[card._id] || (results[card._id] = { firstCorrect: correct, attempts: 0, wrong: 0 });
+      r.attempts += 1;
+      if (!correct) r.wrong += 1;
+      r.correct = correct;
       applyGrade(statOf(card), correct, { sessionCount });
       saveStats(deckId, stats);
       if (adaptive) {
@@ -169,7 +174,7 @@ export function createSession(deck, { mode, gradeMode, filters, length, learn = 
     missed(allCards) {
       const map = new Map(allCards.map((c) => [c._id, c]));
       return Object.entries(results)
-        .filter(([, r]) => !r.correct)
+        .filter(([, r]) => r.wrong > 0)
         .map(([id]) => map.get(id))
         .filter(Boolean);
     },

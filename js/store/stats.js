@@ -64,13 +64,13 @@ export function applyGrade(stat, correct, { tier = null, sessionCount = 0 } = {}
   return stat;
 }
 
-// Mastery = fraction of seen cards sitting in box >= 4.
-export function mastery(deckId, totalCards) {
-  const stats = loadStats(deckId);
-  const vals = Object.values(stats);
-  if (!totalCards) return 0;
-  const mastered = vals.filter((s) => s.box >= 4).length;
-  return mastered / totalCards;
+// Progress counts for a deck. "learned" = last answer correct (box >= 2);
+// "mastered" = kept correct over several spaced sessions (box >= 4).
+export function progress(deckId, totalCards) {
+  const vals = Object.values(loadStats(deckId));
+  const learned = Math.min(totalCards, vals.filter((s) => s.seen && s.box >= 2).length);
+  const mastered = Math.min(totalCards, vals.filter((s) => s.box >= 4).length);
+  return { learned, mastered, total: totalCards };
 }
 
 export { MAX_BOX, BOX_INTERVAL };

@@ -24,9 +24,9 @@ export function renderResults(container, { id }) {
       h('h2', { class: 'text-2xl font-bold', text: t('sessionDone') }),
       h('p', { class: 'text-slate-500', text: s.title })),
     h('div', { class: 'mb-6 grid grid-cols-3 gap-3' },
-      stat(t('accuracy'), acc + '%'),
-      stat(t('correct'), s.correct),
-      stat(t('seen'), s.seen)),
+      stat(t('firstTry'), acc + '%'),
+      stat(t('words'), s.seen),
+      stat(t('mistakes'), s.mistakes ?? 0)),
   ];
 
   if (s.adaptive && s.trajectory?.length) {

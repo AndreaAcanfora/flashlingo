@@ -49,13 +49,18 @@ export function renderStudy(container, { id }) {
   function finish() {
     cleanup();
     const results = session.results();
-    const seen = Object.keys(results).length;
-    const correct = Object.values(results).filter((r) => r.correct).length;
+    const rs = Object.values(results);
+    const seen = rs.length; // distinct words
+    const correct = rs.filter((r) => r.firstCorrect).length; // right on the first try
+    const answers = rs.reduce((n, r) => n + r.attempts, 0);
+    const mistakes = rs.reduce((n, r) => n + r.wrong, 0);
     setSummary({
       deckId: id,
       title: meta.title,
       seen,
       correct,
+      answers,
+      mistakes,
       missed: session.missed(deck.cards),
       adaptive: session.adaptive,
       trajectory: session.trajectory,
