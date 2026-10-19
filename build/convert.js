@@ -46,9 +46,10 @@ export function convert({ levelMap }) {
   const report = [];
   for (const deck of DECKS) {
     const prior = existingEnrichment(deck.id);
-    const seen = new Set();
+    const byKey = new Map();
     const cards = [];
     let dropped = 0;
+    let merged = 0;
     const unmapped = [];
 
     for (const entry of loadRaw(deck)) {
@@ -58,13 +59,20 @@ export function convert({ levelMap }) {
         continue;
       }
       const key = dedupeKey(card.front);
-      if (seen.has(key)) {
-        dropped++;
+
+      if (byKey.has(key)) {
+        // Duplicate front: merge supplemental metadata (explicit level/topic,
+        // and any extra accepted answers) into the card we already have, so a
+        // thematic supplement can TAG or extend existing words, not just add new.
+        const ex = byKey.get(key);
+        if (card.level) ex.level = card.level; // explicit level wins over a derived one
+        if (card.topic && !ex.topic) ex.topic = card.topic;
+        for (const b of card.back) if (!ex.back.includes(b)) ex.back.push(b);
+        merged++;
         continue;
       }
-      seen.add(key);
 
-      // Explicit level on the card (advanced file) wins; else derive from CEFR map.
+      // Explicit level on the card (supplement) wins; else derive from CEFR map.
       if (deck.levels && !card.level) card.level = levelForFront(card.front, levelMap);
 
       if (deck.meta.mode === 'capitals') {
@@ -76,8 +84,10 @@ export function convert({ levelMap }) {
       const e = prior.get(key);
       if (e) Object.assign(card, e);
 
+      byKey.set(key, card);
       cards.push(card);
     }
+    void merged;
 
     writeJSONAtomic(join(DATA_DIR, `${deck.id}.json`), cards, CARD_KEY_ORDER);
     const leveled = deck.levels ? cards.filter((c) => c.level).length : 0;

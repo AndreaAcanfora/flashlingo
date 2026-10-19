@@ -12,7 +12,9 @@ const deckCache = new Map();
 
 export async function loadManifest() {
   if (manifestCache) return manifestCache;
-  const res = await fetch(new URL('decks.json', DATA_BASE));
+  // no-cache = always revalidate (allows 304) so deck updates show without a
+  // hard refresh, instead of serving a stale copy from the HTTP cache.
+  const res = await fetch(new URL('decks.json', DATA_BASE), { cache: 'no-cache' });
   if (!res.ok) throw new Error(`Failed to load decks.json (HTTP ${res.status})`);
   manifestCache = await res.json();
   return manifestCache;
@@ -29,7 +31,7 @@ export async function getDeckMeta(deckId) {
 export async function loadDeck(deckId) {
   if (deckCache.has(deckId)) return deckCache.get(deckId);
   const meta = await getDeckMeta(deckId);
-  const res = await fetch(new URL(`${deckId}.json`, DATA_BASE));
+  const res = await fetch(new URL(`${deckId}.json`, DATA_BASE), { cache: 'no-cache' });
   if (!res.ok) throw new Error(`Failed to load ${deckId}.json (HTTP ${res.status})`);
   const shipped = assignIds(await res.json());
   const overlay = loadOverlay(deckId);

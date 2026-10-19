@@ -170,9 +170,11 @@
   {
     "front": "afraid",
     "back": [
-      "impaurito"
+      "impaurito",
+      "spaventato"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Emotions"
   },
   {
     "front": "again",
@@ -240,9 +242,11 @@
   {
     "front": "allow",
     "back": [
-      "permettere"
+      "permettere",
+      "consentire"
     ],
-    "level": "A2"
+    "level": "B1",
+    "topic": "Common verbs"
   },
   {
     "front": "ally",
@@ -667,16 +671,21 @@
   {
     "front": "beautiful",
     "back": [
-      "bellissimo"
+      "bellissimo",
+      "bello"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "Describing"
   },
   {
     "front": "begin",
     "back": [
-      "inizio"
+      "inizio",
+      "cominciare",
+      "iniziare"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "Common verbs"
   },
   {
     "front": "belief",
@@ -760,7 +769,8 @@
     "back": [
       "coperta"
     ],
-    "level": "A2"
+    "level": "B1",
+    "topic": "House & home"
   },
   {
     "front": "blow",
@@ -814,9 +824,11 @@
   {
     "front": "borrow",
     "back": [
-      "prestito"
+      "prestito",
+      "prendere in prestito"
     ],
-    "level": "A1"
+    "level": "B1",
+    "topic": "Money & shopping"
   },
   {
     "front": "bottom",
@@ -886,7 +898,8 @@
     "back": [
       "costruire"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Common verbs"
   },
   {
     "front": "burden",
@@ -912,9 +925,11 @@
   {
     "front": "button",
     "back": [
-      "pulsante"
+      "pulsante",
+      "bottone"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Clothes"
   },
   {
     "front": "buy",
@@ -1012,14 +1027,16 @@
     "back": [
       "gatto"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "Animals"
   },
   {
     "front": "ceiling",
     "back": [
       "soffitto"
     ],
-    "level": "B2"
+    "level": "B1",
+    "topic": "House & home"
   },
   {
     "front": "cell",
@@ -1073,9 +1090,12 @@
   {
     "front": "change",
     "back": [
-      "modificare"
+      "modificare",
+      "resto",
+      "spiccioli"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Money & shopping"
   },
   {
     "front": "changing",
@@ -1124,9 +1144,11 @@
   {
     "front": "child",
     "back": [
-      "bambino"
+      "bambino",
+      "figlio"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "Family & people"
   },
   {
     "front": "childhood",
@@ -1166,9 +1188,11 @@
   {
     "front": "classroom",
     "back": [
-      "aula"
+      "aula",
+      "classe"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "School & study"
   },
   {
     "front": "clear",
@@ -1208,9 +1232,11 @@
   {
     "front": "cloud",
     "back": [
-      "nube"
+      "nube",
+      "nuvola"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Nature & weather"
   },
   {
     "front": "clue",
@@ -1364,7 +1390,8 @@
     "back": [
       "lamentarsi"
     ],
-    "level": "A2"
+    "level": "B1",
+    "topic": "Common verbs"
   },
   {
     "front": "complaint",
@@ -1376,9 +1403,12 @@
   {
     "front": "comprehensive",
     "back": [
-      "globale"
+      "globale",
+      "completo",
+      "esaustivo"
     ],
-    "level": "B2"
+    "level": "C1",
+    "topic": "Describing"
   },
   {
     "front": "concentrate",
@@ -1729,7 +1759,8 @@
     "back": [
       "folla"
     ],
-    "level": "A2"
+    "level": "B1",
+    "topic": "City & places"
   },
   {
     "front": "current",
@@ -1820,7 +1851,8 @@
     "back": [
       "decidere"
     ],
-    "level": "A2"
+    "level": "A2",
+    "topic": "Common verbs"
   },
   {
     "front": "deck",
@@ -1888,9 +1920,12 @@
   {
     "front": "depict",
     "back": [
-      "rappresentare"
+      "rappresentare",
+      "raffigurare",
+      "descrivere"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "Thinking & speaking"
   },
   {
     "front": "deputy",
@@ -2084,16 +2119,21 @@
   {
     "front": "dress",
     "back": [
-      "vestito"
+      "vestito",
+      "vestito (da donna)",
+      "abito"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "Clothes"
   },
   {
     "front": "driver",
     "back": [
-      "autista"
+      "autista",
+      "conducente"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Work & jobs"
   },
   {
     "front": "drop",
@@ -2217,16 +2257,19 @@
   {
     "front": "employee",
     "back": [
-      "dipendente"
+      "dipendente",
+      "impiegato"
     ],
-    "level": "B2"
+    "level": "B1",
+    "topic": "Work & jobs"
   },
   {
     "front": "employer",
     "back": [
       "datore di lavoro"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "Work & jobs"
   },
   {
     "front": "employment",
@@ -2266,9 +2309,11 @@
   {
     "front": "enhance",
     "back": [
-      "migliorare"
+      "migliorare",
+      "potenziare"
     ],
-    "level": "B2"
+    "level": "C1",
+    "topic": "Change & action"
   },
   {
     "front": "enjoy",
@@ -2463,9 +2508,11 @@
   {
     "front": "expensive",
     "back": [
-      "caro"
+      "caro",
+      "costoso"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "Money & shopping"
   },
   {
     "front": "experiment",
@@ -2515,7 +2562,8 @@
     "back": [
       "fabbrica"
     ],
-    "level": "A1"
+    "level": "B1",
+    "topic": "City & places"
   },
   {
     "front": "fail",
@@ -2548,9 +2596,11 @@
   {
     "front": "farmer",
     "back": [
-      "contadino"
+      "contadino",
+      "agricoltore"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Work & jobs"
   },
   {
     "front": "fashion",
@@ -2674,9 +2724,11 @@
   {
     "front": "fix",
     "back": [
-      "aggiustare"
+      "aggiustare",
+      "riparare"
     ],
-    "level": "A2"
+    "level": "A2",
+    "topic": "Common verbs"
   },
   {
     "front": "flame",
@@ -2688,9 +2740,11 @@
   {
     "front": "flat",
     "back": [
-      "piatto"
+      "piatto",
+      "appartamento"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "House & home"
   },
   {
     "front": "flavor",
@@ -2723,9 +2777,11 @@
   {
     "front": "floor",
     "back": [
-      "pavimento"
+      "pavimento",
+      "piano"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "House & home"
   },
   {
     "front": "focus",
@@ -2835,9 +2891,11 @@
   {
     "front": "full",
     "back": [
-      "completo"
+      "completo",
+      "pieno"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Describing"
   },
   {
     "front": "fully",
@@ -2863,9 +2921,12 @@
   {
     "front": "furniture",
     "back": [
-      "Arredamento"
+      "Arredamento",
+      "mobili",
+      "arredamento"
     ],
-    "level": "A2"
+    "level": "B1",
+    "topic": "House & home"
   },
   {
     "front": "furthermore",
@@ -2998,7 +3059,8 @@
     "back": [
       "guanto"
     ],
-    "level": "A2"
+    "level": "A2",
+    "topic": "Clothes"
   },
   {
     "front": "governor",
@@ -3129,9 +3191,11 @@
   {
     "front": "happen",
     "back": [
-      "accadere"
+      "accadere",
+      "succedere"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Common verbs"
   },
   {
     "front": "hard",
@@ -3157,9 +3221,11 @@
   {
     "front": "healthy",
     "back": [
-      "sano"
+      "sano",
+      "salutare"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Body & health"
   },
   {
     "front": "hearing",
@@ -3367,9 +3433,11 @@
   {
     "front": "improve",
     "back": [
-      "Ottimizzare"
+      "Ottimizzare",
+      "migliorare"
     ],
-    "level": "A2"
+    "level": "B1",
+    "topic": "Common verbs"
   },
   {
     "front": "in",
@@ -3395,9 +3463,11 @@
   {
     "front": "increase",
     "back": [
-      "aumento"
+      "aumento",
+      "aumentare"
     ],
-    "level": "A2"
+    "level": "B1",
+    "topic": "Common verbs"
   },
   {
     "front": "increased",
@@ -3619,9 +3689,11 @@
   {
     "front": "journey",
     "back": [
-      "viaggio"
+      "viaggio",
+      "tragitto"
     ],
-    "level": "A2"
+    "level": "B1",
+    "topic": "Travel & transport"
   },
   {
     "front": "judgment",
@@ -3817,7 +3889,8 @@
     "back": [
       "biblioteca"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "School & study"
   },
   {
     "front": "lie",
@@ -3845,7 +3918,8 @@
     "back": [
       "leggero"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Describing"
   },
   {
     "front": "like",
@@ -3901,7 +3975,8 @@
     "back": [
       "prestito"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "Money & shopping"
   },
   {
     "front": "locate",
@@ -3955,9 +4030,12 @@
   {
     "front": "loud",
     "back": [
-      "ad alta voce"
+      "ad alta voce",
+      "rumoroso",
+      "forte"
     ],
-    "level": "B1"
+    "level": "A2",
+    "topic": "Describing"
   },
   {
     "front": "love",
@@ -3990,9 +4068,11 @@
   {
     "front": "lunch",
     "back": [
-      "il pranzo"
+      "il pranzo",
+      "pranzo"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "Food & drink"
   },
   {
     "front": "lung",
@@ -4060,23 +4140,29 @@
   {
     "front": "map",
     "back": [
-      "carta geografica"
+      "carta geografica",
+      "mappa",
+      "cartina"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Travel & transport"
   },
   {
     "front": "mark",
     "back": [
-      "segnare"
+      "segnare",
+      "voto"
     ],
-    "level": "A2"
+    "level": "B1",
+    "topic": "School & study"
   },
   {
     "front": "market",
     "back": [
       "mercato"
     ],
-    "level": "A2"
+    "level": "A2",
+    "topic": "Money & shopping"
   },
   {
     "front": "marry",
@@ -4102,9 +4188,11 @@
   {
     "front": "match",
     "back": [
-      "incontro"
+      "incontro",
+      "partita"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Sports & leisure"
   },
   {
     "front": "matter",
@@ -4242,9 +4330,11 @@
   {
     "front": "mood",
     "back": [
-      "umore"
+      "umore",
+      "stato d'animo"
     ],
-    "level": "A2"
+    "level": "B1",
+    "topic": "Emotions"
   },
   {
     "front": "moreover",
@@ -4279,7 +4369,8 @@
     "back": [
       "madre"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "Family & people"
   },
   {
     "front": "motion",
@@ -4501,9 +4592,11 @@
   {
     "front": "nurse",
     "back": [
-      "infermiera"
+      "infermiera",
+      "infermiere"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Body & health"
   },
   {
     "front": "nut",
@@ -4732,9 +4825,12 @@
   {
     "front": "painting",
     "back": [
-      "la pittura"
+      "la pittura",
+      "dipinto",
+      "pittura"
     ],
-    "level": "A1"
+    "level": "B1",
+    "topic": "Sports & leisure"
   },
   {
     "front": "pair",
@@ -4769,7 +4865,8 @@
     "back": [
       "carta"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "School & study"
   },
   {
     "front": "participate",
@@ -5160,9 +5257,11 @@
   {
     "front": "proud",
     "back": [
-      "orgoglioso"
+      "orgoglioso",
+      "fiero"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "Emotions"
   },
   {
     "front": "prove",
@@ -5237,9 +5336,11 @@
   {
     "front": "quiet",
     "back": [
-      "tranquillo"
+      "tranquillo",
+      "silenzioso"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Describing"
   },
   {
     "front": "quietly",
@@ -5272,9 +5373,11 @@
   {
     "front": "race",
     "back": [
-      "corsa"
+      "corsa",
+      "gara"
     ],
-    "level": "B1"
+    "level": "A2",
+    "topic": "Sports & leisure"
   },
   {
     "front": "racial",
@@ -5303,7 +5406,8 @@
       "piovere",
       "pioggia"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "Nature & weather"
   },
   {
     "front": "raise",
@@ -5375,7 +5479,8 @@
     "back": [
       "ricetta"
     ],
-    "level": "B2"
+    "level": "B1",
+    "topic": "Food & drink"
   },
   {
     "front": "recognition",
@@ -5494,7 +5599,8 @@
     "back": [
       "parente"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "Family & people"
   },
   {
     "front": "release",
@@ -5599,7 +5705,8 @@
     "back": [
       "ricerca"
     ],
-    "level": "A2"
+    "level": "B2",
+    "topic": "School & study"
   },
   {
     "front": "resemble",
@@ -5648,7 +5755,8 @@
     "back": [
       "andare in pensione"
     ],
-    "level": "A2"
+    "level": "B2",
+    "topic": "Work & jobs"
   },
   {
     "front": "retirement",
@@ -5730,16 +5838,21 @@
   {
     "front": "room",
     "back": [
-      "Camera"
+      "Camera",
+      "stanza",
+      "camera"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "House & home"
   },
   {
     "front": "rough",
     "back": [
-      "ruvido"
+      "ruvido",
+      "grezzo"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "Describing"
   },
   {
     "front": "roughly",
@@ -5802,14 +5915,17 @@
     "back": [
       "insalata"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Food & drink"
   },
   {
     "front": "salary",
     "back": [
-      "stipendio"
+      "stipendio",
+      "salario"
     ],
-    "level": "B2"
+    "level": "B1",
+    "topic": "Work & jobs"
   },
   {
     "front": "sale",
@@ -5842,9 +5958,11 @@
   {
     "front": "scared",
     "back": [
-      "impaurito"
+      "impaurito",
+      "spaventato"
     ],
-    "level": "B1"
+    "level": "A2",
+    "topic": "Emotions"
   },
   {
     "front": "schedule",
@@ -6032,9 +6150,12 @@
   {
     "front": "shelf",
     "back": [
-      "lo scaffale"
+      "lo scaffale",
+      "scaffale",
+      "mensola"
     ],
-    "level": "A1"
+    "level": "B1",
+    "topic": "House & home"
   },
   {
     "front": "shelter",
@@ -6055,7 +6176,8 @@
     "back": [
       "camicia"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "Clothes"
   },
   {
     "front": "shock",
@@ -6088,9 +6210,12 @@
   {
     "front": "short",
     "back": [
-      "breve"
+      "breve",
+      "corto",
+      "basso"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "Describing"
   },
   {
     "front": "shortly",
@@ -6228,9 +6353,12 @@
   {
     "front": "size",
     "back": [
-      "dimensione"
+      "dimensione",
+      "taglia",
+      "misura"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Clothes"
   },
   {
     "front": "ski",
@@ -6244,7 +6372,8 @@
     "back": [
       "pelle"
     ],
-    "level": "B1"
+    "level": "A2",
+    "topic": "Body & health"
   },
   {
     "front": "slave",
@@ -6284,9 +6413,11 @@
   {
     "front": "smooth",
     "back": [
-      "liscio"
+      "liscio",
+      "morbido"
     ],
-    "level": "A2"
+    "level": "B1",
+    "topic": "Describing"
   },
   {
     "front": "snap",
@@ -6347,9 +6478,12 @@
   {
     "front": "soup",
     "back": [
-      "la minestra"
+      "la minestra",
+      "zuppa",
+      "minestra"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Food & drink"
   },
   {
     "front": "source",
@@ -6529,9 +6663,12 @@
   {
     "front": "stone",
     "back": [
-      "calcolo"
+      "calcolo",
+      "pietra",
+      "sasso"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Nature & weather"
   },
   {
     "front": "stop",
@@ -6613,9 +6750,11 @@
   {
     "front": "student",
     "back": [
-      "alunno"
+      "alunno",
+      "studente"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "School & study"
   },
   {
     "front": "stuff",
@@ -6690,9 +6829,11 @@
   {
     "front": "suggest",
     "back": [
-      "suggerire"
+      "suggerire",
+      "proporre"
     ],
-    "level": "A2"
+    "level": "B1",
+    "topic": "Common verbs"
   },
   {
     "front": "summit",
@@ -6818,7 +6959,8 @@
     "back": [
       "coda"
     ],
-    "level": "B2"
+    "level": "B1",
+    "topic": "Animals"
   },
   {
     "front": "tale",
@@ -6844,9 +6986,11 @@
   {
     "front": "tax",
     "back": [
-      "imposta"
+      "imposta",
+      "tassa"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "Money & shopping"
   },
   {
     "front": "taxpayer",
@@ -7026,9 +7170,11 @@
   {
     "front": "throw",
     "back": [
-      "gettare"
+      "gettare",
+      "lanciare"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Common verbs"
   },
   {
     "front": "thus",
@@ -7098,7 +7244,8 @@
     "back": [
       "dente"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "Body & health"
   },
   {
     "front": "top",
@@ -7124,9 +7271,11 @@
   {
     "front": "town",
     "back": [
-      "cittadina"
+      "cittadina",
+      "paese"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "City & places"
   },
   {
     "front": "trade",
@@ -7173,9 +7322,11 @@
   {
     "front": "travel",
     "back": [
-      "viaggiare"
+      "viaggiare",
+      "viaggio"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "Travel & transport"
   },
   {
     "front": "treat",
@@ -7208,9 +7359,11 @@
   {
     "front": "trip",
     "back": [
-      "viaggio"
+      "viaggio",
+      "gita"
     ],
-    "level": "A1"
+    "level": "A2",
+    "topic": "Travel & transport"
   },
   {
     "front": "troop",
@@ -7502,9 +7655,12 @@
   {
     "front": "weather",
     "back": [
-      "tempo metereologico"
+      "tempo metereologico",
+      "tempo (atmosferico)",
+      "meteo"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "Nature & weather"
   },
   {
     "front": "wedding",
@@ -7739,7 +7895,8 @@
       "lavoro",
       "lavorare"
     ],
-    "level": "A1"
+    "level": "A1",
+    "topic": "Work & jobs"
   },
   {
     "front": "workshop",
@@ -8339,6 +8496,2823 @@
       "inevitabile"
     ],
     "level": "C1",
+    "topic": "Describing"
+  },
+  {
+    "front": "bread",
+    "back": [
+      "pane"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "milk",
+    "back": [
+      "latte"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "wine",
+    "back": [
+      "vino"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "beer",
+    "back": [
+      "birra"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "coffee",
+    "back": [
+      "caffè"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "tea",
+    "back": [
+      "tè"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "meat",
+    "back": [
+      "carne"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "fish",
+    "back": [
+      "pesce"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "chicken",
+    "back": [
+      "pollo"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "egg",
+    "back": [
+      "uovo"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "cheese",
+    "back": [
+      "formaggio"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "butter",
+    "back": [
+      "burro"
+    ],
+    "level": "A2",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "rice",
+    "back": [
+      "riso"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "fruit",
+    "back": [
+      "frutta"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "apple",
+    "back": [
+      "mela"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "orange",
+    "back": [
+      "arancia"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "lemon",
+    "back": [
+      "limone"
+    ],
+    "level": "A2",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "grape",
+    "back": [
+      "uva"
+    ],
+    "level": "A2",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "strawberry",
+    "back": [
+      "fragola"
+    ],
+    "level": "A2",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "peach",
+    "back": [
+      "pesca"
+    ],
+    "level": "B1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "pear",
+    "back": [
+      "pera"
+    ],
+    "level": "A2",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "cherry",
+    "back": [
+      "ciliegia"
+    ],
+    "level": "B1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "vegetable",
+    "back": [
+      "verdura",
+      "ortaggio"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "potato",
+    "back": [
+      "patata"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "tomato",
+    "back": [
+      "pomodoro"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "carrot",
+    "back": [
+      "carota"
+    ],
+    "level": "A2",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "onion",
+    "back": [
+      "cipolla"
+    ],
+    "level": "A2",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "garlic",
+    "back": [
+      "aglio"
+    ],
+    "level": "B1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "salt",
+    "back": [
+      "sale"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "sugar",
+    "back": [
+      "zucchero"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "honey",
+    "back": [
+      "miele"
+    ],
+    "level": "B1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "cake",
+    "back": [
+      "torta"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "biscuit",
+    "back": [
+      "biscotto"
+    ],
+    "level": "A2",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "chocolate",
+    "back": [
+      "cioccolato"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "ice cream",
+    "back": [
+      "gelato"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "breakfast",
+    "back": [
+      "colazione"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "dinner",
+    "back": [
+      "cena"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "meal",
+    "back": [
+      "pasto"
+    ],
+    "level": "A2",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "taste",
+    "back": [
+      "gusto",
+      "sapore"
+    ],
+    "level": "A2",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "hungry",
+    "back": [
+      "affamato"
+    ],
+    "level": "A1",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "thirsty",
+    "back": [
+      "assetato"
+    ],
+    "level": "A2",
+    "topic": "Food & drink"
+  },
+  {
+    "front": "family",
+    "back": [
+      "famiglia"
+    ],
+    "level": "A1",
+    "topic": "Family & people"
+  },
+  {
+    "front": "father",
+    "back": [
+      "padre"
+    ],
+    "level": "A1",
+    "topic": "Family & people"
+  },
+  {
+    "front": "parent",
+    "back": [
+      "genitore"
+    ],
+    "level": "A2",
+    "topic": "Family & people"
+  },
+  {
+    "front": "son",
+    "back": [
+      "figlio"
+    ],
+    "level": "A1",
+    "topic": "Family & people"
+  },
+  {
+    "front": "daughter",
+    "back": [
+      "figlia"
+    ],
+    "level": "A1",
+    "topic": "Family & people"
+  },
+  {
+    "front": "brother",
+    "back": [
+      "fratello"
+    ],
+    "level": "A1",
+    "topic": "Family & people"
+  },
+  {
+    "front": "sister",
+    "back": [
+      "sorella"
+    ],
+    "level": "A1",
+    "topic": "Family & people"
+  },
+  {
+    "front": "grandfather",
+    "back": [
+      "nonno"
+    ],
+    "level": "A1",
+    "topic": "Family & people"
+  },
+  {
+    "front": "grandmother",
+    "back": [
+      "nonna"
+    ],
+    "level": "A1",
+    "topic": "Family & people"
+  },
+  {
+    "front": "uncle",
+    "back": [
+      "zio"
+    ],
+    "level": "A2",
+    "topic": "Family & people"
+  },
+  {
+    "front": "aunt",
+    "back": [
+      "zia"
+    ],
+    "level": "A2",
+    "topic": "Family & people"
+  },
+  {
+    "front": "cousin",
+    "back": [
+      "cugino",
+      "cugina"
+    ],
+    "level": "A2",
+    "topic": "Family & people"
+  },
+  {
+    "front": "nephew",
+    "back": [
+      "nipote (maschio)"
+    ],
+    "level": "B1",
+    "topic": "Family & people"
+  },
+  {
+    "front": "niece",
+    "back": [
+      "nipote (femmina)"
+    ],
+    "level": "B1",
+    "topic": "Family & people"
+  },
+  {
+    "front": "husband",
+    "back": [
+      "marito"
+    ],
+    "level": "A2",
+    "topic": "Family & people"
+  },
+  {
+    "front": "wife",
+    "back": [
+      "moglie"
+    ],
+    "level": "A2",
+    "topic": "Family & people"
+  },
+  {
+    "front": "couple",
+    "back": [
+      "coppia"
+    ],
+    "level": "B1",
+    "topic": "Family & people"
+  },
+  {
+    "front": "neighbour",
+    "back": [
+      "vicino di casa"
+    ],
+    "level": "A2",
+    "topic": "Family & people"
+  },
+  {
+    "front": "friend",
+    "back": [
+      "amico",
+      "amica"
+    ],
+    "level": "A1",
+    "topic": "Family & people"
+  },
+  {
+    "front": "guest",
+    "back": [
+      "ospite"
+    ],
+    "level": "B1",
+    "topic": "Family & people"
+  },
+  {
+    "front": "stranger",
+    "back": [
+      "sconosciuto",
+      "estraneo"
+    ],
+    "level": "B1",
+    "topic": "Family & people"
+  },
+  {
+    "front": "adult",
+    "back": [
+      "adulto"
+    ],
+    "level": "A2",
+    "topic": "Family & people"
+  },
+  {
+    "front": "teenager",
+    "back": [
+      "adolescente"
+    ],
+    "level": "B1",
+    "topic": "Family & people"
+  },
+  {
+    "front": "twin",
+    "back": [
+      "gemello"
+    ],
+    "level": "B1",
+    "topic": "Family & people"
+  },
+  {
+    "front": "head",
+    "back": [
+      "testa"
+    ],
+    "level": "A1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "hair",
+    "back": [
+      "capelli"
+    ],
+    "level": "A1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "face",
+    "back": [
+      "viso",
+      "faccia"
+    ],
+    "level": "A1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "eye",
+    "back": [
+      "occhio"
+    ],
+    "level": "A1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "ear",
+    "back": [
+      "orecchio"
+    ],
+    "level": "A1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "nose",
+    "back": [
+      "naso"
+    ],
+    "level": "A1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "mouth",
+    "back": [
+      "bocca"
+    ],
+    "level": "A1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "neck",
+    "back": [
+      "collo"
+    ],
+    "level": "A2",
+    "topic": "Body & health"
+  },
+  {
+    "front": "shoulder",
+    "back": [
+      "spalla"
+    ],
+    "level": "A2",
+    "topic": "Body & health"
+  },
+  {
+    "front": "arm",
+    "back": [
+      "braccio"
+    ],
+    "level": "A1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "hand",
+    "back": [
+      "mano"
+    ],
+    "level": "A1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "finger",
+    "back": [
+      "dito"
+    ],
+    "level": "A2",
+    "topic": "Body & health"
+  },
+  {
+    "front": "leg",
+    "back": [
+      "gamba"
+    ],
+    "level": "A1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "knee",
+    "back": [
+      "ginocchio"
+    ],
+    "level": "A2",
+    "topic": "Body & health"
+  },
+  {
+    "front": "foot",
+    "back": [
+      "piede"
+    ],
+    "level": "A1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "heart",
+    "back": [
+      "cuore"
+    ],
+    "level": "A2",
+    "topic": "Body & health"
+  },
+  {
+    "front": "blood",
+    "back": [
+      "sangue"
+    ],
+    "level": "A2",
+    "topic": "Body & health"
+  },
+  {
+    "front": "bone",
+    "back": [
+      "osso"
+    ],
+    "level": "B1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "brain",
+    "back": [
+      "cervello"
+    ],
+    "level": "B1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "health",
+    "back": [
+      "salute"
+    ],
+    "level": "A2",
+    "topic": "Body & health"
+  },
+  {
+    "front": "illness",
+    "back": [
+      "malattia"
+    ],
+    "level": "B1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "disease",
+    "back": [
+      "malattia",
+      "patologia"
+    ],
+    "level": "B2",
+    "topic": "Body & health"
+  },
+  {
+    "front": "pain",
+    "back": [
+      "dolore"
+    ],
+    "level": "A2",
+    "topic": "Body & health"
+  },
+  {
+    "front": "fever",
+    "back": [
+      "febbre"
+    ],
+    "level": "B1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "cough",
+    "back": [
+      "tosse"
+    ],
+    "level": "B1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "wound",
+    "back": [
+      "ferita"
+    ],
+    "level": "B2",
+    "topic": "Body & health"
+  },
+  {
+    "front": "medicine",
+    "back": [
+      "medicina",
+      "farmaco"
+    ],
+    "level": "A2",
+    "topic": "Body & health"
+  },
+  {
+    "front": "doctor",
+    "back": [
+      "medico",
+      "dottore"
+    ],
+    "level": "A1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "patient",
+    "back": [
+      "paziente"
+    ],
+    "level": "B1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "sick",
+    "back": [
+      "malato"
+    ],
+    "level": "A1",
+    "topic": "Body & health"
+  },
+  {
+    "front": "house",
+    "back": [
+      "casa"
+    ],
+    "level": "A1",
+    "topic": "House & home"
+  },
+  {
+    "front": "kitchen",
+    "back": [
+      "cucina"
+    ],
+    "level": "A1",
+    "topic": "House & home"
+  },
+  {
+    "front": "bedroom",
+    "back": [
+      "camera da letto"
+    ],
+    "level": "A1",
+    "topic": "House & home"
+  },
+  {
+    "front": "bathroom",
+    "back": [
+      "bagno"
+    ],
+    "level": "A1",
+    "topic": "House & home"
+  },
+  {
+    "front": "living room",
+    "back": [
+      "soggiorno",
+      "salotto"
+    ],
+    "level": "A2",
+    "topic": "House & home"
+  },
+  {
+    "front": "wall",
+    "back": [
+      "muro",
+      "parete"
+    ],
+    "level": "A2",
+    "topic": "House & home"
+  },
+  {
+    "front": "roof",
+    "back": [
+      "tetto"
+    ],
+    "level": "A2",
+    "topic": "House & home"
+  },
+  {
+    "front": "door",
+    "back": [
+      "porta"
+    ],
+    "level": "A1",
+    "topic": "House & home"
+  },
+  {
+    "front": "window",
+    "back": [
+      "finestra"
+    ],
+    "level": "A1",
+    "topic": "House & home"
+  },
+  {
+    "front": "stairs",
+    "back": [
+      "scale"
+    ],
+    "level": "A2",
+    "topic": "House & home"
+  },
+  {
+    "front": "table",
+    "back": [
+      "tavolo"
+    ],
+    "level": "A1",
+    "topic": "House & home"
+  },
+  {
+    "front": "chair",
+    "back": [
+      "sedia"
+    ],
+    "level": "A1",
+    "topic": "House & home"
+  },
+  {
+    "front": "bed",
+    "back": [
+      "letto"
+    ],
+    "level": "A1",
+    "topic": "House & home"
+  },
+  {
+    "front": "sofa",
+    "back": [
+      "divano"
+    ],
+    "level": "A2",
+    "topic": "House & home"
+  },
+  {
+    "front": "drawer",
+    "back": [
+      "cassetto"
+    ],
+    "level": "B1",
+    "topic": "House & home"
+  },
+  {
+    "front": "mirror",
+    "back": [
+      "specchio"
+    ],
+    "level": "A2",
+    "topic": "House & home"
+  },
+  {
+    "front": "pillow",
+    "back": [
+      "cuscino"
+    ],
+    "level": "B1",
+    "topic": "House & home"
+  },
+  {
+    "front": "towel",
+    "back": [
+      "asciugamano"
+    ],
+    "level": "A2",
+    "topic": "House & home"
+  },
+  {
+    "front": "key",
+    "back": [
+      "chiave"
+    ],
+    "level": "A1",
+    "topic": "House & home"
+  },
+  {
+    "front": "garden",
+    "back": [
+      "giardino"
+    ],
+    "level": "A1",
+    "topic": "House & home"
+  },
+  {
+    "front": "clothes",
+    "back": [
+      "vestiti",
+      "abbigliamento"
+    ],
+    "level": "A1",
+    "topic": "Clothes"
+  },
+  {
+    "front": "trousers",
+    "back": [
+      "pantaloni"
+    ],
+    "level": "A1",
+    "topic": "Clothes"
+  },
+  {
+    "front": "jeans",
+    "back": [
+      "jeans"
+    ],
+    "level": "A1",
+    "topic": "Clothes"
+  },
+  {
+    "front": "skirt",
+    "back": [
+      "gonna"
+    ],
+    "level": "A2",
+    "topic": "Clothes"
+  },
+  {
+    "front": "jacket",
+    "back": [
+      "giacca"
+    ],
+    "level": "A1",
+    "topic": "Clothes"
+  },
+  {
+    "front": "coat",
+    "back": [
+      "cappotto"
+    ],
+    "level": "A2",
+    "topic": "Clothes"
+  },
+  {
+    "front": "sweater",
+    "back": [
+      "maglione"
+    ],
+    "level": "A2",
+    "topic": "Clothes"
+  },
+  {
+    "front": "shoe",
+    "back": [
+      "scarpa"
+    ],
+    "level": "A1",
+    "topic": "Clothes"
+  },
+  {
+    "front": "boot",
+    "back": [
+      "stivale"
+    ],
+    "level": "A2",
+    "topic": "Clothes"
+  },
+  {
+    "front": "sock",
+    "back": [
+      "calzino"
+    ],
+    "level": "A2",
+    "topic": "Clothes"
+  },
+  {
+    "front": "hat",
+    "back": [
+      "cappello"
+    ],
+    "level": "A1",
+    "topic": "Clothes"
+  },
+  {
+    "front": "scarf",
+    "back": [
+      "sciarpa"
+    ],
+    "level": "A2",
+    "topic": "Clothes"
+  },
+  {
+    "front": "belt",
+    "back": [
+      "cintura"
+    ],
+    "level": "A2",
+    "topic": "Clothes"
+  },
+  {
+    "front": "pocket",
+    "back": [
+      "tasca"
+    ],
+    "level": "A2",
+    "topic": "Clothes"
+  },
+  {
+    "front": "animal",
+    "back": [
+      "animale"
+    ],
+    "level": "A1",
+    "topic": "Animals"
+  },
+  {
+    "front": "dog",
+    "back": [
+      "cane"
+    ],
+    "level": "A1",
+    "topic": "Animals"
+  },
+  {
+    "front": "horse",
+    "back": [
+      "cavallo"
+    ],
+    "level": "A1",
+    "topic": "Animals"
+  },
+  {
+    "front": "cow",
+    "back": [
+      "mucca"
+    ],
+    "level": "A2",
+    "topic": "Animals"
+  },
+  {
+    "front": "pig",
+    "back": [
+      "maiale"
+    ],
+    "level": "A2",
+    "topic": "Animals"
+  },
+  {
+    "front": "sheep",
+    "back": [
+      "pecora"
+    ],
+    "level": "A2",
+    "topic": "Animals"
+  },
+  {
+    "front": "bird",
+    "back": [
+      "uccello"
+    ],
+    "level": "A1",
+    "topic": "Animals"
+  },
+  {
+    "front": "mouse",
+    "back": [
+      "topo",
+      "mouse"
+    ],
+    "level": "A2",
+    "topic": "Animals"
+  },
+  {
+    "front": "rabbit",
+    "back": [
+      "coniglio"
+    ],
+    "level": "A2",
+    "topic": "Animals"
+  },
+  {
+    "front": "bear",
+    "back": [
+      "orso"
+    ],
+    "level": "A2",
+    "topic": "Animals"
+  },
+  {
+    "front": "lion",
+    "back": [
+      "leone"
+    ],
+    "level": "A2",
+    "topic": "Animals"
+  },
+  {
+    "front": "tiger",
+    "back": [
+      "tigre"
+    ],
+    "level": "A2",
+    "topic": "Animals"
+  },
+  {
+    "front": "elephant",
+    "back": [
+      "elefante"
+    ],
+    "level": "A2",
+    "topic": "Animals"
+  },
+  {
+    "front": "monkey",
+    "back": [
+      "scimmia"
+    ],
+    "level": "A2",
+    "topic": "Animals"
+  },
+  {
+    "front": "snake",
+    "back": [
+      "serpente"
+    ],
+    "level": "A2",
+    "topic": "Animals"
+  },
+  {
+    "front": "spider",
+    "back": [
+      "ragno"
+    ],
+    "level": "A2",
+    "topic": "Animals"
+  },
+  {
+    "front": "bee",
+    "back": [
+      "ape"
+    ],
+    "level": "A2",
+    "topic": "Animals"
+  },
+  {
+    "front": "fly",
+    "back": [
+      "mosca"
+    ],
+    "level": "A2",
+    "topic": "Animals"
+  },
+  {
+    "front": "ant",
+    "back": [
+      "formica"
+    ],
+    "level": "B1",
+    "topic": "Animals"
+  },
+  {
+    "front": "wolf",
+    "back": [
+      "lupo"
+    ],
+    "level": "B1",
+    "topic": "Animals"
+  },
+  {
+    "front": "fox",
+    "back": [
+      "volpe"
+    ],
+    "level": "B1",
+    "topic": "Animals"
+  },
+  {
+    "front": "duck",
+    "back": [
+      "anatra"
+    ],
+    "level": "A2",
+    "topic": "Animals"
+  },
+  {
+    "front": "frog",
+    "back": [
+      "rana"
+    ],
+    "level": "B1",
+    "topic": "Animals"
+  },
+  {
+    "front": "wing",
+    "back": [
+      "ala"
+    ],
+    "level": "B1",
+    "topic": "Animals"
+  },
+  {
+    "front": "nature",
+    "back": [
+      "natura"
+    ],
+    "level": "A2",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "tree",
+    "back": [
+      "albero"
+    ],
+    "level": "A1",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "flower",
+    "back": [
+      "fiore"
+    ],
+    "level": "A1",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "grass",
+    "back": [
+      "erba"
+    ],
+    "level": "A2",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "leaf",
+    "back": [
+      "foglia"
+    ],
+    "level": "A2",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "forest",
+    "back": [
+      "foresta",
+      "bosco"
+    ],
+    "level": "A2",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "mountain",
+    "back": [
+      "montagna"
+    ],
+    "level": "A1",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "river",
+    "back": [
+      "fiume"
+    ],
+    "level": "A1",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "lake",
+    "back": [
+      "lago"
+    ],
+    "level": "A1",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "sea",
+    "back": [
+      "mare"
+    ],
+    "level": "A1",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "beach",
+    "back": [
+      "spiaggia"
+    ],
+    "level": "A1",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "island",
+    "back": [
+      "isola"
+    ],
+    "level": "A2",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "sky",
+    "back": [
+      "cielo"
+    ],
+    "level": "A1",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "sun",
+    "back": [
+      "sole"
+    ],
+    "level": "A1",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "moon",
+    "back": [
+      "luna"
+    ],
+    "level": "A1",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "star",
+    "back": [
+      "stella"
+    ],
+    "level": "A1",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "snow",
+    "back": [
+      "neve"
+    ],
+    "level": "A1",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "wind",
+    "back": [
+      "vento"
+    ],
+    "level": "A1",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "storm",
+    "back": [
+      "tempesta",
+      "temporale"
+    ],
+    "level": "B1",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "fog",
+    "back": [
+      "nebbia"
+    ],
+    "level": "B1",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "ice",
+    "back": [
+      "ghiaccio"
+    ],
+    "level": "A2",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "fire",
+    "back": [
+      "fuoco"
+    ],
+    "level": "A1",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "sand",
+    "back": [
+      "sabbia"
+    ],
+    "level": "B1",
+    "topic": "Nature & weather"
+  },
+  {
+    "front": "car",
+    "back": [
+      "automobile",
+      "macchina"
+    ],
+    "level": "A1",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "bus",
+    "back": [
+      "autobus"
+    ],
+    "level": "A1",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "train",
+    "back": [
+      "treno"
+    ],
+    "level": "A1",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "plane",
+    "back": [
+      "aereo"
+    ],
+    "level": "A1",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "ship",
+    "back": [
+      "nave"
+    ],
+    "level": "A2",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "boat",
+    "back": [
+      "barca"
+    ],
+    "level": "A2",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "bicycle",
+    "back": [
+      "bicicletta"
+    ],
+    "level": "A1",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "ticket",
+    "back": [
+      "biglietto"
+    ],
+    "level": "A1",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "station",
+    "back": [
+      "stazione"
+    ],
+    "level": "A1",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "airport",
+    "back": [
+      "aeroporto"
+    ],
+    "level": "A1",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "luggage",
+    "back": [
+      "bagagli"
+    ],
+    "level": "B1",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "suitcase",
+    "back": [
+      "valigia"
+    ],
+    "level": "A2",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "passport",
+    "back": [
+      "passaporto"
+    ],
+    "level": "A2",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "road",
+    "back": [
+      "strada"
+    ],
+    "level": "A1",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "bridge",
+    "back": [
+      "ponte"
+    ],
+    "level": "A2",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "traffic",
+    "back": [
+      "traffico"
+    ],
+    "level": "A2",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "flight",
+    "back": [
+      "volo"
+    ],
+    "level": "A2",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "abroad",
+    "back": [
+      "all'estero"
+    ],
+    "level": "B1",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "tourist",
+    "back": [
+      "turista"
+    ],
+    "level": "A2",
+    "topic": "Travel & transport"
+  },
+  {
+    "front": "job",
+    "back": [
+      "lavoro",
+      "impiego"
+    ],
+    "level": "A1",
+    "topic": "Work & jobs"
+  },
+  {
+    "front": "office",
+    "back": [
+      "ufficio"
+    ],
+    "level": "A1",
+    "topic": "Work & jobs"
+  },
+  {
+    "front": "boss",
+    "back": [
+      "capo"
+    ],
+    "level": "A2",
+    "topic": "Work & jobs"
+  },
+  {
+    "front": "colleague",
+    "back": [
+      "collega"
+    ],
+    "level": "B1",
+    "topic": "Work & jobs"
+  },
+  {
+    "front": "meeting",
+    "back": [
+      "riunione"
+    ],
+    "level": "A2",
+    "topic": "Work & jobs"
+  },
+  {
+    "front": "teacher",
+    "back": [
+      "insegnante"
+    ],
+    "level": "A1",
+    "topic": "Work & jobs"
+  },
+  {
+    "front": "engineer",
+    "back": [
+      "ingegnere"
+    ],
+    "level": "A2",
+    "topic": "Work & jobs"
+  },
+  {
+    "front": "lawyer",
+    "back": [
+      "avvocato"
+    ],
+    "level": "B1",
+    "topic": "Work & jobs"
+  },
+  {
+    "front": "waiter",
+    "back": [
+      "cameriere"
+    ],
+    "level": "A2",
+    "topic": "Work & jobs"
+  },
+  {
+    "front": "cook",
+    "back": [
+      "cuoco",
+      "cucinare"
+    ],
+    "level": "A1",
+    "topic": "Work & jobs"
+  },
+  {
+    "front": "worker",
+    "back": [
+      "lavoratore",
+      "operaio"
+    ],
+    "level": "A2",
+    "topic": "Work & jobs"
+  },
+  {
+    "front": "manager",
+    "back": [
+      "dirigente",
+      "responsabile"
+    ],
+    "level": "A2",
+    "topic": "Work & jobs"
+  },
+  {
+    "front": "career",
+    "back": [
+      "carriera"
+    ],
+    "level": "B1",
+    "topic": "Work & jobs"
+  },
+  {
+    "front": "interview",
+    "back": [
+      "colloquio",
+      "intervista"
+    ],
+    "level": "B1",
+    "topic": "Work & jobs"
+  },
+  {
+    "front": "skill",
+    "back": [
+      "abilità",
+      "competenza"
+    ],
+    "level": "B1",
+    "topic": "Work & jobs"
+  },
+  {
+    "front": "deadline",
+    "back": [
+      "scadenza"
+    ],
+    "level": "B2",
+    "topic": "Work & jobs"
+  },
+  {
+    "front": "school",
+    "back": [
+      "scuola"
+    ],
+    "level": "A1",
+    "topic": "School & study"
+  },
+  {
+    "front": "lesson",
+    "back": [
+      "lezione"
+    ],
+    "level": "A1",
+    "topic": "School & study"
+  },
+  {
+    "front": "homework",
+    "back": [
+      "compiti"
+    ],
+    "level": "A2",
+    "topic": "School & study"
+  },
+  {
+    "front": "exam",
+    "back": [
+      "esame"
+    ],
+    "level": "A2",
+    "topic": "School & study"
+  },
+  {
+    "front": "test",
+    "back": [
+      "prova",
+      "verifica"
+    ],
+    "level": "A2",
+    "topic": "School & study"
+  },
+  {
+    "front": "subject",
+    "back": [
+      "materia",
+      "argomento"
+    ],
+    "level": "A2",
+    "topic": "School & study"
+  },
+  {
+    "front": "pencil",
+    "back": [
+      "matita"
+    ],
+    "level": "A1",
+    "topic": "School & study"
+  },
+  {
+    "front": "pen",
+    "back": [
+      "penna"
+    ],
+    "level": "A1",
+    "topic": "School & study"
+  },
+  {
+    "front": "notebook",
+    "back": [
+      "quaderno"
+    ],
+    "level": "A2",
+    "topic": "School & study"
+  },
+  {
+    "front": "university",
+    "back": [
+      "università"
+    ],
+    "level": "A2",
+    "topic": "School & study"
+  },
+  {
+    "front": "degree",
+    "back": [
+      "laurea"
+    ],
+    "level": "B1",
+    "topic": "School & study"
+  },
+  {
+    "front": "knowledge",
+    "back": [
+      "conoscenza",
+      "sapere"
+    ],
+    "level": "B1",
+    "topic": "School & study"
+  },
+  {
+    "front": "notes",
+    "back": [
+      "appunti"
+    ],
+    "level": "B1",
+    "topic": "School & study"
+  },
+  {
+    "front": "computer",
+    "back": [
+      "computer"
+    ],
+    "level": "A1",
+    "topic": "Technology"
+  },
+  {
+    "front": "keyboard",
+    "back": [
+      "tastiera"
+    ],
+    "level": "A2",
+    "topic": "Technology"
+  },
+  {
+    "front": "screen",
+    "back": [
+      "schermo"
+    ],
+    "level": "A2",
+    "topic": "Technology"
+  },
+  {
+    "front": "file",
+    "back": [
+      "file"
+    ],
+    "level": "A2",
+    "topic": "Technology"
+  },
+  {
+    "front": "folder",
+    "back": [
+      "cartella"
+    ],
+    "level": "A2",
+    "topic": "Technology"
+  },
+  {
+    "front": "software",
+    "back": [
+      "software",
+      "programma"
+    ],
+    "level": "B1",
+    "topic": "Technology"
+  },
+  {
+    "front": "network",
+    "back": [
+      "rete"
+    ],
+    "level": "B1",
+    "topic": "Technology"
+  },
+  {
+    "front": "password",
+    "back": [
+      "password",
+      "parola d'ordine"
+    ],
+    "level": "A2",
+    "topic": "Technology"
+  },
+  {
+    "front": "download",
+    "back": [
+      "scaricare"
+    ],
+    "level": "A2",
+    "topic": "Technology"
+  },
+  {
+    "front": "upload",
+    "back": [
+      "caricare"
+    ],
+    "level": "B1",
+    "topic": "Technology"
+  },
+  {
+    "front": "device",
+    "back": [
+      "dispositivo"
+    ],
+    "level": "B1",
+    "topic": "Technology"
+  },
+  {
+    "front": "battery",
+    "back": [
+      "batteria"
+    ],
+    "level": "A2",
+    "topic": "Technology"
+  },
+  {
+    "front": "charger",
+    "back": [
+      "caricabatterie"
+    ],
+    "level": "B1",
+    "topic": "Technology"
+  },
+  {
+    "front": "screenshot",
+    "back": [
+      "schermata",
+      "screenshot"
+    ],
+    "level": "B1",
+    "topic": "Technology"
+  },
+  {
+    "front": "update",
+    "back": [
+      "aggiornamento",
+      "aggiornare"
+    ],
+    "level": "B1",
+    "topic": "Technology"
+  },
+  {
+    "front": "data",
+    "back": [
+      "dati"
+    ],
+    "level": "B1",
+    "topic": "Technology"
+  },
+  {
+    "front": "money",
+    "back": [
+      "denaro",
+      "soldi"
+    ],
+    "level": "A1",
+    "topic": "Money & shopping"
+  },
+  {
+    "front": "price",
+    "back": [
+      "prezzo"
+    ],
+    "level": "A1",
+    "topic": "Money & shopping"
+  },
+  {
+    "front": "cost",
+    "back": [
+      "costo",
+      "costare"
+    ],
+    "level": "A2",
+    "topic": "Money & shopping"
+  },
+  {
+    "front": "cheap",
+    "back": [
+      "economico"
+    ],
+    "level": "A1",
+    "topic": "Money & shopping"
+  },
+  {
+    "front": "shop",
+    "back": [
+      "negozio"
+    ],
+    "level": "A1",
+    "topic": "Money & shopping"
+  },
+  {
+    "front": "customer",
+    "back": [
+      "cliente"
+    ],
+    "level": "A2",
+    "topic": "Money & shopping"
+  },
+  {
+    "front": "bill",
+    "back": [
+      "conto",
+      "bolletta"
+    ],
+    "level": "A2",
+    "topic": "Money & shopping"
+  },
+  {
+    "front": "cash",
+    "back": [
+      "contanti"
+    ],
+    "level": "A2",
+    "topic": "Money & shopping"
+  },
+  {
+    "front": "coin",
+    "back": [
+      "moneta"
+    ],
+    "level": "A2",
+    "topic": "Money & shopping"
+  },
+  {
+    "front": "discount",
+    "back": [
+      "sconto"
+    ],
+    "level": "B1",
+    "topic": "Money & shopping"
+  },
+  {
+    "front": "receipt",
+    "back": [
+      "scontrino",
+      "ricevuta"
+    ],
+    "level": "B1",
+    "topic": "Money & shopping"
+  },
+  {
+    "front": "wallet",
+    "back": [
+      "portafoglio"
+    ],
+    "level": "A2",
+    "topic": "Money & shopping"
+  },
+  {
+    "front": "debt",
+    "back": [
+      "debito"
+    ],
+    "level": "B2",
+    "topic": "Money & shopping"
+  },
+  {
+    "front": "afford",
+    "back": [
+      "permettersi"
+    ],
+    "level": "B1",
+    "topic": "Money & shopping"
+  },
+  {
+    "front": "save",
+    "back": [
+      "risparmiare"
+    ],
+    "level": "A2",
+    "topic": "Money & shopping"
+  },
+  {
+    "front": "spend",
+    "back": [
+      "spendere"
+    ],
+    "level": "A2",
+    "topic": "Money & shopping"
+  },
+  {
+    "front": "lend",
+    "back": [
+      "prestare"
+    ],
+    "level": "B1",
+    "topic": "Money & shopping"
+  },
+  {
+    "front": "city",
+    "back": [
+      "città"
+    ],
+    "level": "A1",
+    "topic": "City & places"
+  },
+  {
+    "front": "village",
+    "back": [
+      "villaggio",
+      "paese"
+    ],
+    "level": "A2",
+    "topic": "City & places"
+  },
+  {
+    "front": "street",
+    "back": [
+      "strada",
+      "via"
+    ],
+    "level": "A1",
+    "topic": "City & places"
+  },
+  {
+    "front": "square",
+    "back": [
+      "piazza"
+    ],
+    "level": "A2",
+    "topic": "City & places"
+  },
+  {
+    "front": "building",
+    "back": [
+      "edificio",
+      "palazzo"
+    ],
+    "level": "A2",
+    "topic": "City & places"
+  },
+  {
+    "front": "church",
+    "back": [
+      "chiesa"
+    ],
+    "level": "A2",
+    "topic": "City & places"
+  },
+  {
+    "front": "castle",
+    "back": [
+      "castello"
+    ],
+    "level": "A2",
+    "topic": "City & places"
+  },
+  {
+    "front": "hospital",
+    "back": [
+      "ospedale"
+    ],
+    "level": "A1",
+    "topic": "City & places"
+  },
+  {
+    "front": "bank",
+    "back": [
+      "banca"
+    ],
+    "level": "A1",
+    "topic": "City & places"
+  },
+  {
+    "front": "hotel",
+    "back": [
+      "albergo",
+      "hotel"
+    ],
+    "level": "A1",
+    "topic": "City & places"
+  },
+  {
+    "front": "restaurant",
+    "back": [
+      "ristorante"
+    ],
+    "level": "A1",
+    "topic": "City & places"
+  },
+  {
+    "front": "museum",
+    "back": [
+      "museo"
+    ],
+    "level": "A2",
+    "topic": "City & places"
+  },
+  {
+    "front": "park",
+    "back": [
+      "parco"
+    ],
+    "level": "A1",
+    "topic": "City & places"
+  },
+  {
+    "front": "corner",
+    "back": [
+      "angolo"
+    ],
+    "level": "A2",
+    "topic": "City & places"
+  },
+  {
+    "front": "neighbourhood",
+    "back": [
+      "quartiere"
+    ],
+    "level": "B1",
+    "topic": "City & places"
+  },
+  {
+    "front": "sport",
+    "back": [
+      "sport"
+    ],
+    "level": "A1",
+    "topic": "Sports & leisure"
+  },
+  {
+    "front": "game",
+    "back": [
+      "gioco",
+      "partita"
+    ],
+    "level": "A1",
+    "topic": "Sports & leisure"
+  },
+  {
+    "front": "team",
+    "back": [
+      "squadra"
+    ],
+    "level": "A2",
+    "topic": "Sports & leisure"
+  },
+  {
+    "front": "player",
+    "back": [
+      "giocatore"
+    ],
+    "level": "A2",
+    "topic": "Sports & leisure"
+  },
+  {
+    "front": "ball",
+    "back": [
+      "palla",
+      "pallone"
+    ],
+    "level": "A1",
+    "topic": "Sports & leisure"
+  },
+  {
+    "front": "coach",
+    "back": [
+      "allenatore"
+    ],
+    "level": "B1",
+    "topic": "Sports & leisure"
+  },
+  {
+    "front": "gym",
+    "back": [
+      "palestra"
+    ],
+    "level": "A2",
+    "topic": "Sports & leisure"
+  },
+  {
+    "front": "swim",
+    "back": [
+      "nuotare"
+    ],
+    "level": "A1",
+    "topic": "Sports & leisure"
+  },
+  {
+    "front": "run",
+    "back": [
+      "correre"
+    ],
+    "level": "A1",
+    "topic": "Sports & leisure"
+  },
+  {
+    "front": "hobby",
+    "back": [
+      "passatempo",
+      "hobby"
+    ],
+    "level": "A2",
+    "topic": "Sports & leisure"
+  },
+  {
+    "front": "holiday",
+    "back": [
+      "vacanza",
+      "festa"
+    ],
+    "level": "A1",
+    "topic": "Sports & leisure"
+  },
+  {
+    "front": "music",
+    "back": [
+      "musica"
+    ],
+    "level": "A1",
+    "topic": "Sports & leisure"
+  },
+  {
+    "front": "song",
+    "back": [
+      "canzone"
+    ],
+    "level": "A1",
+    "topic": "Sports & leisure"
+  },
+  {
+    "front": "film",
+    "back": [
+      "film"
+    ],
+    "level": "A1",
+    "topic": "Sports & leisure"
+  },
+  {
+    "front": "book",
+    "back": [
+      "libro"
+    ],
+    "level": "A1",
+    "topic": "Sports & leisure"
+  },
+  {
+    "front": "dance",
+    "back": [
+      "ballare",
+      "danza"
+    ],
+    "level": "A1",
+    "topic": "Sports & leisure"
+  },
+  {
+    "front": "happy",
+    "back": [
+      "felice",
+      "contento"
+    ],
+    "level": "A1",
+    "topic": "Emotions"
+  },
+  {
+    "front": "sad",
+    "back": [
+      "triste"
+    ],
+    "level": "A1",
+    "topic": "Emotions"
+  },
+  {
+    "front": "angry",
+    "back": [
+      "arrabbiato"
+    ],
+    "level": "A1",
+    "topic": "Emotions"
+  },
+  {
+    "front": "tired",
+    "back": [
+      "stanco"
+    ],
+    "level": "A1",
+    "topic": "Emotions"
+  },
+  {
+    "front": "bored",
+    "back": [
+      "annoiato"
+    ],
+    "level": "A2",
+    "topic": "Emotions"
+  },
+  {
+    "front": "excited",
+    "back": [
+      "emozionato",
+      "entusiasta"
+    ],
+    "level": "A2",
+    "topic": "Emotions"
+  },
+  {
+    "front": "worried",
+    "back": [
+      "preoccupato"
+    ],
+    "level": "A2",
+    "topic": "Emotions"
+  },
+  {
+    "front": "nervous",
+    "back": [
+      "nervoso",
+      "agitato"
+    ],
+    "level": "A2",
+    "topic": "Emotions"
+  },
+  {
+    "front": "surprised",
+    "back": [
+      "sorpreso"
+    ],
+    "level": "A2",
+    "topic": "Emotions"
+  },
+  {
+    "front": "jealous",
+    "back": [
+      "geloso"
+    ],
+    "level": "B1",
+    "topic": "Emotions"
+  },
+  {
+    "front": "lonely",
+    "back": [
+      "solo",
+      "solitario"
+    ],
+    "level": "B1",
+    "topic": "Emotions"
+  },
+  {
+    "front": "ashamed",
+    "back": [
+      "imbarazzato",
+      "che si vergogna"
+    ],
+    "level": "B2",
+    "topic": "Emotions"
+  },
+  {
+    "front": "grateful",
+    "back": [
+      "grato",
+      "riconoscente"
+    ],
+    "level": "B2",
+    "topic": "Emotions"
+  },
+  {
+    "front": "anxious",
+    "back": [
+      "ansioso"
+    ],
+    "level": "B2",
+    "topic": "Emotions"
+  },
+  {
+    "front": "finish",
+    "back": [
+      "finire",
+      "terminare"
+    ],
+    "level": "A1",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "bring",
+    "back": [
+      "portare"
+    ],
+    "level": "A1",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "carry",
+    "back": [
+      "portare",
+      "trasportare"
+    ],
+    "level": "A2",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "catch",
+    "back": [
+      "prendere",
+      "afferrare"
+    ],
+    "level": "A2",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "choose",
+    "back": [
+      "scegliere"
+    ],
+    "level": "A2",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "explain",
+    "back": [
+      "spiegare"
+    ],
+    "level": "A2",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "describe",
+    "back": [
+      "descrivere"
+    ],
+    "level": "A2",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "remember",
+    "back": [
+      "ricordare"
+    ],
+    "level": "A2",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "forget",
+    "back": [
+      "dimenticare"
+    ],
+    "level": "A2",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "learn",
+    "back": [
+      "imparare"
+    ],
+    "level": "A1",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "teach",
+    "back": [
+      "insegnare"
+    ],
+    "level": "A2",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "break",
+    "back": [
+      "rompere"
+    ],
+    "level": "A2",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "grow",
+    "back": [
+      "crescere",
+      "coltivare"
+    ],
+    "level": "A2",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "avoid",
+    "back": [
+      "evitare"
+    ],
+    "level": "B1",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "reduce",
+    "back": [
+      "ridurre"
+    ],
+    "level": "B1",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "refuse",
+    "back": [
+      "rifiutare"
+    ],
+    "level": "B1",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "belong",
+    "back": [
+      "appartenere"
+    ],
+    "level": "B1",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "achieve",
+    "back": [
+      "raggiungere",
+      "conseguire"
+    ],
+    "level": "B2",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "manage",
+    "back": [
+      "riuscire",
+      "gestire"
+    ],
+    "level": "B1",
+    "topic": "Common verbs"
+  },
+  {
+    "front": "ugly",
+    "back": [
+      "brutto"
+    ],
+    "level": "A1",
+    "topic": "Describing"
+  },
+  {
+    "front": "big",
+    "back": [
+      "grande"
+    ],
+    "level": "A1",
+    "topic": "Describing"
+  },
+  {
+    "front": "small",
+    "back": [
+      "piccolo"
+    ],
+    "level": "A1",
+    "topic": "Describing"
+  },
+  {
+    "front": "long",
+    "back": [
+      "lungo"
+    ],
+    "level": "A1",
+    "topic": "Describing"
+  },
+  {
+    "front": "heavy",
+    "back": [
+      "pesante"
+    ],
+    "level": "A2",
+    "topic": "Describing"
+  },
+  {
+    "front": "strong",
+    "back": [
+      "forte"
+    ],
+    "level": "A1",
+    "topic": "Describing"
+  },
+  {
+    "front": "weak",
+    "back": [
+      "debole"
+    ],
+    "level": "A2",
+    "topic": "Describing"
+  },
+  {
+    "front": "fast",
+    "back": [
+      "veloce"
+    ],
+    "level": "A1",
+    "topic": "Describing"
+  },
+  {
+    "front": "slow",
+    "back": [
+      "lento"
+    ],
+    "level": "A1",
+    "topic": "Describing"
+  },
+  {
+    "front": "clean",
+    "back": [
+      "pulito"
+    ],
+    "level": "A1",
+    "topic": "Describing"
+  },
+  {
+    "front": "dirty",
+    "back": [
+      "sporco"
+    ],
+    "level": "A1",
+    "topic": "Describing"
+  },
+  {
+    "front": "easy",
+    "back": [
+      "facile"
+    ],
+    "level": "A1",
+    "topic": "Describing"
+  },
+  {
+    "front": "difficult",
+    "back": [
+      "difficile"
+    ],
+    "level": "A1",
+    "topic": "Describing"
+  },
+  {
+    "front": "empty",
+    "back": [
+      "vuoto"
+    ],
+    "level": "A2",
+    "topic": "Describing"
+  },
+  {
+    "front": "dry",
+    "back": [
+      "asciutto",
+      "secco"
+    ],
+    "level": "A2",
+    "topic": "Describing"
+  },
+  {
+    "front": "wet",
+    "back": [
+      "bagnato"
+    ],
+    "level": "A2",
+    "topic": "Describing"
+  },
+  {
+    "front": "dangerous",
+    "back": [
+      "pericoloso"
+    ],
+    "level": "A2",
+    "topic": "Describing"
+  },
+  {
+    "front": "safe",
+    "back": [
+      "sicuro"
+    ],
+    "level": "A2",
+    "topic": "Describing"
+  },
+  {
+    "front": "rich",
+    "back": [
+      "ricco"
+    ],
+    "level": "A2",
+    "topic": "Describing"
+  },
+  {
+    "front": "poor",
+    "back": [
+      "povero"
+    ],
+    "level": "A2",
+    "topic": "Describing"
+  },
+  {
+    "front": "wide",
+    "back": [
+      "largo",
+      "ampio"
+    ],
+    "level": "A2",
+    "topic": "Describing"
+  },
+  {
+    "front": "narrow",
+    "back": [
+      "stretto"
+    ],
+    "level": "B1",
+    "topic": "Describing"
+  },
+  {
+    "front": "deep",
+    "back": [
+      "profondo"
+    ],
+    "level": "A2",
+    "topic": "Describing"
+  },
+  {
+    "front": "sharp",
+    "back": [
+      "affilato",
+      "acuto"
+    ],
+    "level": "B1",
     "topic": "Describing"
   }
 ]

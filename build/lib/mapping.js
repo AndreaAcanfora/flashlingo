@@ -10,7 +10,7 @@ export const DECKS = [
     id: 'english-3000',
     // Second file adds hand-authored advanced (C1/C2) words with explicit levels
     // so the top levels aren't nearly empty (otherwise adaptive loops 2 cards).
-    raw: ['3000words.js', 'english-advanced.json'],
+    raw: ['3000words.js', 'english-advanced.json', 'english-extra.json'],
     format: 'json',
     levels: true,
     meta: {
