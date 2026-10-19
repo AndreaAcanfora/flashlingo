@@ -55,12 +55,13 @@ export async function renderSetup(container, { id }) {
     if (lengthBlock) lengthBlock.style.display = state.learn ? 'none' : '';
   }
 
-  // Mode (self-grade / typing)
-  const modeRow = h('div', { class: 'flex gap-2' });
+  // Mode (self-grade / typing / multiple choice)
+  const modeRow = h('div', { class: 'flex flex-wrap gap-2' });
   function renderMode() {
     mount(modeRow,
       chip(t('selfgrade'), { active: state.gradeMode === 'selfgrade', onClick: () => { state.gradeMode = 'selfgrade'; renderMode(); } }),
-      chip(t('typing'), { active: state.gradeMode === 'typing', onClick: () => { state.gradeMode = 'typing'; renderMode(); } }));
+      chip(t('typing'), { active: state.gradeMode === 'typing', onClick: () => { state.gradeMode = 'typing'; renderMode(); } }),
+      chip(t('multiple'), { active: state.gradeMode === 'multiple', onClick: () => { state.gradeMode = 'multiple'; renderMode(); } }));
   }
   renderMode();
 

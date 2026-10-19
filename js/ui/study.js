@@ -19,7 +19,28 @@ export function renderStudy(container, { id }) {
 
   let current = null;
   let revealed = false;
+  let options = null; // multiple-choice options for the current card
+  let chosen = null; // the option the user picked
   let keyHandler = null;
+
+  // Build 4 options for multiple-choice: the correct answer plus distractors
+  // drawn from other cards (same group first, e.g. same continent).
+  function buildOptions(card) {
+    const correct = card.back[0];
+    const accepted = new Set(card.back.map((b) => b.toLowerCase()));
+    const sameGroup = deck.cards.filter((c) => c !== card && (!card.group || c.group === card.group));
+    const others = (sameGroup.length >= 6 ? sameGroup : deck.cards).filter((c) => c !== card);
+    const pool = [];
+    for (const c of others) {
+      const v = c.back[0];
+      if (v && !accepted.has(v.toLowerCase()) && !pool.includes(v)) pool.push(v);
+    }
+    // shuffle pool, take 3
+    for (let i = pool.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [pool[i], pool[j]] = [pool[j], pool[i]]; }
+    const opts = [correct, ...pool.slice(0, 3)];
+    for (let i = opts.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [opts[i], opts[j]] = [opts[j], opts[i]]; }
+    return opts.map((text) => ({ text, correct: accepted.has(text.toLowerCase()) }));
+  }
 
   function cleanup() {
     if (keyHandler) document.removeEventListener('keydown', keyHandler);
@@ -51,7 +72,9 @@ export function renderStudy(container, { id }) {
   function advance() {
     current = session.next();
     revealed = false;
+    chosen = null;
     if (!current) return finish();
+    options = session.gradeMode === 'multiple' ? buildOptions(current) : null;
     render();
     if (settings.autoSpeak && meta.speakSide === 'front') speakCurrent();
   }
@@ -118,7 +141,7 @@ export function renderStudy(container, { id }) {
   }
 
   function controls() {
-    if (meta.gradeMode === undefined) {} // noop
+    if (session.gradeMode === 'multiple') return multipleControls();
     if (session.gradeMode === 'typing') return typingControls();
     // self-grade
     if (!revealed) {
@@ -128,6 +151,32 @@ export function renderStudy(container, { id }) {
       button('✗ ' + t('didnt'), { variant: 'outline', onClick: () => grade(false) }),
       button('✓ ' + t('knewIt'), { variant: 'primary', onClick: () => grade(true) }),
     );
+  }
+
+  function selectOption(opt) {
+    if (chosen) return;
+    chosen = opt;
+    session.grade(current, opt.correct);
+    revealed = true;
+    render();
+    if (settings.autoSpeak && meta.speakSide === 'back') speakCurrent();
+  }
+
+  function multipleControls() {
+    const grid = h('div', { class: 'mt-5 grid grid-cols-1 gap-2 sm:grid-cols-2' });
+    (options || []).forEach((opt, i) => {
+      let cls = 'rounded-lg border px-4 py-3 text-left text-base transition ';
+      if (!chosen) cls += 'border-slate-300 hover:border-brand hover:bg-slate-50 dark:border-slate-600 dark:hover:bg-slate-800';
+      else if (opt.correct) cls += 'border-emerald-500 bg-emerald-50 text-emerald-800 dark:bg-emerald-900/40 dark:text-emerald-100';
+      else if (opt === chosen) cls += 'border-rose-500 bg-rose-50 text-rose-800 dark:bg-rose-900/40 dark:text-rose-100';
+      else cls += 'border-slate-200 text-slate-400 dark:border-slate-700';
+      grid.append(h('button', {
+        type: 'button', class: cls, disabled: !!chosen,
+        onClick: () => selectOption(opt),
+      }, h('span', { class: 'mr-2 text-xs text-slate-400', text: String(i + 1) }), opt.text));
+    });
+    const after = chosen ? h('div', { class: 'mt-4 flex justify-center' }, button(t('next') + '  (Space)', { variant: 'primary', onClick: advance })) : null;
+    return h('div', {}, grid, after);
   }
 
   function typingControls() {
@@ -190,9 +239,11 @@ export function renderStudy(container, { id }) {
       h('div', { id: 'near-slot' }),
       controls(),
       h('div', { class: 'mt-6 text-center text-xs text-slate-400' },
-        session.gradeMode === 'typing'
-          ? h('span', {}, 'Enter = check · Space = next · S = speak · Esc = end')
-          : h('span', {}, 'Space = reveal · 1 = didn’t · 2 = knew it · S = speak · Esc = end')),
+        session.gradeMode === 'multiple'
+          ? h('span', {}, '1–4 = choose · Space = next · S = speak · Esc = end')
+          : session.gradeMode === 'typing'
+            ? h('span', {}, 'Enter = check · Space = next · S = speak · Esc = end')
+            : h('span', {}, 'Space = reveal · 1 = didn’t · 2 = knew it · S = speak · Esc = end')),
     );
   }
 
@@ -203,6 +254,13 @@ export function renderStudy(container, { id }) {
     }
     if (e.key === 's' || e.key === 'S') { e.preventDefault(); speakCurrent(); return; }
     if (e.key === 'Escape') { e.preventDefault(); finish(); return; }
+    if (session.gradeMode === 'multiple') {
+      if (!chosen && options) {
+        const idx = parseInt(e.key, 10);
+        if (idx >= 1 && idx <= options.length) { e.preventDefault(); selectOption(options[idx - 1]); }
+      } else if (chosen && e.key === ' ') { e.preventDefault(); advance(); }
+      return;
+    }
     if (session.gradeMode === 'typing') {
       if (e.key === ' ' && revealed) { e.preventDefault(); advance(); }
       return;

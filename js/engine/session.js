@@ -16,8 +16,17 @@ function applyFilters(cards, filters) {
 }
 
 function weight(card, stat, sessionCount) {
-  if (!stat.seen) return 3.5 + Math.random() * 0.001; // unseen interleave mid-pack
-  return (6 - stat.box) + 2 * errorRate(stat) + (isDue(stat, sessionCount) ? 1.5 : 0) + Math.random() * 0.001;
+  if (!stat.seen) return 3.5; // unseen: equal weight (order randomized by the shuffle below)
+  return (6 - stat.box) + 2 * errorRate(stat) + (isDue(stat, sessionCount) ? 1.5 : 0);
+}
+
+// Fisher–Yates shuffle (in place).
+function shuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
 }
 
 const REQUEUE_GAP = 4; // how many cards later a missed card returns (learn mode)
@@ -42,7 +51,10 @@ export function createSession(deck, { mode, gradeMode, filters, length, learn = 
     poolSize = deck.cards.filter((c) => c.level).length;
   } else {
     const pool = applyFilters(deck.cards, filters);
-    const sorted = [...pool].sort((a, b) => weight(b, statOf(b), sessionCount) - weight(a, statOf(a), sessionCount));
+    // Shuffle first, then stable-sort by weight: harder cards come first, and
+    // cards of equal weight (e.g. all unseen) end up in random order so the
+    // session doesn't always start from the same card.
+    const sorted = shuffle([...pool]).sort((a, b) => weight(b, statOf(b), sessionCount) - weight(a, statOf(a), sessionCount));
     poolSize = sorted.length;
     queue = learn ? sorted : sorted.slice(0, length > 0 ? length : sorted.length);
     if (!learn) poolSize = queue.length;

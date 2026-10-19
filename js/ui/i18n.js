@@ -28,6 +28,7 @@ const EN = {
   mode: 'Mode',
   selfgrade: 'Self-grade',
   typing: 'Typing',
+  multiple: 'Multiple choice',
   direction: 'Direction',
   goal: 'Goal',
   goalLearn: 'Repeat until learned',

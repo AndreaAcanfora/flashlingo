@@ -30,9 +30,10 @@ clean, inspectable project.
   (Or pick a quick fixed-length session instead.)
 - **Spaced repetition** — a Leitner 5-box scheduler weights the cards you miss
   more often and spaces out the ones you know across sessions.
-- **Two answer modes** — self-grade (flip and rate yourself) or **typing-check**,
-  which accepts any valid answer or synonym, is accent/case-insensitive, handles
-  comma-joined verb forms, and forgives small typos.
+- **Three answer modes** — self-grade (flip and rate yourself), **typing-check**
+  (accepts any valid answer or synonym, accent/case-insensitive, handles
+  comma-joined verb forms, forgives small typos), or **multiple choice** (pick
+  from four options, with plausible distractors from the same group).
 - **CEFR levels & adaptive mode** — for *English · 3000*, filter by level (A1–C2)
   or let **Adaptive** mode start at your level and move up/down based on how you do.
   The top levels are padded with hand-picked C1/C2 words so it never runs dry.
