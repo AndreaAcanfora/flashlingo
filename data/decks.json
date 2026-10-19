@@ -1,0 +1,70 @@
+[
+  {
+    "id": "english-3000",
+    "title": "English · 3000 common words",
+    "desc": "The most common English words with their Italian meaning.",
+    "count": 1114,
+    "speakSide": "front",
+    "speakLang": "en-US",
+    "frontLabel": "English",
+    "backLabel": "Italiano",
+    "mode": "flashcard",
+    "source": "CEFR-J / Octanove levels"
+  },
+  {
+    "id": "phrasal-verbs",
+    "title": "English · Phrasal verbs",
+    "desc": "Common English phrasal verbs, with an example sentence.",
+    "count": 187,
+    "speakSide": "front",
+    "speakLang": "en-US",
+    "frontLabel": "English",
+    "backLabel": "Italiano",
+    "mode": "flashcard"
+  },
+  {
+    "id": "english-vocab",
+    "title": "English · Tricky vocabulary",
+    "desc": "A hand-picked set of less common English words.",
+    "count": 127,
+    "speakSide": "front",
+    "speakLang": "en-US",
+    "frontLabel": "English",
+    "backLabel": "Italiano",
+    "mode": "flashcard",
+    "source": "CEFR-J / Octanove levels"
+  },
+  {
+    "id": "irregular-verbs",
+    "title": "English · Irregular verbs",
+    "desc": "Italian meaning to the three English forms (base, past, participle).",
+    "count": 159,
+    "speakSide": "back",
+    "speakLang": "en-US",
+    "frontLabel": "Italiano",
+    "backLabel": "English",
+    "mode": "flashcard"
+  },
+  {
+    "id": "spanish-verbs",
+    "title": "Spanish · Core words",
+    "desc": "Italian to Spanish: essential words and verbs.",
+    "count": 50,
+    "speakSide": "back",
+    "speakLang": "es-ES",
+    "frontLabel": "Italiano",
+    "backLabel": "Español",
+    "mode": "flashcard"
+  },
+  {
+    "id": "world-capitals",
+    "title": "Geography · World capitals",
+    "desc": "Name the capital of each country. Filter by continent.",
+    "count": 171,
+    "speakSide": "back",
+    "speakLang": "it-IT",
+    "frontLabel": "Paese",
+    "backLabel": "Capitale",
+    "mode": "capitals"
+  }
+]

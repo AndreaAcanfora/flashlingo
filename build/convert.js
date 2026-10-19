@@ -1,0 +1,110 @@
+// Converts the raw wordlists in build/raw/ into clean deck files in data/.
+//  - normalizes text, strips stale success/error telemetry
+//  - assigns CEFR `level` (English decks) and `cc` country code (capitals)
+//  - de-duplicates within a deck (first wins)
+//  - MERGES existing meanings/synonyms/example from data/ by front, so a
+//    re-run never wipes AI enrichment or hand edits
+//  - writes deterministic, diff-friendly JSON
+import { readFileSync, existsSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import { dirname, join } from 'node:path';
+import { DECKS } from './lib/mapping.js';
+import { buildLevelMap, levelForFront } from './lib/cefr.js';
+import { isoFor } from './lib/countries.js';
+import { dedupeKey } from './lib/normalize.js';
+import { writeJSONAtomic, readJSON } from './lib/io.js';
+import { CARD_KEY_ORDER } from './lib/schema.js';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const RAW_DIR = join(__dirname, 'raw');
+const SOURCES_DIR = join(__dirname, 'sources');
+const DATA_DIR = join(__dirname, '..', 'data');
+
+function loadRaw(deck) {
+  const text = readFileSync(join(RAW_DIR, deck.raw), 'utf8');
+  return JSON.parse(text); // all current raw files are JSON arrays
+}
+
+// Index existing enrichment (meanings/synonyms/example) by dedupe key of front.
+function existingEnrichment(deckId) {
+  const path = join(DATA_DIR, `${deckId}.json`);
+  if (!existsSync(path)) return new Map();
+  const idx = new Map();
+  for (const c of readJSON(path)) {
+    const e = {};
+    if (c.meanings?.length) e.meanings = c.meanings;
+    if (c.synonyms?.length) e.synonyms = c.synonyms;
+    if (c.example) e.example = c.example;
+    if (Object.keys(e).length) idx.set(dedupeKey(c.front), e);
+  }
+  return idx;
+}
+
+export function convert({ levelMap }) {
+  const report = [];
+  for (const deck of DECKS) {
+    const prior = existingEnrichment(deck.id);
+    const seen = new Set();
+    const cards = [];
+    let dropped = 0;
+    const unmapped = [];
+
+    for (const entry of loadRaw(deck)) {
+      const card = deck.map(entry);
+      if (!card.front || !card.back?.length) {
+        dropped++;
+        continue;
+      }
+      const key = dedupeKey(card.front);
+      if (seen.has(key)) {
+        dropped++;
+        continue;
+      }
+      seen.add(key);
+
+      if (deck.levels) card.level = levelForFront(card.front, levelMap);
+
+      if (deck.meta.mode === 'capitals') {
+        const cc = isoFor(card.front);
+        if (cc) card.cc = cc;
+        else unmapped.push(card.front);
+      }
+
+      const e = prior.get(key);
+      if (e) Object.assign(card, e);
+
+      cards.push(card);
+    }
+
+    writeJSONAtomic(join(DATA_DIR, `${deck.id}.json`), cards, CARD_KEY_ORDER);
+    const leveled = deck.levels ? cards.filter((c) => c.level).length : 0;
+    report.push({ id: deck.id, count: cards.length, dropped, leveled, unmapped });
+  }
+  return report;
+}
+
+function main() {
+  const offline = process.argv.includes('--offline'); // levels still need the CSVs present
+  void offline;
+  const { map, rows } = buildLevelMap(SOURCES_DIR);
+  console.log(`CEFR level map: ${map.size} headwords from ${rows} rows.`);
+  const report = convert({ levelMap: map });
+  console.log('\nDeck               cards  dropped  leveled');
+  for (const r of report) {
+    console.log(
+      `  ${r.id.padEnd(16)} ${String(r.count).padStart(5)} ${String(r.dropped).padStart(8)} ${String(r.leveled || '-').padStart(8)}`
+    );
+    if (r.unmapped.length) {
+      console.warn(`    ! ${r.id}: ${r.unmapped.length} countries without ISO code: ${r.unmapped.join(', ')}`);
+    }
+  }
+}
+
+if (import.meta.url === `file://${process.argv[1]}`) {
+  try {
+    main();
+  } catch (e) {
+    console.error('convert failed:', e.message);
+    process.exit(1);
+  }
+}

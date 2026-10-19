@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en" class="h-full">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>flashlingo — language flashcards</title>
+    <meta
+      name="description"
+      content="A static spaced-repetition flashcard trainer: English (CEFR-leveled), Spanish, irregular verbs, phrasal verbs and world capitals. Audio, typing-check, adaptive difficulty."
+    />
+    <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml" />
+
+    <!-- Set the theme before paint to avoid a flash of the wrong color scheme. -->
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem('lt:theme');
+          var dark = t === 'dark' || (t !== 'light' && matchMedia('(prefers-color-scheme: dark)').matches);
+          if (dark) document.documentElement.classList.add('dark');
+        } catch (e) {}
+      })();
+    </script>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            colors: {
+              brand: { DEFAULT: '#4f46e5', fg: '#ffffff' },
+            },
+            fontFamily: {
+              sans: ['Inter', 'system-ui', 'Segoe UI', 'Roboto', 'sans-serif'],
+            },
+          },
+        },
+      };
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body class="h-full bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100">
+    <div id="app" class="min-h-full flex flex-col"></div>
+    <div id="toast-host" class="fixed inset-x-0 bottom-4 z-50 flex flex-col items-center gap-2 px-4"></div>
+    <script type="module" src="./js/main.js"></script>
+  </body>
+</html>

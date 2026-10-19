@@ -1,0 +1,304 @@
+[
+  {
+    "front": "essere",
+    "back": [
+      "ser",
+      "estar"
+    ]
+  },
+  {
+    "front": "avere",
+    "back": [
+      "tener"
+    ]
+  },
+  {
+    "front": "fare",
+    "back": [
+      "hacer"
+    ]
+  },
+  {
+    "front": "dire",
+    "back": [
+      "decir"
+    ]
+  },
+  {
+    "front": "andare",
+    "back": [
+      "ir"
+    ]
+  },
+  {
+    "front": "ottenere",
+    "back": [
+      "obtener",
+      "conseguir"
+    ]
+  },
+  {
+    "front": "pensare",
+    "back": [
+      "pensar"
+    ]
+  },
+  {
+    "front": "sapere",
+    "back": [
+      "saber"
+    ]
+  },
+  {
+    "front": "vedere",
+    "back": [
+      "ver"
+    ]
+  },
+  {
+    "front": "sentire",
+    "back": [
+      "sentir"
+    ]
+  },
+  {
+    "front": "parlare",
+    "back": [
+      "hablar"
+    ]
+  },
+  {
+    "front": "mangiare",
+    "back": [
+      "comer"
+    ]
+  },
+  {
+    "front": "bere",
+    "back": [
+      "beber"
+    ]
+  },
+  {
+    "front": "lavorare",
+    "back": [
+      "trabajar"
+    ]
+  },
+  {
+    "front": "giocare",
+    "back": [
+      "jugar"
+    ]
+  },
+  {
+    "front": "camminare",
+    "back": [
+      "caminar"
+    ]
+  },
+  {
+    "front": "correre",
+    "back": [
+      "correr"
+    ]
+  },
+  {
+    "front": "scrivere",
+    "back": [
+      "escribir"
+    ]
+  },
+  {
+    "front": "leggere",
+    "back": [
+      "leer"
+    ]
+  },
+  {
+    "front": "comprare",
+    "back": [
+      "comprar"
+    ]
+  },
+  {
+    "front": "vendere",
+    "back": [
+      "vender"
+    ]
+  },
+  {
+    "front": "ascoltare",
+    "back": [
+      "escuchar"
+    ]
+  },
+  {
+    "front": "cercare",
+    "back": [
+      "buscar"
+    ]
+  },
+  {
+    "front": "trovare",
+    "back": [
+      "encontrar"
+    ]
+  },
+  {
+    "front": "perdere",
+    "back": [
+      "perder"
+    ]
+  },
+  {
+    "front": "dare",
+    "back": [
+      "dar"
+    ]
+  },
+  {
+    "front": "prendere",
+    "back": [
+      "tomar"
+    ]
+  },
+  {
+    "front": "chiudere",
+    "back": [
+      "cerrar"
+    ]
+  },
+  {
+    "front": "aprire",
+    "back": [
+      "abrir"
+    ]
+  },
+  {
+    "front": "entrare",
+    "back": [
+      "entrar"
+    ]
+  },
+  {
+    "front": "uscire",
+    "back": [
+      "salir"
+    ]
+  },
+  {
+    "front": "ridere",
+    "back": [
+      "reír"
+    ]
+  },
+  {
+    "front": "piangere",
+    "back": [
+      "llorar"
+    ]
+  },
+  {
+    "front": "aspettare",
+    "back": [
+      "esperar"
+    ]
+  },
+  {
+    "front": "cambiare",
+    "back": [
+      "cambiar"
+    ]
+  },
+  {
+    "front": "viaggiare",
+    "back": [
+      "viajar"
+    ]
+  },
+  {
+    "front": "studiare",
+    "back": [
+      "estudiar"
+    ]
+  },
+  {
+    "front": "insegnare",
+    "back": [
+      "enseñar"
+    ]
+  },
+  {
+    "front": "imparare",
+    "back": [
+      "aprender"
+    ]
+  },
+  {
+    "front": "sognare",
+    "back": [
+      "soñar"
+    ]
+  },
+  {
+    "front": "creare",
+    "back": [
+      "crear"
+    ]
+  },
+  {
+    "front": "finire",
+    "back": [
+      "terminar"
+    ]
+  },
+  {
+    "front": "cominciare",
+    "back": [
+      "comenzar"
+    ]
+  },
+  {
+    "front": "smettere",
+    "back": [
+      "dejar"
+    ]
+  },
+  {
+    "front": "crescere",
+    "back": [
+      "crecer"
+    ]
+  },
+  {
+    "front": "ridurre",
+    "back": [
+      "reducir"
+    ]
+  },
+  {
+    "front": "contare",
+    "back": [
+      "contar"
+    ]
+  },
+  {
+    "front": "fuggire",
+    "back": [
+      "huir"
+    ]
+  },
+  {
+    "front": "guardare",
+    "back": [
+      "mirar"
+    ]
+  },
+  {
+    "front": "controllare",
+    "back": [
+      "controlar"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+# Secrets
+build/.env
+
+# External CEFR source CSVs — fetched at build time, not redistributed (see NOTICE)
+build/sources/
+
+# Dependencies
+build/node_modules/
+node_modules/
+
+# Tooling / scratch
+.playwright-mcp/
+*.log
+
+# Enrichment sidecars (review artifacts; promote into data/ when ready)
+data/*.enriched.json
+
+# OS / editor
+.DS_Store
+Thumbs.db

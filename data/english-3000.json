@@ -1,0 +1,7814 @@
+[
+  {
+    "front": "a",
+    "back": [
+      "un'"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "ability",
+    "back": [
+      "capacità"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "able",
+    "back": [
+      "capace"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "about",
+    "back": [
+      "di"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "accompany",
+    "back": [
+      "accompagnare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "accomplish",
+    "back": [
+      "realizzare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "according",
+    "back": [
+      "secondo"
+    ],
+    "level": null
+  },
+  {
+    "front": "accurate",
+    "back": [
+      "preciso"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "achievement",
+    "back": [
+      "realizzazione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "acknowledge",
+    "back": [
+      "riconoscere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "across",
+    "back": [
+      "attraverso"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "act",
+    "back": [
+      "atto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "actual",
+    "back": [
+      "effettivo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "actually",
+    "back": [
+      "in realtà"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "ad",
+    "back": [
+      "annuncio"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "adapt",
+    "back": [
+      "adattare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "add",
+    "back": [
+      "Inserisci"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "addition",
+    "back": [
+      "aggiunta"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "adjust",
+    "back": [
+      "regolare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "adjustment",
+    "back": [
+      "registrazione"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "advance",
+    "back": [
+      "avanzare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "advise",
+    "back": [
+      "consigliare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "affair",
+    "back": [
+      "affare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "affect",
+    "back": [
+      "influenzare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "afraid",
+    "back": [
+      "impaurito"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "again",
+    "back": [
+      "ancora"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "agree",
+    "back": [
+      "essere d'accordo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "agreement",
+    "back": [
+      "accordo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "agricultural",
+    "back": [
+      "agricolo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "aid",
+    "back": [
+      "aiuto"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "aide",
+    "back": [
+      "aiutante di campo"
+    ],
+    "level": null
+  },
+  {
+    "front": "aim",
+    "back": [
+      "scopo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "airline",
+    "back": [
+      "linea aerea"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "all",
+    "back": [
+      "tutti"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "allow",
+    "back": [
+      "permettere"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "ally",
+    "back": [
+      "alleato"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "alter",
+    "back": [
+      "modificare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "AM",
+    "back": [
+      "AM"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "amazing",
+    "back": [
+      "sorprendente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "amount",
+    "back": [
+      "quantità"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "ancient",
+    "back": [
+      "antico"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "any",
+    "back": [
+      "qualunque"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "anybody",
+    "back": [
+      "nessuno"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "anyone",
+    "back": [
+      "chiunque"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "anything",
+    "back": [
+      "nulla"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "anyway",
+    "back": [
+      "Comunque"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "anywhere",
+    "back": [
+      "dovunque"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "apart",
+    "back": [
+      "a parte"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "apparent",
+    "back": [
+      "apparente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "appeal",
+    "back": [
+      "appello"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "appearance",
+    "back": [
+      "aspetto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "appoint",
+    "back": [
+      "nominare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "appropriate",
+    "back": [
+      "adeguata"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "approximately",
+    "back": [
+      "circa"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "area",
+    "back": [
+      "la zona"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "argue",
+    "back": [
+      "discutere"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "argument",
+    "back": [
+      "discussione"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "arise",
+    "back": [
+      "sorgere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "army",
+    "back": [
+      "esercito"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "around",
+    "back": [
+      "in giro"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "arrange",
+    "back": [
+      "organizzare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "arrangement",
+    "back": [
+      "preparativi"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "aside",
+    "back": [
+      "a parte"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "ask",
+    "back": [
+      "Chiedi"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "asleep",
+    "back": [
+      "addormentato"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "assert",
+    "back": [
+      "asserire"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "assess",
+    "back": [
+      "valutare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "assessment",
+    "back": [
+      "valutazione"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "asset",
+    "back": [
+      "risorsa"
+    ],
+    "level": null
+  },
+  {
+    "front": "assignment",
+    "back": [
+      "Incarico"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "associate",
+    "back": [
+      "socio"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "assumption",
+    "back": [
+      "assunzione"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "assure",
+    "back": [
+      "assicurare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "athletic",
+    "back": [
+      "atletico"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "attach",
+    "back": [
+      "allegare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "attend",
+    "back": [
+      "assistere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "attitude",
+    "back": [
+      "atteggiamento"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "attorney",
+    "back": [
+      "procuratore"
+    ],
+    "level": null
+  },
+  {
+    "front": "attract",
+    "back": [
+      "attirare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "attractive",
+    "back": [
+      "attraente"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "attribute",
+    "back": [
+      "attributo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "away",
+    "back": [
+      "lontano"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "awful",
+    "back": [
+      "terribile"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "back",
+    "back": [
+      "indietro"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "background",
+    "back": [
+      "sfondo"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "badly",
+    "back": [
+      "male"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "bag",
+    "back": [
+      "Borsa"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "bake",
+    "back": [
+      "infornare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "ban",
+    "back": [
+      "bandire"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "band",
+    "back": [
+      "gruppo musicale"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "barely",
+    "back": [
+      "appena"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "basic",
+    "back": [
+      "di base"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "basically",
+    "back": [
+      "fondamentalmente"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "basket",
+    "back": [
+      "cestino"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "bean",
+    "back": [
+      "fagiolo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "beautiful",
+    "back": [
+      "bellissimo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "begin",
+    "back": [
+      "inizio"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "belief",
+    "back": [
+      "credenza"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "bench",
+    "back": [
+      "panchina"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "bend",
+    "back": [
+      "piegare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "beneath",
+    "back": [
+      "sotto"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "benefit",
+    "back": [
+      "beneficiare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "beside",
+    "back": [
+      "accanto"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "besides",
+    "back": [
+      "Oltretutto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "bike",
+    "back": [
+      "bicicletta"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "bit",
+    "back": [
+      "po"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "bite",
+    "back": [
+      "mordere"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "blade",
+    "back": [
+      "lama"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "blanket",
+    "back": [
+      "coperta"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "blow",
+    "back": [
+      "soffio"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "board",
+    "back": [
+      "tavola"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "body",
+    "back": [
+      "corpo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "bombing",
+    "back": [
+      "bombardamento"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "bond",
+    "back": [
+      "legame"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "boom",
+    "back": [
+      "boom"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "border",
+    "back": [
+      "confine"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "borrow",
+    "back": [
+      "prestito"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "bottom",
+    "back": [
+      "parte inferiore"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "boy",
+    "back": [
+      "ragazzo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "breast",
+    "back": [
+      "Seno"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "breathe",
+    "back": [
+      "respirare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "British",
+    "back": [
+      "Britannico"
+    ],
+    "level": null
+  },
+  {
+    "front": "broad",
+    "back": [
+      "ampio"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "brush",
+    "back": [
+      "spazzola"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "buck",
+    "back": [
+      "secchio"
+    ],
+    "level": null
+  },
+  {
+    "front": "budget",
+    "back": [
+      "bilancio"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "build",
+    "back": [
+      "costruire"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "burden",
+    "back": [
+      "fardello"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "bury",
+    "back": [
+      "seppellire"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "business",
+    "back": [
+      "attività commerciale"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "button",
+    "back": [
+      "pulsante"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "buy",
+    "back": [
+      "acquistare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "buyer",
+    "back": [
+      "acquirente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "by",
+    "back": [
+      "di"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "cabinet",
+    "back": [
+      "Consiglio dei ministri"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "camera",
+    "back": [
+      "telecamera"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "campus",
+    "back": [
+      "città universitaria"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "cap",
+    "back": [
+      "berretto"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "carbon",
+    "back": [
+      "carbonio"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "careful",
+    "back": [
+      "attento"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "carefully",
+    "back": [
+      "accuratamente"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "carrier",
+    "back": [
+      "vettore"
+    ],
+    "level": "C1"
+  },
+  {
+    "front": "case",
+    "back": [
+      "Astuccio"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "cast",
+    "back": [
+      "getto"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "cat",
+    "back": [
+      "gatto"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "ceiling",
+    "back": [
+      "soffitto"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "cell",
+    "back": [
+      "cellula"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "century",
+    "back": [
+      "secolo"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "CEO",
+    "back": [
+      "Amministratore delegato"
+    ],
+    "level": null
+  },
+  {
+    "front": "certain",
+    "back": [
+      "certo"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "chairman",
+    "back": [
+      "presidente"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "chamber",
+    "back": [
+      "Camera"
+    ],
+    "level": null
+  },
+  {
+    "front": "chance",
+    "back": [
+      "opportunità"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "change",
+    "back": [
+      "modificare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "changing",
+    "back": [
+      "mutevole"
+    ],
+    "level": null
+  },
+  {
+    "front": "character",
+    "back": [
+      "personaggio"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "chase",
+    "back": [
+      "inseguire"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "check",
+    "back": [
+      "dai un'occhiata",
+      "controllare",
+      "verificare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "cheek",
+    "back": [
+      "guancia"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "chef",
+    "back": [
+      "capocuoco"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "child",
+    "back": [
+      "bambino"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "childhood",
+    "back": [
+      "infanzia"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "chip",
+    "back": [
+      "patata fritta"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "citizen",
+    "back": [
+      "cittadino"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "claim",
+    "back": [
+      "Richiesta"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "class",
+    "back": [
+      "classe"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "classroom",
+    "back": [
+      "aula"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "clear",
+    "back": [
+      "chiaro"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "climb",
+    "back": [
+      "scalata"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "close",
+    "back": [
+      "vicino"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "closely",
+    "back": [
+      "strettamente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "clothing",
+    "back": [
+      "capi di abbigliamento"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "cloud",
+    "back": [
+      "nube"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "clue",
+    "back": [
+      "traccia"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "cluster",
+    "back": [
+      "grappolo"
+    ],
+    "level": null
+  },
+  {
+    "front": "coal",
+    "back": [
+      "carbone"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "coast",
+    "back": [
+      "costa"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "cognitive",
+    "back": [
+      "conoscitivo"
+    ],
+    "level": "C2"
+  },
+  {
+    "front": "collapse",
+    "back": [
+      "crollo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "collect",
+    "back": [
+      "raccogliere"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "collective",
+    "back": [
+      "collettivo"
+    ],
+    "level": null
+  },
+  {
+    "front": "college",
+    "back": [
+      "Università"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "colonial",
+    "back": [
+      "coloniale"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "combine",
+    "back": [
+      "combinare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "comfort",
+    "back": [
+      "comfort"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "commit",
+    "back": [
+      "commettere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "commitment",
+    "back": [
+      "impegno"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "committee",
+    "back": [
+      "Comitato"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "communicate",
+    "back": [
+      "comunicare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "communication",
+    "back": [
+      "comunicazione"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "comparison",
+    "back": [
+      "confronto"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "compete",
+    "back": [
+      "competere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "competition",
+    "back": [
+      "concorrenza"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "competitor",
+    "back": [
+      "concorrente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "complain",
+    "back": [
+      "lamentarsi"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "complaint",
+    "back": [
+      "denuncia"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "comprehensive",
+    "back": [
+      "globale"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "concentrate",
+    "back": [
+      "concentrato"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "concern",
+    "back": [
+      "preoccupazione"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "concerned",
+    "back": [
+      "ha riguardato"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "concrete",
+    "back": [
+      "calcestruzzo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "conduct",
+    "back": [
+      "condotta"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "confidence",
+    "back": [
+      "fiducia"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "confident",
+    "back": [
+      "fiducioso"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "confront",
+    "back": [
+      "affrontare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "congressional",
+    "back": [
+      "Congresso"
+    ],
+    "level": null
+  },
+  {
+    "front": "connect",
+    "back": [
+      "Collegare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "consciousness",
+    "back": [
+      "coscienza"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "conservative",
+    "back": [
+      "prudente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "consider",
+    "back": [
+      "ritenere"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "considerable",
+    "back": [
+      "considerevole"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "consistent",
+    "back": [
+      "coerente"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "constitute",
+    "back": [
+      "costituire"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "construct",
+    "back": [
+      "costruire"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "consultant",
+    "back": [
+      "consulente"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "consumption",
+    "back": [
+      "consumo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "contemporary",
+    "back": [
+      "contemporaneo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "content",
+    "back": [
+      "soddisfare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "contest",
+    "back": [
+      "concorso"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "continue",
+    "back": [
+      "Continua"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "continued",
+    "back": [
+      "continua"
+    ],
+    "level": null
+  },
+  {
+    "front": "contract",
+    "back": [
+      "contrarre"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "contribute",
+    "back": [
+      "contribuire"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "controversial",
+    "back": [
+      "controverso"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "cooking",
+    "back": [
+      "cucinando"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "cool",
+    "back": [
+      "freddo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "cooperation",
+    "back": [
+      "cooperazione"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "cope",
+    "back": [
+      "far fronte"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "core",
+    "back": [
+      "nucleo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "corn",
+    "back": [
+      "Mais"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "corporate",
+    "back": [
+      "aziendale"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "corporation",
+    "back": [
+      "società"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "couch",
+    "back": [
+      "divano"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "could",
+    "back": [
+      "poteva"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "counselor",
+    "back": [
+      "consulente"
+    ],
+    "level": null
+  },
+  {
+    "front": "count",
+    "back": [
+      "contare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "county",
+    "back": [
+      "contea"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "court",
+    "back": [
+      "Tribunale"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "cover",
+    "back": [
+      "copertina"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "crack",
+    "back": [
+      "crepa"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "craft",
+    "back": [
+      "mestiere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "crash",
+    "back": [
+      "schianto"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "crew",
+    "back": [
+      "equipaggio"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "criminal",
+    "back": [
+      "penale",
+      "criminale"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "criticism",
+    "back": [
+      "critica"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "crop",
+    "back": [
+      "Ritaglia"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "crowd",
+    "back": [
+      "folla"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "current",
+    "back": [
+      "attuale"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "curriculum",
+    "back": [
+      "programma scolastico"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "custom",
+    "back": [
+      "costume"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "cycle",
+    "back": [
+      "ciclo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "daily",
+    "back": [
+      "quotidiano"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "dare",
+    "back": [
+      "osare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "darkness",
+    "back": [
+      "buio"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "dead",
+    "back": [
+      "morto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "deal",
+    "back": [
+      "affare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "dealer",
+    "back": [
+      "commerciante"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "debate",
+    "back": [
+      "discussione"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "decade",
+    "back": [
+      "decennio"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "decide",
+    "back": [
+      "decidere"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "deck",
+    "back": [
+      "ponte"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "decline",
+    "back": [
+      "declino"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "deer",
+    "back": [
+      "cervo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "defeat",
+    "back": [
+      "la sconfitta"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "defendant",
+    "back": [
+      "imputato"
+    ],
+    "level": null
+  },
+  {
+    "front": "deficit",
+    "back": [
+      "disavanzo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "definitely",
+    "back": [
+      "decisamente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "demand",
+    "back": [
+      "richiesta"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "depending",
+    "back": [
+      "Dipendente"
+    ],
+    "level": null
+  },
+  {
+    "front": "depict",
+    "back": [
+      "rappresentare"
+    ],
+    "level": "C1"
+  },
+  {
+    "front": "deputy",
+    "back": [
+      "vice"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "designer",
+    "back": [
+      "progettista"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "desperate",
+    "back": [
+      "disperato"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "despite",
+    "back": [
+      "nonostante"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "destruction",
+    "back": [
+      "distruzione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "detailed",
+    "back": [
+      "dettagliato"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "detect",
+    "back": [
+      "individuare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "developing",
+    "back": [
+      "sviluppando"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "differently",
+    "back": [
+      "diversamente"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "dining",
+    "back": [
+      "cenare"
+    ],
+    "level": null
+  },
+  {
+    "front": "dirt",
+    "back": [
+      "sporco"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "disability",
+    "back": [
+      "invalidità"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "disappear",
+    "back": [
+      "scomparire"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "discovery",
+    "back": [
+      "scoperta"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "dismiss",
+    "back": [
+      "respingere"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "disorder",
+    "back": [
+      "disturbo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "dispute",
+    "back": [
+      "controversie"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "distant",
+    "back": [
+      "lontano"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "distinction",
+    "back": [
+      "distinzione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "district",
+    "back": [
+      "quartiere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "dominant",
+    "back": [
+      "dominante"
+    ],
+    "level": "C1"
+  },
+  {
+    "front": "dominate",
+    "back": [
+      "dominato"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "downtown",
+    "back": [
+      "centro"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "draft",
+    "back": [
+      "bozza"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "drama",
+    "back": [
+      "Dramma"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "draw",
+    "back": [
+      "disegnare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "drawing",
+    "back": [
+      "disegno"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "dress",
+    "back": [
+      "vestito"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "driver",
+    "back": [
+      "autista"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "drop",
+    "back": [
+      "far cadere"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "eager",
+    "back": [
+      "desideroso"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "earn",
+    "back": [
+      "guadagnare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "earnings",
+    "back": [
+      "guadagni"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "ease",
+    "back": [
+      "sollievo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "eastern",
+    "back": [
+      "orientale"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "economics",
+    "back": [
+      "economia"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "education",
+    "back": [
+      "formazione scolastica"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "effective",
+    "back": [
+      "efficace"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "efficiency",
+    "back": [
+      "efficienza"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "either",
+    "back": [
+      "o"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "elderly",
+    "back": [
+      "anziano"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "else",
+    "back": [
+      "altro"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "elsewhere",
+    "back": [
+      "altrove"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "embrace",
+    "back": [
+      "abbraccio"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "emotional",
+    "back": [
+      "emotivo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "employ",
+    "back": [
+      "impiegare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "employee",
+    "back": [
+      "dipendente"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "employer",
+    "back": [
+      "datore di lavoro"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "employment",
+    "back": [
+      "occupazione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "encounter",
+    "back": [
+      "incontrare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "enforcement",
+    "back": [
+      "rinforzo"
+    ],
+    "level": null
+  },
+  {
+    "front": "engage",
+    "back": [
+      "ingaggiare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "engineering",
+    "back": [
+      "ingegneria"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "enhance",
+    "back": [
+      "migliorare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "enjoy",
+    "back": [
+      "godere",
+      "gustare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "enter",
+    "back": [
+      "accedere"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "enterprise",
+    "back": [
+      "impresa"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "entry",
+    "back": [
+      "iscrizione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "environmental",
+    "back": [
+      "ambientale"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "equal",
+    "back": [
+      "pari"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "equipment",
+    "back": [
+      "attrezzatura"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "escape",
+    "back": [
+      "fuga"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "essay",
+    "back": [
+      "tema"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "establishment",
+    "back": [
+      "istituzione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "estate",
+    "back": [
+      "proprietà"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "ethnic",
+    "back": [
+      "etnico"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "evaluation",
+    "back": [
+      "valutazione"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "even",
+    "back": [
+      "anche"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "evening",
+    "back": [
+      "sera"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "eventually",
+    "back": [
+      "infine"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "everything",
+    "back": [
+      "Tutto quanto"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "everywhere",
+    "back": [
+      "da tutte le parti"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "exactly",
+    "back": [
+      "Esattamente"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "examination",
+    "back": [
+      "visita medica"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "exceed",
+    "back": [
+      "superare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "except",
+    "back": [
+      "tranne"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "exchange",
+    "back": [
+      "scambio"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "exhibit",
+    "back": [
+      "mostra"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "exhibition",
+    "back": [
+      "mostra"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "existing",
+    "back": [
+      "esistente"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "expect",
+    "back": [
+      "aspettarsi"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "expensive",
+    "back": [
+      "caro"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "experiment",
+    "back": [
+      "sperimentare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "express",
+    "back": [
+      "esprimere"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "extensive",
+    "back": [
+      "esteso"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "extent",
+    "back": [
+      "estensione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "fabric",
+    "back": [
+      "tessuto"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "facility",
+    "back": [
+      "servizio",
+      "struttura"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "factory",
+    "back": [
+      "fabbrica"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "fail",
+    "back": [
+      "fallire"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "fairly",
+    "back": [
+      "abbastanza"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "faith",
+    "back": [
+      "fede"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "fall",
+    "back": [
+      "autunno"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "farmer",
+    "back": [
+      "contadino"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "fashion",
+    "back": [
+      "moda"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "favorite",
+    "back": [
+      "preferito"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "feature",
+    "back": [
+      "caratteristica"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "feed",
+    "back": [
+      "alimentazione"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "feel",
+    "back": [
+      "Tatto"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "fellow",
+    "back": [
+      "compagno"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "female",
+    "back": [
+      "femmina"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "fence",
+    "back": [
+      "recinzione"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "fiction",
+    "back": [
+      "finzione"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "fight",
+    "back": [
+      "combattimento"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "fighting",
+    "back": [
+      "battagliero"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "financial",
+    "back": [
+      "finanziario"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "find",
+    "back": [
+      "trova"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "firm",
+    "back": [
+      "ditta"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "fishing",
+    "back": [
+      "pesca"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "fit",
+    "back": [
+      "in forma"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "fitness",
+    "back": [
+      "fitness"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "fix",
+    "back": [
+      "aggiustare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "flame",
+    "back": [
+      "fiamma"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "flat",
+    "back": [
+      "piatto"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "flavor",
+    "back": [
+      "gusto"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "flee",
+    "back": [
+      "fuggire"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "flesh",
+    "back": [
+      "carne"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "float",
+    "back": [
+      "galleggiante"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "floor",
+    "back": [
+      "pavimento"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "focus",
+    "back": [
+      "messa a fuoco"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "folk",
+    "back": [
+      "gente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "following",
+    "back": [
+      "a seguire"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "force",
+    "back": [
+      "forza"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "foreign",
+    "back": [
+      "straniera"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "form",
+    "back": [
+      "modulo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "former",
+    "back": [
+      "ex"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "forth",
+    "back": [
+      "via"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "forward",
+    "back": [
+      "inoltrare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "frame",
+    "back": [
+      "portafoto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "framework",
+    "back": [
+      "struttura"
+    ],
+    "level": null
+  },
+  {
+    "front": "free",
+    "back": [
+      "gratuito"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "friendly",
+    "back": [
+      "amichevole"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "from",
+    "back": [
+      "a partire dal"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "front",
+    "back": [
+      "davanti"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "full",
+    "back": [
+      "completo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "fully",
+    "back": [
+      "completamente"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "fund",
+    "back": [
+      "finanziare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "funding",
+    "back": [
+      "finanziamento"
+    ],
+    "level": null
+  },
+  {
+    "front": "furniture",
+    "back": [
+      "Arredamento"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "furthermore",
+    "back": [
+      "per di più"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "gain",
+    "back": [
+      "guadagno"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "gap",
+    "back": [
+      "spacco"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "garage",
+    "back": [
+      "box auto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "gate",
+    "back": [
+      "cancello"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "gather",
+    "back": [
+      "raccogliere"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "gaze",
+    "back": [
+      "sguardo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "gear",
+    "back": [
+      "Ingranaggio"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "gender",
+    "back": [
+      "Genere"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "generally",
+    "back": [
+      "in genere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "generate",
+    "back": [
+      "creare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "gentleman",
+    "back": [
+      "signore"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "gently",
+    "back": [
+      "delicatamente"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "gesture",
+    "back": [
+      "gesto"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "gifted",
+    "back": [
+      "dotato"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "girlfriend",
+    "back": [
+      "fidanzata"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "glance",
+    "back": [
+      "occhiata"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "glass",
+    "back": [
+      "bicchiere"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "glove",
+    "back": [
+      "guanto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "governor",
+    "back": [
+      "governatore"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "grab",
+    "back": [
+      "preda"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "grade",
+    "back": [
+      "grado"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "graduate",
+    "back": [
+      "laureato"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "grain",
+    "back": [
+      "grano"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "grand",
+    "back": [
+      "mille dollari"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "grant",
+    "back": [
+      "concedere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "grocery",
+    "back": [
+      "drogheria"
+    ],
+    "level": null
+  },
+  {
+    "front": "ground",
+    "back": [
+      "terreno"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "guarantee",
+    "back": [
+      "garanzia"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "guess",
+    "back": [
+      "indovinare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "guideline",
+    "back": [
+      "orientamento"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "guy",
+    "back": [
+      "tipo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "habit",
+    "back": [
+      "abitudine"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "hall",
+    "back": [
+      "sala"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "handful",
+    "back": [
+      "manciata"
+    ],
+    "level": null
+  },
+  {
+    "front": "handle",
+    "back": [
+      "maneggiare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "hang",
+    "back": [
+      "appendere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "happen",
+    "back": [
+      "accadere"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "hard",
+    "back": [
+      "duro"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "headline",
+    "back": [
+      "titolo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "headquarters",
+    "back": [
+      "Sede centrale"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "healthy",
+    "back": [
+      "sano"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "hearing",
+    "back": [
+      "udito"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "heat",
+    "back": [
+      "calore"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "heavily",
+    "back": [
+      "pesantemente"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "heel",
+    "back": [
+      "tacco"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "her",
+    "back": [
+      "sua"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "here",
+    "back": [
+      "qui"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "heritage",
+    "back": [
+      "eredità"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "herself",
+    "back": [
+      "se stessa"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "hip",
+    "back": [
+      "anca"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "historian",
+    "back": [
+      "storico"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "hold",
+    "back": [
+      "presa"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "hole",
+    "back": [
+      "Foro"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "holy",
+    "back": [
+      "Santo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "homeless",
+    "back": [
+      "senzatetto"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "host",
+    "back": [
+      "ospite"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "hot",
+    "back": [
+      "piccante"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "household",
+    "back": [
+      "domestico"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "housing",
+    "back": [
+      "alloggio"
+    ],
+    "level": null
+  },
+  {
+    "front": "huge",
+    "back": [
+      "enorme"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "humor",
+    "back": [
+      "umorismo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "hurt",
+    "back": [
+      "male"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "ie",
+    "back": [
+      "cioè"
+    ],
+    "level": null
+  },
+  {
+    "front": "imagine",
+    "back": [
+      "immaginare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "immediately",
+    "back": [
+      "subito"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "implement",
+    "back": [
+      "strumento"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "implication",
+    "back": [
+      "coinvolgimento"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "importance",
+    "back": [
+      "importanza"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "impress",
+    "back": [
+      "impressionare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "impressive",
+    "back": [
+      "degno di nota"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "improve",
+    "back": [
+      "Ottimizzare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "in",
+    "back": [
+      "in"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "including",
+    "back": [
+      "Compreso"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "income",
+    "back": [
+      "reddito"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "increase",
+    "back": [
+      "aumento"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "increased",
+    "back": [
+      "è aumentato"
+    ],
+    "level": null
+  },
+  {
+    "front": "increasing",
+    "back": [
+      "crescente"
+    ],
+    "level": null
+  },
+  {
+    "front": "increasingly",
+    "back": [
+      "sempre più"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "independence",
+    "back": [
+      "indipendenza"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "inflation",
+    "back": [
+      "inflazione"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "influence",
+    "back": [
+      "influenza"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "inform",
+    "back": [
+      "far sapere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "injury",
+    "back": [
+      "lesione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "inner",
+    "back": [
+      "interno"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "inquiry",
+    "back": [
+      "inchiesta"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "insight",
+    "back": [
+      "intuizione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "instance",
+    "back": [
+      "esempio"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "instead",
+    "back": [
+      "Invece"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "instruction",
+    "back": [
+      "istruzione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "intend",
+    "back": [
+      "avere intenzione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "interpret",
+    "back": [
+      "interpretare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "into",
+    "back": [
+      "in"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "introduce",
+    "back": [
+      "introdurre"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "introduction",
+    "back": [
+      "introduzione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "investigate",
+    "back": [
+      "indagare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "investigation",
+    "back": [
+      "indagine"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "iron",
+    "back": [
+      "ferro da stiro"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "Israeli",
+    "back": [
+      "israeliano"
+    ],
+    "level": null
+  },
+  {
+    "front": "item",
+    "back": [
+      "articolo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "itself",
+    "back": [
+      "si"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "jail",
+    "back": [
+      "prigione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "Jew",
+    "back": [
+      "ebreo"
+    ],
+    "level": null
+  },
+  {
+    "front": "Jewish",
+    "back": [
+      "ebreo"
+    ],
+    "level": null
+  },
+  {
+    "front": "join",
+    "back": [
+      "aderire"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "joint",
+    "back": [
+      "giunto"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "journal",
+    "back": [
+      "rivista"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "journey",
+    "back": [
+      "viaggio"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "judgment",
+    "back": [
+      "giudizio"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "justify",
+    "back": [
+      "giustificare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "kid",
+    "back": [
+      "ragazzo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "kill",
+    "back": [
+      "uccisione"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "labor",
+    "back": [
+      "lavoro"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "lack",
+    "back": [
+      "la mancanza"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "lady",
+    "back": [
+      "signora"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "language",
+    "back": [
+      "linguaggio"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "lap",
+    "back": [
+      "giro"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "large",
+    "back": [
+      "grande"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "largely",
+    "back": [
+      "in gran parte"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "later",
+    "back": [
+      "dopo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "latter",
+    "back": [
+      "quest'ultimo"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "launch",
+    "back": [
+      "lanciare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "lawn",
+    "back": [
+      "Prato"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "lawsuit",
+    "back": [
+      "causa"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "lay",
+    "back": [
+      "posare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "lead",
+    "back": [
+      "guida"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "leadership",
+    "back": [
+      "comando"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "leading",
+    "back": [
+      "primo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "lean",
+    "back": [
+      "pendere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "learning",
+    "back": [
+      "apprendimento"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "least",
+    "back": [
+      "meno"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "leather",
+    "back": [
+      "pelle"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "leave",
+    "back": [
+      "partire"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "legacy",
+    "back": [
+      "eredità"
+    ],
+    "level": "C1"
+  },
+  {
+    "front": "legend",
+    "back": [
+      "leggenda"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "library",
+    "back": [
+      "biblioteca"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "lie",
+    "back": [
+      "menzogna"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "lifetime",
+    "back": [
+      "tutta la vita"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "lift",
+    "back": [
+      "sollevamento"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "light",
+    "back": [
+      "leggero"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "like",
+    "back": [
+      "Come"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "lip",
+    "back": [
+      "labbro"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "list",
+    "back": [
+      "elenco"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "literary",
+    "back": [
+      "letterario"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "little",
+    "back": [
+      "poco"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "live",
+    "back": [
+      "abitare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "living",
+    "back": [
+      "vita"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "loan",
+    "back": [
+      "prestito"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "locate",
+    "back": [
+      "individuare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "location",
+    "back": [
+      "Posizione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "lock",
+    "back": [
+      "serratura"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "look",
+    "back": [
+      "Guarda"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "loose",
+    "back": [
+      "sciolto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "lost",
+    "back": [
+      "perduto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "lot",
+    "back": [
+      "quantità"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "loud",
+    "back": [
+      "ad alta voce"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "love",
+    "back": [
+      "amore"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "lovely",
+    "back": [
+      "amabile"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "lower",
+    "back": [
+      "inferiore"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "lucky",
+    "back": [
+      "fortunato"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "lunch",
+    "back": [
+      "il pranzo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "lung",
+    "back": [
+      "polmone"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "mad",
+    "back": [
+      "pazzo"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "mail",
+    "back": [
+      "posta"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "mainly",
+    "back": [
+      "principalmente"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "maker",
+    "back": [
+      "creatore"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "male",
+    "back": [
+      "maschio"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "management",
+    "back": [
+      "gestione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "manufacturer",
+    "back": [
+      "produttore"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "manufacturing",
+    "back": [
+      "produzione"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "map",
+    "back": [
+      "carta geografica"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "mark",
+    "back": [
+      "segnare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "market",
+    "back": [
+      "mercato"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "marry",
+    "back": [
+      "sposare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "mass",
+    "back": [
+      "messa"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "massive",
+    "back": [
+      "massiccio"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "match",
+    "back": [
+      "incontro"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "matter",
+    "back": [
+      "questione"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "may",
+    "back": [
+      "Maggio"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "mayor",
+    "back": [
+      "Sindaco"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "meanwhile",
+    "back": [
+      "nel frattempo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "measure",
+    "back": [
+      "misurare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "medical",
+    "back": [
+      "medico"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "medication",
+    "back": [
+      "farmaco"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "membership",
+    "back": [
+      "appartenenza"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "mention",
+    "back": [
+      "citare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "mere",
+    "back": [
+      "semplice"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "merely",
+    "back": [
+      "semplicemente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "mess",
+    "back": [
+      "disordine"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "mine",
+    "back": [
+      "mio"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "miss",
+    "back": [
+      "Perdere"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "mistake",
+    "back": [
+      "sbaglio"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "mix",
+    "back": [
+      "mescolare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "mixture",
+    "back": [
+      "miscela"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "mode",
+    "back": [
+      "modalità"
+    ],
+    "level": null
+  },
+  {
+    "front": "monitor",
+    "back": [
+      "tenere sotto controllo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "mood",
+    "back": [
+      "umore"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "moreover",
+    "back": [
+      "Inoltre"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "mortgage",
+    "back": [
+      "mutuo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "most",
+    "back": [
+      "maggior parte"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "mostly",
+    "back": [
+      "soprattutto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "mother",
+    "back": [
+      "madre"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "motion",
+    "back": [
+      "movimento"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "motor",
+    "back": [
+      "il motore"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "mount",
+    "back": [
+      "montare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "move",
+    "back": [
+      "spostare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "Mr",
+    "back": [
+      "Sig"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "much",
+    "back": [
+      "tanto"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "Muslim",
+    "back": [
+      "musulmano"
+    ],
+    "level": null
+  },
+  {
+    "front": "must",
+    "back": [
+      "dovere"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "mutual",
+    "back": [
+      "reciproco"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "nearby",
+    "back": [
+      "qui vicino"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "nearly",
+    "back": [
+      "quasi"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "negotiation",
+    "back": [
+      "negoziazione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "neighborhood",
+    "back": [
+      "quartiere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "neither",
+    "back": [
+      "nessuno dei due"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "nerve",
+    "back": [
+      "nervo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "net",
+    "back": [
+      "netto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "nevertheless",
+    "back": [
+      "tuttavia"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "newly",
+    "back": [
+      "di recente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "news",
+    "back": [
+      "notizia"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "newspaper",
+    "back": [
+      "giornale quotidiano"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "nice",
+    "back": [
+      "simpatico"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "nod",
+    "back": [
+      "cenno"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "nomination",
+    "back": [
+      "nomina"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "nonetheless",
+    "back": [
+      "ciò nonostante"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "nor",
+    "back": [
+      "né"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "normally",
+    "back": [
+      "normalmente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "northern",
+    "back": [
+      "settentrionale"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "notice",
+    "back": [
+      "avviso"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "novel",
+    "back": [
+      "romanzo"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "now",
+    "back": [
+      "Ora"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "n't",
+    "back": [
+      "no"
+    ],
+    "level": null
+  },
+  {
+    "front": "nurse",
+    "back": [
+      "infermiera"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "nut",
+    "back": [
+      "Noce"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "objective",
+    "back": [
+      "obbiettivo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "obvious",
+    "back": [
+      "ovvio"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "occur",
+    "back": [
+      "verificarsi"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "odd",
+    "back": [
+      "strano"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "odds",
+    "back": [
+      "probabilità"
+    ],
+    "level": null
+  },
+  {
+    "front": "official",
+    "back": [
+      "ufficiale"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "okay",
+    "back": [
+      "va bene"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "on",
+    "back": [
+      "Su"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "online",
+    "back": [
+      "in linea"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "only",
+    "back": [
+      "soltanto"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "open",
+    "back": [
+      "aprire"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "opening",
+    "back": [
+      "apertura"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "oppose",
+    "back": [
+      "opporsi"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "opposite",
+    "back": [
+      "di fronte"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "organic",
+    "back": [
+      "biologico"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "originally",
+    "back": [
+      "originariamente"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "ought",
+    "back": [
+      "dovrebbe"
+    ],
+    "level": null
+  },
+  {
+    "front": "outcome",
+    "back": [
+      "risultato"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "outside",
+    "back": [
+      "al di fuori"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "oven",
+    "back": [
+      "forno"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "over",
+    "back": [
+      "terminato"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "overall",
+    "back": [
+      "globale"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "overlook",
+    "back": [
+      "trascurare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "owe",
+    "back": [
+      "essere debitore"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "own",
+    "back": [
+      "possedere"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "owner",
+    "back": [
+      "proprietario"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "pace",
+    "back": [
+      "ritmo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "pack",
+    "back": [
+      "pacchetto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "package",
+    "back": [
+      "pacchetto"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "painful",
+    "back": [
+      "doloroso"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "paint",
+    "back": [
+      "dipingere"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "painting",
+    "back": [
+      "la pittura"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "pair",
+    "back": [
+      "coppia"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "pale",
+    "back": [
+      "pallido"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "pan",
+    "back": [
+      "padella"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "pant",
+    "back": [
+      "ansimare"
+    ],
+    "level": null
+  },
+  {
+    "front": "paper",
+    "back": [
+      "carta"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "participate",
+    "back": [
+      "partecipare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "particularly",
+    "back": [
+      "particolarmente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "partly",
+    "back": [
+      "in parte"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "partnership",
+    "back": [
+      "collaborazione"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "party",
+    "back": [
+      "partito"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "pass",
+    "back": [
+      "passaggio"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "patch",
+    "back": [
+      "toppa"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "pattern",
+    "back": [
+      "modello"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "peak",
+    "back": [
+      "picco"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "peer",
+    "back": [
+      "pari"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "penalty",
+    "back": [
+      "pena"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "performance",
+    "back": [
+      "prestazione"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "permission",
+    "back": [
+      "autorizzazione"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "physically",
+    "back": [
+      "fisicamente"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "physician",
+    "back": [
+      "medico"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "piano",
+    "back": [
+      "pianoforte"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "pick",
+    "back": [
+      "scegliere"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "pile",
+    "back": [
+      "mucchio"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "pitch",
+    "back": [
+      "montare",
+      "piantare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "planning",
+    "back": [
+      "pianificazione"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "plenty",
+    "back": [
+      "abbondanza"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "plot",
+    "back": [
+      "complotto"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "PM",
+    "back": [
+      "pomeridiano"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "pole",
+    "back": [
+      "palo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "police",
+    "back": [
+      "Polizia Stradale"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "policy",
+    "back": [
+      "politica"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "poll",
+    "back": [
+      "sondaggio"
+    ],
+    "level": null
+  },
+  {
+    "front": "pool",
+    "back": [
+      "piscina"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "porch",
+    "back": [
+      "portico"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "portray",
+    "back": [
+      "ritrarre"
+    ],
+    "level": "C1"
+  },
+  {
+    "front": "possibly",
+    "back": [
+      "possibilmente"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "post",
+    "back": [
+      "inviare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "pot",
+    "back": [
+      "pentola"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "potentially",
+    "back": [
+      "potenzialmente"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "pound",
+    "back": [
+      "libbra"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "pour",
+    "back": [
+      "versare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "powder",
+    "back": [
+      "polvere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "prayer",
+    "back": [
+      "preghiera"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "predict",
+    "back": [
+      "prevedere"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "pregnancy",
+    "back": [
+      "gravidanza"
+    ],
+    "level": null
+  },
+  {
+    "front": "present",
+    "back": [
+      "regalo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "preserve",
+    "back": [
+      "conserva"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "press",
+    "back": [
+      "premere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "pretend",
+    "back": [
+      "far finta"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "pretty",
+    "back": [
+      "bello"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "previously",
+    "back": [
+      "in precedenza"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "priest",
+    "back": [
+      "sacerdote"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "primarily",
+    "back": [
+      "in primis"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "principle",
+    "back": [
+      "principio"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "prior",
+    "back": [
+      "prima"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "privacy",
+    "back": [
+      "privacy"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "prominent",
+    "back": [
+      "prominente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "promise",
+    "back": [
+      "promettere"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "proper",
+    "back": [
+      "corretto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "prosecutor",
+    "back": [
+      "procuratore"
+    ],
+    "level": null
+  },
+  {
+    "front": "proud",
+    "back": [
+      "orgoglioso"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "prove",
+    "back": [
+      "dimostrare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "provider",
+    "back": [
+      "fornitore"
+    ],
+    "level": null
+  },
+  {
+    "front": "provision",
+    "back": [
+      "disposizione"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "publisher",
+    "back": [
+      "editore"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "pull",
+    "back": [
+      "tiro"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "pursue",
+    "back": [
+      "perseguire"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "qualify",
+    "back": [
+      "qualificarsi"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "quarter",
+    "back": [
+      "trimestre"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "quick",
+    "back": [
+      "Presto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "quickly",
+    "back": [
+      "rapidamente"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "quiet",
+    "back": [
+      "tranquillo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "quietly",
+    "back": [
+      "tranquillamente"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "quit",
+    "back": [
+      "uscire"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "quite",
+    "back": [
+      "piuttosto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "quote",
+    "back": [
+      "Citazione"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "race",
+    "back": [
+      "corsa"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "racial",
+    "back": [
+      "razziale"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "radio",
+    "back": [
+      "Radio"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "rail",
+    "back": [
+      "recintare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "rain",
+    "back": [
+      "piovere",
+      "pioggia"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "raise",
+    "back": [
+      "raccogliere"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "range",
+    "back": [
+      "gamma"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "rank",
+    "back": [
+      "classifica"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "rate",
+    "back": [
+      "valutare",
+      "tasso",
+      "tariffa"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "rating",
+    "back": [
+      "valutazione"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "ratio",
+    "back": [
+      "rapporto"
+    ],
+    "level": null
+  },
+  {
+    "front": "real",
+    "back": [
+      "vero"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "realize",
+    "back": [
+      "rendersi conto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "really",
+    "back": [
+      "veramente"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "recipe",
+    "back": [
+      "ricetta"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "recognition",
+    "back": [
+      "riconoscimento"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "recommend",
+    "back": [
+      "consiglio"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "record",
+    "back": [
+      "disco"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "recording",
+    "back": [
+      "registrazione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "recovery",
+    "back": [
+      "recupero"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "reduction",
+    "back": [
+      "riduzione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "refer",
+    "back": [
+      "fare riferimento"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "reference",
+    "back": [
+      "riferimento"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "reflection",
+    "back": [
+      "riflessione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "refugee",
+    "back": [
+      "profugo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "regard",
+    "back": [
+      "considerare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "regarding",
+    "back": [
+      "per quanto riguarda"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "regardless",
+    "back": [
+      "indipendentemente"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "regulation",
+    "back": [
+      "regolamento"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "reject",
+    "back": [
+      "rifiutare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "relate",
+    "back": [
+      "relazionare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "relative",
+    "back": [
+      "parente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "release",
+    "back": [
+      "pubblicazione"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "relevant",
+    "back": [
+      "pertinente"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "relief",
+    "back": [
+      "sollievo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "rely",
+    "back": [
+      "fare affidamento"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "remaining",
+    "back": [
+      "rimanente"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "remarkable",
+    "back": [
+      "notevole"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "remote",
+    "back": [
+      "a distanza"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "repeatedly",
+    "back": [
+      "ripetutamente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "report",
+    "back": [
+      "rapporto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "reporter",
+    "back": [
+      "reporter"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "representation",
+    "back": [
+      "rappresentazione"
+    ],
+    "level": null
+  },
+  {
+    "front": "representative",
+    "back": [
+      "rappresentante"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "Republican",
+    "back": [
+      "Repubblicano"
+    ],
+    "level": null
+  },
+  {
+    "front": "requirement",
+    "back": [
+      "Requisiti"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "research",
+    "back": [
+      "ricerca"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "resemble",
+    "back": [
+      "somigliare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "resort",
+    "back": [
+      "ricorrere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "respondent",
+    "back": [
+      "rispondente"
+    ],
+    "level": null
+  },
+  {
+    "front": "rest",
+    "back": [
+      "riposo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "restore",
+    "back": [
+      "ristabilire"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "retain",
+    "back": [
+      "conservare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "retire",
+    "back": [
+      "andare in pensione"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "retirement",
+    "back": [
+      "la pensione"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "return",
+    "back": [
+      "Restituzione"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "reveal",
+    "back": [
+      "svelare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "revenue",
+    "back": [
+      "reddito"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "review",
+    "back": [
+      "recensione"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "rid",
+    "back": [
+      "sbarazzarsi"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "ride",
+    "back": [
+      "giro"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "rifle",
+    "back": [
+      "fucile"
+    ],
+    "level": null
+  },
+  {
+    "front": "rise",
+    "back": [
+      "salita"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "rock",
+    "back": [
+      "musica rock"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "roll",
+    "back": [
+      "Rotolo"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "room",
+    "back": [
+      "Camera"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "rough",
+    "back": [
+      "ruvido"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "roughly",
+    "back": [
+      "all'incirca"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "round",
+    "back": [
+      "il giro"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "routine",
+    "back": [
+      "routine"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "row",
+    "back": [
+      "riga"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "rub",
+    "back": [
+      "strofinare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "rule",
+    "back": [
+      "regola"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "running",
+    "back": [
+      "in esecuzione"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "sacred",
+    "back": [
+      "sacro"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "salad",
+    "back": [
+      "insalata"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "salary",
+    "back": [
+      "stipendio"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "sale",
+    "back": [
+      "saldi"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "sales",
+    "back": [
+      "saldi"
+    ],
+    "level": null
+  },
+  {
+    "front": "satellite",
+    "back": [
+      "satellitare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "saving",
+    "back": [
+      "Salvataggio"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "scared",
+    "back": [
+      "impaurito"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "schedule",
+    "back": [
+      "programma",
+      "programmare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "scholar",
+    "back": [
+      "studioso"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "scholarship",
+    "back": [
+      "Borsa di studio"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "score",
+    "back": [
+      "punto"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "scream",
+    "back": [
+      "grido"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "script",
+    "back": [
+      "sceneggiatura"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "search",
+    "back": [
+      "ricerca"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "season",
+    "back": [
+      "stagione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "seat",
+    "back": [
+      "posto a sedere"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "secure",
+    "back": [
+      "sicuro"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "seed",
+    "back": [
+      "seme"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "seize",
+    "back": [
+      "prendere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "select",
+    "back": [
+      "Selezionare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "self",
+    "back": [
+      "se stesso"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "senior",
+    "back": [
+      "anziano"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "sensitive",
+    "back": [
+      "sensibile"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "separate",
+    "back": [
+      "separato"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "serious",
+    "back": [
+      "grave"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "seriously",
+    "back": [
+      "sul serio"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "setting",
+    "back": [
+      "collocamento"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "settle",
+    "back": [
+      "fissare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "settlement",
+    "back": [
+      "insediamento"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "several",
+    "back": [
+      "parecchi"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "severe",
+    "back": [
+      "acuto"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "shall",
+    "back": [
+      "deve"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "sheet",
+    "back": [
+      "lenzuolo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "shelf",
+    "back": [
+      "lo scaffale"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "shelter",
+    "back": [
+      "riparo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "shine",
+    "back": [
+      "brillare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "shirt",
+    "back": [
+      "camicia"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "shock",
+    "back": [
+      "shock"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "shooting",
+    "back": [
+      "tiro"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "shopping",
+    "back": [
+      "shopping"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "shore",
+    "back": [
+      "costa"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "short",
+    "back": [
+      "breve"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "shortly",
+    "back": [
+      "in breve"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "should",
+    "back": [
+      "dovrebbe"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "shout",
+    "back": [
+      "urlo"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "shrug",
+    "back": [
+      "scrollare le spalle"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "shut",
+    "back": [
+      "chiuso"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "sigh",
+    "back": [
+      "sospiro"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "sight",
+    "back": [
+      "vista"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "sign",
+    "back": [
+      "cartello"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "significant",
+    "back": [
+      "significativo"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "significantly",
+    "back": [
+      "in modo significativo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "silent",
+    "back": [
+      "silenzioso"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "silver",
+    "back": [
+      "d'argento"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "similarly",
+    "back": [
+      "allo stesso modo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "simply",
+    "back": [
+      "semplicemente"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "sin",
+    "back": [
+      "peccato"
+    ],
+    "level": null
+  },
+  {
+    "front": "sing",
+    "back": [
+      "cantare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "sink",
+    "back": [
+      "Lavello"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "sit",
+    "back": [
+      "sedersi"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "site",
+    "back": [
+      "posto"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "size",
+    "back": [
+      "dimensione"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "ski",
+    "back": [
+      "sciare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "skin",
+    "back": [
+      "pelle"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "slave",
+    "back": [
+      "Schiavo"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "slide",
+    "back": [
+      "diapositiva"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "slight",
+    "back": [
+      "lieve"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "slightly",
+    "back": [
+      "leggermente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "slip",
+    "back": [
+      "scontrino"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "smooth",
+    "back": [
+      "liscio"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "snap",
+    "back": [
+      "affrettato"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "so-called",
+    "back": [
+      "cosiddetto"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "soft",
+    "back": [
+      "morbido"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "soil",
+    "back": [
+      "suolo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "somehow",
+    "back": [
+      "in qualche modo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "sometimes",
+    "back": [
+      "A volte"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "somewhat",
+    "back": [
+      "un po'"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "sort",
+    "back": [
+      "ordinare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "soup",
+    "back": [
+      "la minestra"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "source",
+    "back": [
+      "fonte"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "southern",
+    "back": [
+      "meridionale"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "speaker",
+    "back": [
+      "altoparlante"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "specifically",
+    "back": [
+      "nello specifico"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "spin",
+    "back": [
+      "rotazione"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "split",
+    "back": [
+      "diviso"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "spokesman",
+    "back": [
+      "portavoce"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "spot",
+    "back": [
+      "individuare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "spread",
+    "back": [
+      "propagazione"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "squeeze",
+    "back": [
+      "stretta"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "stage",
+    "back": [
+      "palcoscenico"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "stair",
+    "back": [
+      "scala"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "stake",
+    "back": [
+      "palo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "stand",
+    "back": [
+      "In piedi"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "standing",
+    "back": [
+      "in piedi"
+    ],
+    "level": "C2"
+  },
+  {
+    "front": "stare",
+    "back": [
+      "fissare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "start",
+    "back": [
+      "cominciare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "stay",
+    "back": [
+      "restare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "steady",
+    "back": [
+      "costante"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "steal",
+    "back": [
+      "rubare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "steel",
+    "back": [
+      "acciaio"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "step",
+    "back": [
+      "fare un passo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "stick",
+    "back": [
+      "bastone"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "stir",
+    "back": [
+      "mescolata"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "stock",
+    "back": [
+      "scorta"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "stone",
+    "back": [
+      "calcolo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "stop",
+    "back": [
+      "fermare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "storage",
+    "back": [
+      "Conservazione"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "store",
+    "back": [
+      "negozio"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "stream",
+    "back": [
+      "flusso"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "strengthen",
+    "back": [
+      "rafforzare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "stress",
+    "back": [
+      "fatica"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "stretch",
+    "back": [
+      "allungare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "string",
+    "back": [
+      "corda"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "strip",
+    "back": [
+      "striscia"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "stroke",
+    "back": [
+      "ictus"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "struggle",
+    "back": [
+      "lotta"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "student",
+    "back": [
+      "alunno"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "stuff",
+    "back": [
+      "roba"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "submit",
+    "back": [
+      "Sottoscrivi"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "subsequent",
+    "back": [
+      "successivo"
+    ],
+    "level": null
+  },
+  {
+    "front": "substance",
+    "back": [
+      "sostanza"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "succeed",
+    "back": [
+      "avere successo"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "successful",
+    "back": [
+      "riuscito"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "successfully",
+    "back": [
+      "con successo"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "such",
+    "back": [
+      "tale"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "sudden",
+    "back": [
+      "improvviso"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "sue",
+    "back": [
+      "citare in giudizio"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "suggest",
+    "back": [
+      "suggerire"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "summit",
+    "back": [
+      "vertice"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "supply",
+    "back": [
+      "la fornitura"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "support",
+    "back": [
+      "sostegno"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "supporter",
+    "back": [
+      "sostenitore"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "supposed",
+    "back": [
+      "ipotetico"
+    ],
+    "level": null
+  },
+  {
+    "front": "sure",
+    "back": [
+      "Sicuro"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "surely",
+    "back": [
+      "certamente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "surgery",
+    "back": [
+      "chirurgia"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "surprising",
+    "back": [
+      "sorprendente"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "survey",
+    "back": [
+      "indagine"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "survivor",
+    "back": [
+      "sopravvissuto"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "suspect",
+    "back": [
+      "sospettare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "swear",
+    "back": [
+      "imprecare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "sweep",
+    "back": [
+      "spazzare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "swing",
+    "back": [
+      "oscillazione"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "switch",
+    "back": [
+      "interruttore"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "tablespoon",
+    "back": [
+      "cucchiaio"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "tail",
+    "back": [
+      "coda"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "tale",
+    "back": [
+      "racconto"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "tank",
+    "back": [
+      "carro armato"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "tap",
+    "back": [
+      "rubinetto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "tax",
+    "back": [
+      "imposta"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "taxpayer",
+    "back": [
+      "contribuente"
+    ],
+    "level": null
+  },
+  {
+    "front": "teaspoon",
+    "back": [
+      "cucchiaino"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "teen",
+    "back": [
+      "adolescente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "tell",
+    "back": [
+      "raccontare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "tend",
+    "back": [
+      "tende"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "testify",
+    "back": [
+      "testimoniare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "testimony",
+    "back": [
+      "testimonianza"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "testing",
+    "back": [
+      "test"
+    ],
+    "level": null
+  },
+  {
+    "front": "than",
+    "back": [
+      "di"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "theater",
+    "back": [
+      "Teatro"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "their",
+    "back": [
+      "i loro"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "then",
+    "back": [
+      "poi"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "there",
+    "back": [
+      "là"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "therefore",
+    "back": [
+      "perciò"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "these",
+    "back": [
+      "queste"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "thick",
+    "back": [
+      "di spessore"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "thin",
+    "back": [
+      "magro"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "thinking",
+    "back": [
+      "pensiero"
+    ],
+    "level": null
+  },
+  {
+    "front": "those",
+    "back": [
+      "quelli"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "though",
+    "back": [
+      "anche se"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "thousand",
+    "back": [
+      "mille"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "threat",
+    "back": [
+      "minaccia"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "threaten",
+    "back": [
+      "minacciare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "throat",
+    "back": [
+      "gola"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "throughout",
+    "back": [
+      "per tutto"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "throw",
+    "back": [
+      "gettare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "thus",
+    "back": [
+      "così"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "tie",
+    "back": [
+      "legare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "tiny",
+    "back": [
+      "minuscolo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "tire",
+    "back": [
+      "pneumatico"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "tissue",
+    "back": [
+      "fazzoletto di carta"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "to",
+    "back": [
+      "a"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "toe",
+    "back": [
+      "dito del piede"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "too",
+    "back": [
+      "pure"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "tool",
+    "back": [
+      "attrezzo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "tooth",
+    "back": [
+      "dente"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "top",
+    "back": [
+      "superiore"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "toss",
+    "back": [
+      "lanciare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "tournament",
+    "back": [
+      "torneo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "town",
+    "back": [
+      "cittadina"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "trade",
+    "back": [
+      "commercio"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "trail",
+    "back": [
+      "sentiero"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "training",
+    "back": [
+      "addestramento"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "transform",
+    "back": [
+      "trasformare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "translate",
+    "back": [
+      "tradurre"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "transportation",
+    "back": [
+      "trasporto"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "travel",
+    "back": [
+      "viaggiare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "treat",
+    "back": [
+      "trattare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "trend",
+    "back": [
+      "tendenza"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "trial",
+    "back": [
+      "processo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "trick",
+    "back": [
+      "trucco"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "trip",
+    "back": [
+      "viaggio"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "troop",
+    "back": [
+      "truppe"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "trouble",
+    "back": [
+      "guaio"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "truck",
+    "back": [
+      "camion"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "turn",
+    "back": [
+      "giro"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "twice",
+    "back": [
+      "due volte"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "type",
+    "back": [
+      "genere"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "ultimate",
+    "back": [
+      "definitivo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "ultimately",
+    "back": [
+      "in definitiva"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "understand",
+    "back": [
+      "comprendere"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "understanding",
+    "back": [
+      "comprensione"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "unless",
+    "back": [
+      "salvo che"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "unlike",
+    "back": [
+      "a differenza di"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "unlikely",
+    "back": [
+      "improbabile"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "unusual",
+    "back": [
+      "fuori dal comune"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "upon",
+    "back": [
+      "su"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "upper",
+    "back": [
+      "superiore"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "urge",
+    "back": [
+      "sollecitare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "use",
+    "back": [
+      "utilizzo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "usual",
+    "back": [
+      "solito"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "usually",
+    "back": [
+      "generalmente"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "valuable",
+    "back": [
+      "prezioso"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "vary",
+    "back": [
+      "variare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "vast",
+    "back": [
+      "vasto"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "venture",
+    "back": [
+      "avventurarsi"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "vessel",
+    "back": [
+      "nave"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "via",
+    "back": [
+      "attraverso"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "view",
+    "back": [
+      "Visualizza"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "viewer",
+    "back": [
+      "spettatore"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "virtually",
+    "back": [
+      "virtualmente"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "visit",
+    "back": [
+      "visitare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "visual",
+    "back": [
+      "visivo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "vote",
+    "back": [
+      "votazione"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "voter",
+    "back": [
+      "elettore"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "wage",
+    "back": [
+      "salario"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "wake",
+    "back": [
+      "veglia"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "wander",
+    "back": [
+      "passeggiata"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "warn",
+    "back": [
+      "avvisare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "warning",
+    "back": [
+      "avvertimento"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "way",
+    "back": [
+      "modo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "wealth",
+    "back": [
+      "ricchezza"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "wealthy",
+    "back": [
+      "ricco"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "weather",
+    "back": [
+      "tempo metereologico"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "wedding",
+    "back": [
+      "nozze"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "week",
+    "back": [
+      "settimana"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "weekend",
+    "back": [
+      "fine settimana"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "weekly",
+    "back": [
+      "settimanalmente"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "weigh",
+    "back": [
+      "pesare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "welfare",
+    "back": [
+      "benessere"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "west",
+    "back": [
+      "ovest"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "western",
+    "back": [
+      "occidentale"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "what",
+    "back": [
+      "che cosa"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "wheel",
+    "back": [
+      "ruota"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "whenever",
+    "back": [
+      "Ogni volta che"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "whereas",
+    "back": [
+      "invece"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "whisper",
+    "back": [
+      "sussurro"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "whole",
+    "back": [
+      "totale"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "whom",
+    "back": [
+      "chi"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "whose",
+    "back": [
+      "il cui",
+      "di chi"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "widely",
+    "back": [
+      "ampiamente"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "widespread",
+    "back": [
+      "molto diffuso"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "will",
+    "back": [
+      "volere"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "willing",
+    "back": [
+      "disposto"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "win",
+    "back": [
+      "vincita"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "wipe",
+    "back": [
+      "pulire"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "wire",
+    "back": [
+      "filo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "wisdom",
+    "back": [
+      "saggezza"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "wish",
+    "back": [
+      "desiderare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "with",
+    "back": [
+      "insieme a"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "within",
+    "back": [
+      "entro"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "without",
+    "back": [
+      "privo di",
+      "senza"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "witness",
+    "back": [
+      "testimonianza"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "wonder",
+    "back": [
+      "meraviglia"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "wonderful",
+    "back": [
+      "meraviglioso"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "wood",
+    "back": [
+      "Di legno"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "work",
+    "back": [
+      "opera",
+      "lavoro",
+      "lavorare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "workshop",
+    "back": [
+      "officina"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "worth",
+    "back": [
+      "di valore"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "would",
+    "back": [
+      "voluto"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "wrap",
+    "back": [
+      "avvolgere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "writing",
+    "back": [
+      "scrivere"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "yeah",
+    "back": [
+      "Sì"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "yell",
+    "back": [
+      "urlo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "yield",
+    "back": [
+      "prodotto"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "yours",
+    "back": [
+      "il vostro"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "youth",
+    "back": [
+      "gioventù"
+    ],
+    "level": "A2"
+  }
+]

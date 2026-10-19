@@ -1,0 +1,31 @@
+name: validate-data
+
+on:
+  push:
+    paths: ['data/**', 'build/**', 'assets/flags/**', '.github/workflows/validate.yml']
+  pull_request:
+    paths: ['data/**', 'build/**', 'assets/flags/**']
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install build deps
+        working-directory: build
+        run: npm ci
+      - name: Rebuild data from raw (fetches CEFR sources) and validate
+        working-directory: build
+        run: |
+          npm run build
+          npm test
+      - name: Fail if the build changed committed data
+        run: |
+          if ! git diff --quiet -- data/; then
+            echo "::error::data/ is out of date — run 'cd build && npm run build -- --offline' and commit the result."
+            git diff --stat -- data/
+            exit 1
+          fi

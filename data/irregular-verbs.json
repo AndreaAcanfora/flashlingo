@@ -1,0 +1,956 @@
+[
+  {
+    "front": "rispettare",
+    "back": [
+      "abide, abode, abode"
+    ]
+  },
+  {
+    "front": "sorgere",
+    "back": [
+      "arise, arose, arisen"
+    ]
+  },
+  {
+    "front": "svegliare",
+    "back": [
+      "awake, awoke, awoken"
+    ]
+  },
+  {
+    "front": "sopportare",
+    "back": [
+      "bear, bore, borne"
+    ]
+  },
+  {
+    "front": "battere",
+    "back": [
+      "beat, beat, beaten"
+    ]
+  },
+  {
+    "front": "diventare",
+    "back": [
+      "become, became, become"
+    ]
+  },
+  {
+    "front": "cominciare",
+    "back": [
+      "begin, began, begun"
+    ]
+  },
+  {
+    "front": "curvare, piegare",
+    "back": [
+      "bend, bent, bent"
+    ]
+  },
+  {
+    "front": "scommettere",
+    "back": [
+      "bet, bet, bet"
+    ]
+  },
+  {
+    "front": "fare un'offerta",
+    "back": [
+      "bid, bid, bid"
+    ]
+  },
+  {
+    "front": "legare",
+    "back": [
+      "bind, bound, bound"
+    ]
+  },
+  {
+    "front": "mordere",
+    "back": [
+      "bite, bit, bitten"
+    ]
+  },
+  {
+    "front": "sanguinare",
+    "back": [
+      "bleed, bled, bled"
+    ]
+  },
+  {
+    "front": "soffiare",
+    "back": [
+      "blow, blew, blown"
+    ]
+  },
+  {
+    "front": "rompere",
+    "back": [
+      "break, broke, broken"
+    ]
+  },
+  {
+    "front": "allevare",
+    "back": [
+      "breed, bred, bred"
+    ]
+  },
+  {
+    "front": "portare",
+    "back": [
+      "bring, brought, brought"
+    ]
+  },
+  {
+    "front": "lanciare (un dado)",
+    "back": [
+      "cast, cast, cast"
+    ]
+  },
+  {
+    "front": "costruire",
+    "back": [
+      "build, built, built"
+    ]
+  },
+  {
+    "front": "bruciare",
+    "back": [
+      "burn, burnt, burnt"
+    ]
+  },
+  {
+    "front": "scoppiare",
+    "back": [
+      "burst, burst, burst"
+    ]
+  },
+  {
+    "front": "comprare",
+    "back": [
+      "buy, bought, bought"
+    ]
+  },
+  {
+    "front": "catturare",
+    "back": [
+      "catch, caught, caught"
+    ]
+  },
+  {
+    "front": "scegliere",
+    "back": [
+      "choose, chose, chosen"
+    ]
+  },
+  {
+    "front": "afferrare",
+    "back": [
+      "cling, clung, clung"
+    ]
+  },
+  {
+    "front": "venire",
+    "back": [
+      "come, came, come"
+    ]
+  },
+  {
+    "front": "costare",
+    "back": [
+      "cost, cost, cost"
+    ]
+  },
+  {
+    "front": "strisciare",
+    "back": [
+      "creep, crept, crept"
+    ]
+  },
+  {
+    "front": "eliminare, tagliare",
+    "back": [
+      "cut, cut, cut"
+    ]
+  },
+  {
+    "front": "gestire (trattare)",
+    "back": [
+      "deal, dealt, dealt"
+    ]
+  },
+  {
+    "front": "scavare",
+    "back": [
+      "dig, dug, dug"
+    ]
+  },
+  {
+    "front": "fare",
+    "back": [
+      "do, did, done"
+    ]
+  },
+  {
+    "front": "disegnare",
+    "back": [
+      "draw, drew, drawn"
+    ]
+  },
+  {
+    "front": "sognare",
+    "back": [
+      "dream, dreamt, dreamt"
+    ]
+  },
+  {
+    "front": "bere",
+    "back": [
+      "drink, drank, drunk"
+    ]
+  },
+  {
+    "front": "guidare",
+    "back": [
+      "drive, drove, driven"
+    ]
+  },
+  {
+    "front": "dimorare",
+    "back": [
+      "dwell, dwelt, dwelt"
+    ]
+  },
+  {
+    "front": "mangiare",
+    "back": [
+      "eat, ate, eaten"
+    ]
+  },
+  {
+    "front": "cadere",
+    "back": [
+      "fall, fell, fallen"
+    ]
+  },
+  {
+    "front": "nutrire",
+    "back": [
+      "feed, fed, fed"
+    ]
+  },
+  {
+    "front": "sentire",
+    "back": [
+      "feel, felt, felt"
+    ]
+  },
+  {
+    "front": "combattere",
+    "back": [
+      "fight, fought, fought"
+    ]
+  },
+  {
+    "front": "trovare",
+    "back": [
+      "find, found, found"
+    ]
+  },
+  {
+    "front": "fuggire",
+    "back": [
+      "flee, fled, fled"
+    ]
+  },
+  {
+    "front": "lanciare (con forza)",
+    "back": [
+      "fling, flung, flung"
+    ]
+  },
+  {
+    "front": "volare",
+    "back": [
+      "fly, flew, flown"
+    ]
+  },
+  {
+    "front": "vietare",
+    "back": [
+      "forbid, forbade, forbidden"
+    ]
+  },
+  {
+    "front": "dimenticare",
+    "back": [
+      "forget, forgot, forgotten"
+    ]
+  },
+  {
+    "front": "perdonare",
+    "back": [
+      "forgive, forgave, forgiven"
+    ]
+  },
+  {
+    "front": "ghiacciare",
+    "back": [
+      "freeze, froze, frozen"
+    ]
+  },
+  {
+    "front": "ottenere, diventare",
+    "back": [
+      "get, got, got"
+    ]
+  },
+  {
+    "front": "dare",
+    "back": [
+      "give, gave, given"
+    ]
+  },
+  {
+    "front": "andare",
+    "back": [
+      "go, went, gone"
+    ]
+  },
+  {
+    "front": "macinare",
+    "back": [
+      "grind, ground, ground"
+    ]
+  },
+  {
+    "front": "produrre (coltivare)",
+    "back": [
+      "grow, grew, grown"
+    ]
+  },
+  {
+    "front": "appendere",
+    "back": [
+      "hang, hung, hung"
+    ]
+  },
+  {
+    "front": "avere",
+    "back": [
+      "have, had, had"
+    ]
+  },
+  {
+    "front": "udire",
+    "back": [
+      "hear, heard, heard"
+    ]
+  },
+  {
+    "front": "nascondere",
+    "back": [
+      "hide, hid, hidden"
+    ]
+  },
+  {
+    "front": "percuotere, colpire",
+    "back": [
+      "hit, hit, hit"
+    ]
+  },
+  {
+    "front": "tenere",
+    "back": [
+      "hold, held, held"
+    ]
+  },
+  {
+    "front": "fare male",
+    "back": [
+      "hurt, hurt, hurt"
+    ]
+  },
+  {
+    "front": "conservare / mantenere",
+    "back": [
+      "keep, kept, kept"
+    ]
+  },
+  {
+    "front": "inginocchiarsi",
+    "back": [
+      "kneel, knelt, knelt"
+    ]
+  },
+  {
+    "front": "sapere",
+    "back": [
+      "know, knew, known"
+    ]
+  },
+  {
+    "front": "stendere",
+    "back": [
+      "lay, laid, laid"
+    ]
+  },
+  {
+    "front": "condurre",
+    "back": [
+      "lead, led, led"
+    ]
+  },
+  {
+    "front": "piegarsi, appoggiarsi",
+    "back": [
+      "lean, leant, leant"
+    ]
+  },
+  {
+    "front": "saltare",
+    "back": [
+      "leap, leapt, leapt"
+    ]
+  },
+  {
+    "front": "imparare",
+    "back": [
+      "learn, learnt, learnt"
+    ]
+  },
+  {
+    "front": "partire (andar via)",
+    "back": [
+      "leave, left, left"
+    ]
+  },
+  {
+    "front": "prestare",
+    "back": [
+      "lend, lent, lent"
+    ]
+  },
+  {
+    "front": "lasciare / permettere",
+    "back": [
+      "let, let, let"
+    ]
+  },
+  {
+    "front": "sdraiarsi",
+    "back": [
+      "lie, lay, lain"
+    ]
+  },
+  {
+    "front": "illuminare",
+    "back": [
+      "light, lit, lit"
+    ]
+  },
+  {
+    "front": "perdere",
+    "back": [
+      "lose, lost, lost"
+    ]
+  },
+  {
+    "front": "fare, realizzare",
+    "back": [
+      "make, made, made"
+    ]
+  },
+  {
+    "front": "significare",
+    "back": [
+      "mean, meant, meant"
+    ]
+  },
+  {
+    "front": "incontrare",
+    "back": [
+      "meet, met, met"
+    ]
+  },
+  {
+    "front": "falciare",
+    "back": [
+      "mow, mowed, mown"
+    ]
+  },
+  {
+    "front": "superare",
+    "back": [
+      "overcome, overcame, overcome"
+    ]
+  },
+  {
+    "front": "pagare",
+    "back": [
+      "pay, paid, paid"
+    ]
+  },
+  {
+    "front": "mettere",
+    "back": [
+      "put, put, put"
+    ]
+  },
+  {
+    "front": "smettere",
+    "back": [
+      "quit, quit, quit"
+    ]
+  },
+  {
+    "front": "leggere",
+    "back": [
+      "read, read, read"
+    ]
+  },
+  {
+    "front": "liberare da",
+    "back": [
+      "rid, rid, rid"
+    ]
+  },
+  {
+    "front": "andare in, cavalcare",
+    "back": [
+      "ride, rode, ridden"
+    ]
+  },
+  {
+    "front": "suonare",
+    "back": [
+      "ring, rang, rung"
+    ]
+  },
+  {
+    "front": "alzarsi",
+    "back": [
+      "rise, rose, risen"
+    ]
+  },
+  {
+    "front": "correre",
+    "back": [
+      "run, ran, run"
+    ]
+  },
+  {
+    "front": "segare",
+    "back": [
+      "saw, sawed, sawn"
+    ]
+  },
+  {
+    "front": "dire",
+    "back": [
+      "say, said, said"
+    ]
+  },
+  {
+    "front": "vedere",
+    "back": [
+      "see, saw, seen"
+    ]
+  },
+  {
+    "front": "cercare",
+    "back": [
+      "seek, sought, sought"
+    ]
+  },
+  {
+    "front": "vendere",
+    "back": [
+      "sell, sold, sold"
+    ]
+  },
+  {
+    "front": "mandare",
+    "back": [
+      "send, sent, sent"
+    ]
+  },
+  {
+    "front": "fissare",
+    "back": [
+      "set, set, set"
+    ]
+  },
+  {
+    "front": "cucire",
+    "back": [
+      "sew, sewed, sewn"
+    ]
+  },
+  {
+    "front": "scuotere",
+    "back": [
+      "shake, shook, shaken"
+    ]
+  },
+  {
+    "front": "tosare",
+    "back": [
+      "shear, sheared, shorn"
+    ]
+  },
+  {
+    "front": "spargere",
+    "back": [
+      "shed, shed, shed"
+    ]
+  },
+  {
+    "front": "brillare",
+    "back": [
+      "shine, shone, shone"
+    ]
+  },
+  {
+    "front": "ferrare i cavalli",
+    "back": [
+      "shoe, shod, shod"
+    ]
+  },
+  {
+    "front": "sparare",
+    "back": [
+      "shoot, shot, shot"
+    ]
+  },
+  {
+    "front": "mostrare",
+    "back": [
+      "show, showed, shown"
+    ]
+  },
+  {
+    "front": "ridursi",
+    "back": [
+      "shrink, shrank, shrunk"
+    ]
+  },
+  {
+    "front": "chiudere",
+    "back": [
+      "shut, shut, shut"
+    ]
+  },
+  {
+    "front": "cantare",
+    "back": [
+      "sing, sang, sung"
+    ]
+  },
+  {
+    "front": "affondare",
+    "back": [
+      "sink, sank, sunk"
+    ]
+  },
+  {
+    "front": "sedersi",
+    "back": [
+      "sit, sat, sat"
+    ]
+  },
+  {
+    "front": "dormire",
+    "back": [
+      "sleep, slept, slept"
+    ]
+  },
+  {
+    "front": "scivolare",
+    "back": [
+      "slide, slid, slid"
+    ]
+  },
+  {
+    "front": "sgattaiolare",
+    "back": [
+      "slink, slunk, slunk"
+    ]
+  },
+  {
+    "front": "tagliare",
+    "back": [
+      "slit, slit, slit"
+    ]
+  },
+  {
+    "front": "sentire odore",
+    "back": [
+      "smell, smelt, smelt"
+    ]
+  },
+  {
+    "front": "seminare",
+    "back": [
+      "sow, sowed, sown"
+    ]
+  },
+  {
+    "front": "parlare",
+    "back": [
+      "speak, spoke, spoken"
+    ]
+  },
+  {
+    "front": "accelerare",
+    "back": [
+      "speed, sped, sped"
+    ]
+  },
+  {
+    "front": "scandire",
+    "back": [
+      "spell, spelt, spelt"
+    ]
+  },
+  {
+    "front": "spendere",
+    "back": [
+      "spend, spent, spent"
+    ]
+  },
+  {
+    "front": "versare",
+    "back": [
+      "spill, spilt, spilt"
+    ]
+  },
+  {
+    "front": "sputare",
+    "back": [
+      "spit, spat, spat"
+    ]
+  },
+  {
+    "front": "spaccare",
+    "back": [
+      "split, split, split"
+    ]
+  },
+  {
+    "front": "guastare",
+    "back": [
+      "spoil, spoilt, spoilt"
+    ]
+  },
+  {
+    "front": "espandere",
+    "back": [
+      "spread, spread, spread"
+    ]
+  },
+  {
+    "front": "balzare, sorgere",
+    "back": [
+      "spring, sprang, sprung"
+    ]
+  },
+  {
+    "front": "stare in piedi",
+    "back": [
+      "stand, stood, stood"
+    ]
+  },
+  {
+    "front": "rubare",
+    "back": [
+      "steal, stole, stolen"
+    ]
+  },
+  {
+    "front": "appiccicare",
+    "back": [
+      "stick, stuck, stuck"
+    ]
+  },
+  {
+    "front": "pungere",
+    "back": [
+      "sting, stung, stung"
+    ]
+  },
+  {
+    "front": "puzzare",
+    "back": [
+      "stink, stank, stunk"
+    ]
+  },
+  {
+    "front": "avanzare a grandi passi",
+    "back": [
+      "stride, strode, stridden"
+    ]
+  },
+  {
+    "front": "colpire",
+    "back": [
+      "strike, struck, struck"
+    ]
+  },
+  {
+    "front": "sforzarsi",
+    "back": [
+      "strive, strove, striven"
+    ]
+  },
+  {
+    "front": "giurare",
+    "back": [
+      "swear, swore, sworn"
+    ]
+  },
+  {
+    "front": "spazzare",
+    "back": [
+      "sweep, swept, swept"
+    ]
+  },
+  {
+    "front": "gonfiare",
+    "back": [
+      "swell, swelled, swollen"
+    ]
+  },
+  {
+    "front": "nuotare",
+    "back": [
+      "swim, swam, swum"
+    ]
+  },
+  {
+    "front": "dondolare",
+    "back": [
+      "swing, swung, swung"
+    ]
+  },
+  {
+    "front": "prendere",
+    "back": [
+      "take, took, taken"
+    ]
+  },
+  {
+    "front": "insegnare",
+    "back": [
+      "teach, taught, taught"
+    ]
+  },
+  {
+    "front": "lacerare",
+    "back": [
+      "tear, tore, torn"
+    ]
+  },
+  {
+    "front": "dire, raccontare",
+    "back": [
+      "tell, told, told"
+    ]
+  },
+  {
+    "front": "pensare",
+    "back": [
+      "think, thought, thought"
+    ]
+  },
+  {
+    "front": "gettare, slanciare",
+    "back": [
+      "throw, threw, thrown"
+    ]
+  },
+  {
+    "front": "ficcare, forzare",
+    "back": [
+      "thrust, thrust, thrust"
+    ]
+  },
+  {
+    "front": "calpestare",
+    "back": [
+      "tread, trod, trodden"
+    ]
+  },
+  {
+    "front": "subire",
+    "back": [
+      "undergo, underwent, undergone"
+    ]
+  },
+  {
+    "front": "capire",
+    "back": [
+      "understand, understood, understood"
+    ]
+  },
+  {
+    "front": "preoccupare",
+    "back": [
+      "upset, upset, upset"
+    ]
+  },
+  {
+    "front": "svegliarsi",
+    "back": [
+      "wake, woke, woken"
+    ]
+  },
+  {
+    "front": "indossare",
+    "back": [
+      "wear, wore, worn"
+    ]
+  },
+  {
+    "front": "tessere",
+    "back": [
+      "weave, wove, woven"
+    ]
+  },
+  {
+    "front": "piangere",
+    "back": [
+      "weep, wept, wept"
+    ]
+  },
+  {
+    "front": "vincere",
+    "back": [
+      "win, won, won"
+    ]
+  },
+  {
+    "front": "avvolgere",
+    "back": [
+      "wind, wound, wound"
+    ]
+  },
+  {
+    "front": "ritirarsi",
+    "back": [
+      "withdraw, withdrew, withdrawn"
+    ]
+  },
+  {
+    "front": "torcere",
+    "back": [
+      "wring, wrung, wrung"
+    ]
+  },
+  {
+    "front": "scrivere",
+    "back": [
+      "write, wrote, written"
+    ]
+  }
+]

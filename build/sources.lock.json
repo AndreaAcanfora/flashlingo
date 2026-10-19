@@ -1,0 +1,21 @@
+{
+  "description": "External CEFR vocabulary sources used only to derive a single CEFR level label per English headword. These files are NOT committed to the repository; fetch-sources.js downloads them and verifies the SHA-256 below. They remain under their own CC BY-SA 4.0 license (see NOTICE).",
+  "sources": [
+    {
+      "file": "cefrj.csv",
+      "url": "https://raw.githubusercontent.com/openlanguageprofiles/olp-en-cefrj/master/cefrj-vocabulary-profile-1.5.csv",
+      "sha256": "b0dd3c635f1c9a4fdf1490c7e5b7c48e8bbe55b652ad0c9860a95f98e10ae498",
+      "license": "CC BY-SA 4.0",
+      "attribution": "CEFR-J Wordlist — Tono, Y. et al. (https://cefr-j.org/)",
+      "retrieved": "2026-10-19"
+    },
+    {
+      "file": "octanove.csv",
+      "url": "https://raw.githubusercontent.com/openlanguageprofiles/olp-en-cefrj/master/octanove-vocabulary-profile-c1c2-1.0.csv",
+      "sha256": "18c33a407f2f89f7b8de9671c6d45fe3ea0bce45e7d2d7dcaab48d73e0f7b380",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Octanove Vocabulary Profile C1/C2 — Octanove Labs (Open Language Profiles)",
+      "retrieved": "2026-10-19"
+    }
+  ]
+}

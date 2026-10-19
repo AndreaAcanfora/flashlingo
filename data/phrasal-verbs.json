@@ -1,0 +1,1432 @@
+[
+  {
+    "front": "be against",
+    "back": [
+      "essere contrario a"
+    ],
+    "example": "The citizens are against the new nuclear plant."
+  },
+  {
+    "front": "be away",
+    "back": [
+      "essere via (da casa, almeno per una notte)"
+    ],
+    "example": "Morgan will be away for a week."
+  },
+  {
+    "front": "be back*",
+    "back": [
+      "ritornare"
+    ],
+    "example": "I’ll be back in five minutes."
+  },
+  {
+    "front": "be in*",
+    "back": [
+      "essere in casa",
+      "in ufficio"
+    ],
+    "example": "I’m sorry but Bill isn’t in now."
+  },
+  {
+    "front": "be off*",
+    "back": [
+      "partire",
+      "andare in viaggio"
+    ],
+    "example": "When would you like to be off?"
+  },
+  {
+    "front": "be on*",
+    "back": [
+      "essere in programma (di film, spettacoli)"
+    ],
+    "example": "What’s on at the cinema next Saturday?"
+  },
+  {
+    "front": "be out",
+    "back": [
+      "essere fuori (momentaneamente)"
+    ],
+    "example": "I went to David’s house but he was out."
+  },
+  {
+    "front": "be over*",
+    "back": [
+      "terminare (di evento, partita, gioco)"
+    ],
+    "example": "The match was over by 10 p.m."
+  },
+  {
+    "front": "be through (with sb)*",
+    "back": [
+      "farla finita"
+    ],
+    "example": "I’m through with Nick! He is too jealous!"
+  },
+  {
+    "front": "be up*",
+    "back": [
+      "stare alzato",
+      "scadere (di tempo)"
+    ],
+    "example": "I’m generally up till 11 p.m. Time’s up. Stop writing, please."
+  },
+  {
+    "front": "be up to*",
+    "back": [
+      "combinare qualcosa (di negativo)",
+      "essere all’altezza"
+    ],
+    "example": "What a terrible noise! What’s Tom up to? The film wasn’t up to my expectations."
+  },
+  {
+    "front": "be up to sb",
+    "back": [
+      "toccare a qualcuno (decidere o fare)"
+    ],
+    "example": "I can’t help you. It’s up to you to decide."
+  },
+  {
+    "front": "break down",
+    "back": [
+      "rompersi (di macchine)",
+      "cedere (di nervi)"
+    ],
+    "example": "My car has broken down. I must get it fixed. When she heard the news, she broke down and began to cry."
+  },
+  {
+    "front": "break sth down*",
+    "back": [
+      "abbattere",
+      "demolire"
+    ],
+    "example": "The policemen had to break the door down to get into the flat."
+  },
+  {
+    "front": "break in / into",
+    "back": [
+      "entrare con la forza"
+    ],
+    "example": "Some burglars broke in / into my house while I was sleeping."
+  },
+  {
+    "front": "break off",
+    "back": [
+      "staccare",
+      "staccarsi"
+    ],
+    "example": "A wing of the plane suddenly broke off."
+  },
+  {
+    "front": "break sth off*",
+    "back": [
+      "interrompere (prima del previsto)"
+    ],
+    "example": "The Prime Minister broke the diplomatic mission off."
+  },
+  {
+    "front": "break out",
+    "back": [
+      "scoppiare (di guerre, incendi)"
+    ],
+    "example": "When did the First World War break out?"
+  },
+  {
+    "front": "break up",
+    "back": [
+      "terminare (di scuola, riunioni)",
+      "lasciarsi (interrompere una relazione)"
+    ],
+    "example": "I think the meeting will break up before dinner. Tim and Sally have broken up."
+  },
+  {
+    "front": "bring sth about",
+    "back": [
+      "causare"
+    ],
+    "example": "What brought about this political crisis?"
+  },
+  {
+    "front": "bring sth back",
+    "back": [
+      "richiamare alla memoria"
+    ],
+    "example": "That song brought some happy times back to me."
+  },
+  {
+    "front": "bring sb / sth back",
+    "back": [
+      "riportare"
+    ],
+    "example": "You must bring the DVD back by the end of the week."
+  },
+  {
+    "front": "bring sth out",
+    "back": [
+      "far risaltare",
+      "lanciare sul mercato"
+    ],
+    "example": "This dress brings out the colour of your eyes. The singer has just brought out his fourth album."
+  },
+  {
+    "front": "bring sb round",
+    "back": [
+      "far rinvenire"
+    ],
+    "example": "When she fainted, I tried to bring her round."
+  },
+  {
+    "front": "bring sb up",
+    "back": [
+      "allevare",
+      "crescere (di persone)"
+    ],
+    "example": "Jasmine was brought up by her grandmother."
+  },
+  {
+    "front": "bring sth up",
+    "back": [
+      "sollevare (un problema, una questione)"
+    ],
+    "example": "Please, don’t bring this matter up with your father."
+  },
+  {
+    "front": "call at/in/by (a place)*",
+    "back": [
+      "andare da, passare da (un luogo)",
+      "fare sosta",
+      "scalo (di mezzi di trasporto)"
+    ],
+    "example": "I’ll call at the newsagent’s before getting home. I don’t think this train calls at Hastings."
+  },
+  {
+    "front": "call for*",
+    "back": [
+      "passare a prendere (qualcuno",
+      "qualcosa da qualche parte)"
+    ],
+    "example": "I’ll call for you after 7 p.m."
+  },
+  {
+    "front": "call in*",
+    "back": [
+      "far venire",
+      "chiamare qualcuno"
+    ],
+    "example": "If you don’t feel well, why don’t you call in a doctor?"
+  },
+  {
+    "front": "call sth off*",
+    "back": [
+      "cancellare",
+      "annullare (un evento)"
+    ],
+    "example": "After a long discussion, they decided to call off the strike."
+  },
+  {
+    "front": "call on* sb",
+    "back": [
+      "richiedere a qualcuno (di fare qualcosa)"
+    ],
+    "example": "I will call on Dave to issue a statement about the matter."
+  },
+  {
+    "front": "carry sth off*",
+    "back": [
+      "riuscire a fare (qualcosa di difficile)"
+    ],
+    "example": "Even if Zak wasn’t well, he carried off his test very well."
+  },
+  {
+    "front": "carry on with sth*",
+    "back": [
+      "continuare a fare qualcosa"
+    ],
+    "example": "Don’t stop! Carry on with your work!"
+  },
+  {
+    "front": "carry sth out*",
+    "back": [
+      "eseguire",
+      "compiere"
+    ],
+    "example": "The scientists are carrying out an important experiment."
+  },
+  {
+    "front": "come about*",
+    "back": [
+      "succedere, verificarsi"
+    ],
+    "example": "The idea for this activity came about some years ago."
+  },
+  {
+    "front": "come across",
+    "back": [
+      "imbattersi (per caso)"
+    ],
+    "example": "On visiting the city, I came across a strange building."
+  },
+  {
+    "front": "come back",
+    "back": [
+      "ritornare"
+    ],
+    "example": "Mum has just come back from the supermarket."
+  },
+  {
+    "front": "come into",
+    "back": [
+      "ereditare"
+    ],
+    "example": "When her old aunt died, Millie came into a lot of money."
+  },
+  {
+    "front": "come out*",
+    "back": [
+      "essere pubblicato"
+    ],
+    "example": "His latest novel has come out recently."
+  },
+  {
+    "front": "come out in*",
+    "back": [
+      "coprirsi di (detto di problemi cutanei)"
+    ],
+    "example": "When I sunbathe, I always come out in a rash."
+  },
+  {
+    "front": "come round",
+    "back": [
+      "andare a trovare",
+      "far visita",
+      "riprendere conoscenza"
+    ],
+    "example": "Why don’t you come round to our new house? The boy came round a few minutes after the accident."
+  },
+  {
+    "front": "come round to",
+    "back": [
+      "cambiare opinione"
+    ],
+    "example": "My mum will never come round to my lifestyle."
+  },
+  {
+    "front": "come up",
+    "back": [
+      "succedere (inaspettatamente)"
+    ],
+    "example": "Ted is worried. Something serious must have come up."
+  },
+  {
+    "front": "come up with*",
+    "back": [
+      "suggerire un’idea",
+      "soluzione"
+    ],
+    "example": "Jason came up with a very brilliant proposal."
+  },
+  {
+    "front": "cut sth down",
+    "back": [
+      "abbattere, tagliare (di solito alberi)",
+      "ridurre"
+    ],
+    "example": "The palm tree was diseased and so they had to cut it down. You must cut down the number of sweets you eat."
+  },
+  {
+    "front": "cut sb/sth off",
+    "back": [
+      "isolare",
+      "sospendere (l’erogazione)"
+    ],
+    "example": "As I hadn’t paid the phone bill, I was cut off."
+  },
+  {
+    "front": "cut sb/sth out",
+    "back": [
+      "tagliare",
+      "ritagliare (ed escludere il superfluo)"
+    ],
+    "example": "Katia has cut this picture out of that book."
+  },
+  {
+    "front": "cut sth up",
+    "back": [
+      "tagliare in piccoli pezzi"
+    ],
+    "example": "Patty cut up the meat on her daughter’s plate."
+  },
+  {
+    "front": "do away with*",
+    "back": [
+      "sbarazzarsi di, eliminare"
+    ],
+    "example": "We should do away with all the old things in the attic."
+  },
+  {
+    "front": "do sb out of sth*",
+    "back": [
+      "non fare avere (in modo scorretto)"
+    ],
+    "example": "They’ve done Gregory out of his promotion."
+  },
+  {
+    "front": "do sth up*",
+    "back": [
+      "allacciare, abbottonare"
+    ],
+    "example": "It was cold, therefore I did my coat up."
+  },
+  {
+    "front": "do without*",
+    "back": [
+      "fare a meno"
+    ],
+    "example": "Beth can do without a baby sitter because she doesn’t work."
+  },
+  {
+    "front": "drop in on sb*",
+    "back": [
+      "fare una breve visita a qualcuno"
+    ],
+    "example": "If you pass by here, don’t forget to drop in on me."
+  },
+  {
+    "front": "drop out (of )*",
+    "back": [
+      "ritirarsi (da una prova, gara)",
+      "abbandonare tutto"
+    ],
+    "example": "Jeff dropped out of the race after few kilometres. I dropped out of university and took up painting."
+  },
+  {
+    "front": "fall behind with*",
+    "back": [
+      "avere un arretrato"
+    ],
+    "example": "George was ill, so he had fallen behind with his work."
+  },
+  {
+    "front": "fall for*",
+    "back": [
+      "essere attratti",
+      "essere ingannati"
+    ],
+    "example": "Laurie fell for Paul at first sight. How could you fall for such an absurd story?"
+  },
+  {
+    "front": "fall in with sth*",
+    "back": [
+      "essere d’accordo con"
+    ],
+    "example": "Jim fell in with my plan at once."
+  },
+  {
+    "front": "fall out (about / over)*",
+    "back": [
+      "litigare"
+    ],
+    "example": "Claire and Louise fell out about a very silly matter."
+  },
+  {
+    "front": "fall through*",
+    "back": [
+      "fallire (piani",
+      "progetti)"
+    ],
+    "example": "The project fell through because we didn’t find a good sponsor."
+  },
+  {
+    "front": "get about / around",
+    "back": [
+      "muoversi, circolare (di persone)",
+      "diffondersi, circolare (di notizie)"
+    ],
+    "example": "Amy can’t get about because she has a broken leg. Some rumours about his past are getting around."
+  },
+  {
+    "front": "get sth across (to sb)*",
+    "back": [
+      "far capire (qualcosa a qualcuno)"
+    ],
+    "example": "Mrs Cox always gets the rules across to her students."
+  },
+  {
+    "front": "get at",
+    "back": [
+      "criticare"
+    ],
+    "example": "My mum is always getting at me and my friends."
+  },
+  {
+    "front": "get away (from)",
+    "back": [
+      "andarsene",
+      "scappare"
+    ],
+    "example": "The thieves got away from the police."
+  },
+  {
+    "front": "get away with",
+    "back": [
+      "farla franca",
+      "non essere punito"
+    ],
+    "example": "Scott’s brother got away with only a small fine."
+  },
+  {
+    "front": "get back*",
+    "back": [
+      "ritornare (di solito a casa)"
+    ],
+    "example": "Did you get back late last night?"
+  },
+  {
+    "front": "get sth back*",
+    "back": [
+      "riavere qualcosa indietro"
+    ],
+    "example": "Can I get my CDs back, please?"
+  },
+  {
+    "front": "get by*",
+    "back": [
+      "cavarsela (con poco)",
+      "sopravvivere"
+    ],
+    "example": "Alicia earns 300 euros a month. How can she get by?"
+  },
+  {
+    "front": "get sb down*",
+    "back": [
+      "deprimere"
+    ],
+    "example": "The novel was very sad and made me get down."
+  },
+  {
+    "front": "get down to*",
+    "back": [
+      "mettersi al lavoro",
+      "concentrarsi su"
+    ],
+    "example": "They got down to the root of the problem."
+  },
+  {
+    "front": "get on",
+    "back": [
+      "procedere",
+      "fare progressi",
+      "carriera"
+    ],
+    "example": "Lindsay and Joel are getting on well in their new job."
+  },
+  {
+    "front": "get on with",
+    "back": [
+      "continuare a fare qualcosa",
+      "andare d’accordo, cavarsela"
+    ],
+    "example": "How are you getting on with university? I’ve always got on well with my sister Patrizia."
+  },
+  {
+    "front": "get over",
+    "back": [
+      "riprendersi (da malattia o spavento)"
+    ],
+    "example": "Mia failed her exam and she hasn’t got over it yet."
+  },
+  {
+    "front": "get rid of*",
+    "back": [
+      "liberarsi di, sbarazzarsi di"
+    ],
+    "example": "Zoe is 18, but she still can’t get rid of her childish fears."
+  },
+  {
+    "front": "get through*",
+    "back": [
+      "farcela, superare una prova"
+    ],
+    "example": "Anthony got through the selection process very well."
+  },
+  {
+    "front": "get through (to)*",
+    "back": [
+      "contattare (per telefono)",
+      "arrivare a destinazione"
+    ],
+    "example": "I couldn’t get through to her yesterday. Do you know if the goods have already got through?"
+  },
+  {
+    "front": "give sth away",
+    "back": [
+      "dare via",
+      "regalare",
+      "rivelare",
+      "svelare"
+    ],
+    "example": "Auntie Evy gave away a lot of her dresses to a charity association. The robbers didn’t want to give away the hiding place of the stolen money."
+  },
+  {
+    "front": "give sth back",
+    "back": [
+      "restituire"
+    ],
+    "example": "Can you give my German dictionary back, please?"
+  },
+  {
+    "front": "give in",
+    "back": [
+      "cedere",
+      "arrendersi"
+    ],
+    "example": "The policemen ordered the terrorists to give in and release the hostages."
+  },
+  {
+    "front": "give sth out",
+    "back": [
+      "distribuire",
+      "annunciare",
+      "proclamare"
+    ],
+    "example": "The boss gave out to his employees a copy of the end of the year figures. The end of the war has just been given out on the radio."
+  },
+  {
+    "front": "give sth up",
+    "back": [
+      "smettere",
+      "rinunciare"
+    ],
+    "example": "Alexandra doesn’t want to give up her work."
+  },
+  {
+    "front": "go after*",
+    "back": [
+      "andare dietro",
+      "rincorrere"
+    ],
+    "example": "My dog went after the postman and bit him!"
+  },
+  {
+    "front": "go ahead*",
+    "back": [
+      "andare in testa (a un gruppo)",
+      "procedere (come previsto)"
+    ],
+    "example": "The guide went ahead and began to talk. The government will go ahead with its financial policies."
+  },
+  {
+    "front": "go back*",
+    "back": [
+      "ritornare in un luogo",
+      "risalire (nel tempo)"
+    ],
+    "example": "Tess couldn’t go back to her small village. This tower goes back to the Middle Ages."
+  },
+  {
+    "front": "go back on*",
+    "back": [
+      "non mantenere una promessa"
+    ],
+    "example": "You can rely on Marcus. He never goes back on his word."
+  },
+  {
+    "front": "go down*",
+    "back": [
+      "diminuire (prezzi, temperatura)"
+    ],
+    "example": "The price of mobile phones is going down."
+  },
+  {
+    "front": "go in for*",
+    "back": [
+      "iscriversi (a una gara)",
+      "avere interesse per (sport",
+      "hobby)"
+    ],
+    "example": "Juliette has gone in for a very difficult exam. My friends don’t like volleyball. They go in for basketball."
+  },
+  {
+    "front": "go off",
+    "back": [
+      "spegnersi (luce, gas)",
+      "esplodere(bomba)",
+      "scattare(allarme)",
+      "andare a male (cibo, latte)"
+    ],
+    "example": "During the storm the light went off for about an hour. Luckily the bomb didn’t go off. What a terrible smell! The milk must have gone off."
+  },
+  {
+    "front": "go on",
+    "back": [
+      "continuare",
+      "accadere",
+      "succedere"
+    ],
+    "example": "I’m sorry, but we can’t go on like this! What’s going on over there?"
+  },
+  {
+    "front": "go on at*",
+    "back": [
+      "criticare ripetutamente"
+    ],
+    "example": "I hate Kelly, she always goes on at me!"
+  },
+  {
+    "front": "go over / through sth",
+    "back": [
+      "esaminare",
+      "leggere",
+      "ripassare",
+      "passare attraverso (un’esperienza)"
+    ],
+    "example": "Have you already gone over / through your objectives? She was going through a busy period."
+  },
+  {
+    "front": "keep sth / sb back (from)*",
+    "back": [
+      "tenere indietro",
+      "trattenere"
+    ],
+    "example": "Some barricades kept the public back from the stage. Mary tried to keep her tears back, but she couldn’t."
+  },
+  {
+    "front": "keep sb down*",
+    "back": [
+      "assoggettare",
+      "opprimere"
+    ],
+    "example": "The dictator kept his people down for 20 years."
+  },
+  {
+    "front": "keep sb from sth*",
+    "back": [
+      "impedire"
+    ],
+    "example": "The noise of the traffic kept me from sleeping."
+  },
+  {
+    "front": "keep sth from sb*",
+    "back": [
+      "nascondere",
+      "non dire"
+    ],
+    "example": "It’s impossible to keep the truth from your sister."
+  },
+  {
+    "front": "keep sb/sth in",
+    "back": [
+      "trattenere qualcuno in un luogo",
+      "non esprimere (un sentimento)"
+    ],
+    "example": "You can’t keep me in this room for two hours! Olivia was furious but she kept her anger in."
+  },
+  {
+    "front": "keep sth off*",
+    "back": [
+      "tenere alla larga"
+    ],
+    "example": "I wear a hat to keep off the flies."
+  },
+  {
+    "front": "keep on*",
+    "back": [
+      "continuare a fare qualcosa"
+    ],
+    "example": "The snow kept on falling for three days."
+  },
+  {
+    "front": "keep to*",
+    "back": [
+      "restare fedele a",
+      "rispettare"
+    ],
+    "example": "Robert worked at night to keep to the schedule."
+  },
+  {
+    "front": "keep up with*",
+    "back": [
+      "essere aggiornati (non restare indietro)",
+      "andare alla stessa velocità"
+    ],
+    "example": "Diane keeps up with the new musical trends. Don’t run so fast! I can’t keep up with you!"
+  },
+  {
+    "front": "look after",
+    "back": [
+      "badare a"
+    ],
+    "example": "She’s only 12 years old but she can look after herself."
+  },
+  {
+    "front": "look around",
+    "back": [
+      "dare un’occhiata in giro"
+    ],
+    "example": "Alan and Jack are looking around to find a cheaper flat."
+  },
+  {
+    "front": "look at",
+    "back": [
+      "guardare",
+      "dare un’occhiata"
+    ],
+    "example": "Haven’t you looked at the newspaper yet?"
+  },
+  {
+    "front": "look back / round*",
+    "back": [
+      "girarsi a guardare"
+    ],
+    "example": "Charles went out of his house and looked back / round."
+  },
+  {
+    "front": "look back (on)*",
+    "back": [
+      "ricordare",
+      "riflettere sul passato"
+    ],
+    "example": "The old lady liked looking back on her childhood."
+  },
+  {
+    "front": "look down on*",
+    "back": [
+      "considerare inferiore",
+      "disprezzare"
+    ],
+    "example": "Jeff looks down on people who haven’t studied much."
+  },
+  {
+    "front": "look for",
+    "back": [
+      "cercare",
+      "andare in cerca di"
+    ],
+    "example": "What are you looking for? Have you lost something?"
+  },
+  {
+    "front": "look forward to",
+    "back": [
+      "non vedere l’ora di"
+    ],
+    "example": "I’m looking forward to the next summer holidays."
+  },
+  {
+    "front": "look into",
+    "back": [
+      "indagare",
+      "esaminare a fondo"
+    ],
+    "example": "The investigators are looking into the case."
+  },
+  {
+    "front": "look on*",
+    "back": [
+      "considerare"
+    ],
+    "example": "We looked on our daughter’s achievements with pride."
+  },
+  {
+    "front": "look out*",
+    "back": [
+      "stare attento"
+    ],
+    "example": "Look out! There’s a car coming very fast!"
+  },
+  {
+    "front": "look out for*",
+    "back": [
+      "cercare di evitare (una cosa negativa)"
+    ],
+    "example": "Be careful and look out for grammar mistakes."
+  },
+  {
+    "front": "look out on*",
+    "back": [
+      "affacciarsi su",
+      "dare su (case",
+      "finestre)"
+    ],
+    "example": "The hotel was very nice and it looked out on the sea."
+  },
+  {
+    "front": "look sth over*",
+    "back": [
+      "esaminare velocemente"
+    ],
+    "example": "I looked over the house again before deciding whether to buy it."
+  },
+  {
+    "front": "look through*",
+    "back": [
+      "esaminare (selezionando ciò che ci interessa)",
+      "sfogliare"
+    ],
+    "example": "We looked through the pictures to find the right one. You should revise looking through your notes quickly."
+  },
+  {
+    "front": "look sb up",
+    "back": [
+      "andare a trovare",
+      "visitare"
+    ],
+    "example": "Will you look me up the next time you come to Italy?"
+  },
+  {
+    "front": "look sth up",
+    "back": [
+      "consultare (dizionario",
+      "elenco)"
+    ],
+    "example": "Why don’t you look it up in the encyclopedia?"
+  },
+  {
+    "front": "make for*",
+    "back": [
+      "dirigersi"
+    ],
+    "example": "When the show was over, we made for the exit."
+  },
+  {
+    "front": "make sth of sb / sth*",
+    "back": [
+      "capire",
+      "interpretare"
+    ],
+    "example": "I can’t make anything of the meaning of this message."
+  },
+  {
+    "front": "make sb / sth out*",
+    "back": [
+      "riuscire a vedere"
+    ],
+    "example": "It was dark, so I couldn’t make anybody out."
+  },
+  {
+    "front": "make sth over to*",
+    "back": [
+      "trasferire (una proprietà)"
+    ],
+    "example": "The grandfather made his house over to his youngest grandson."
+  },
+  {
+    "front": "make up*",
+    "back": [
+      "truccare",
+      "truccarsi",
+      "costruire",
+      "inventare"
+    ],
+    "example": "Clowns take hours making up. I often make up funny stories and read them to my niece."
+  },
+  {
+    "front": "make up (with)*",
+    "back": [
+      "riconciliarsi"
+    ],
+    "example": "Susie explained everything to me and then we made up."
+  },
+  {
+    "front": "make up for*",
+    "back": [
+      "compensare",
+      "rimediare a"
+    ],
+    "example": "How can I make up for my mistakes?"
+  },
+  {
+    "front": "put sth aside / by",
+    "back": [
+      "mettere da parte",
+      "risparmiare"
+    ],
+    "example": "We are putting some money aside to get married."
+  },
+  {
+    "front": "put away",
+    "back": [
+      "mettere via",
+      "riporre"
+    ],
+    "example": "If you have finished, put the vacuum cleaner away."
+  },
+  {
+    "front": "put sth back",
+    "back": [
+      "rimettere qualcosa al suo posto"
+    ],
+    "example": "Can you put the mugs back in the cupboard?"
+  },
+  {
+    "front": "put sth back / forward*",
+    "back": [
+      "spostare indietro",
+      "avanti (posticipare",
+      "anticipare )"
+    ],
+    "example": "The match has been put back to next Saturday. The match has been put forward by three days."
+  },
+  {
+    "front": "put sb down*",
+    "back": [
+      "umiliare"
+    ],
+    "example": "I didn’t like the way your friends put David down."
+  },
+  {
+    "front": "put sth down",
+    "back": [
+      "posare",
+      "mettere giù",
+      "sedare (una protesta",
+      "rivolta)"
+    ],
+    "example": "Ryan! Put those scissors down immediately! The army put the rebellion down."
+  },
+  {
+    "front": "put sth down to*",
+    "back": [
+      "attribuire a (indicare la causa di)"
+    ],
+    "example": "We can put her success down to her great talent."
+  },
+  {
+    "front": "put forward*",
+    "back": [
+      "proporre (avanzare una proposta)"
+    ],
+    "example": "Can you put forward any ideas to solve the problem?"
+  },
+  {
+    "front": "put sb off",
+    "back": [
+      "scoraggiare qualcuno",
+      "disturbare"
+    ],
+    "example": "Sometimes clever girls can put boys off. Don’t put me off! I’m working on a complex matter."
+  },
+  {
+    "front": "put sth off",
+    "back": [
+      "rimandare (incontri, vacanze)"
+    ],
+    "example": "I fear we will have to put our holiday off."
+  },
+  {
+    "front": "put sth on",
+    "back": [
+      "indossare",
+      "accendere (luce, gas)"
+    ],
+    "example": "Why haven’t you put your raincoat on? It’s raining. It’s dark here. Why don’t you put the lights on?"
+  },
+  {
+    "front": "put sth out",
+    "back": [
+      "spegnere (sigaretta, fuoco)",
+      "produrre (per vendere)"
+    ],
+    "example": "Excuse me, can you put the cigarette out? We can put out about 100 pairs of trousers every day."
+  },
+  {
+    "front": "put sb through (to sb)",
+    "back": [
+      "passare qualcuno al telefono"
+    ],
+    "example": "Could you put me through to the sales manager?"
+  },
+  {
+    "front": "put up*",
+    "back": [
+      "aumentare (prezzi, affitto)"
+    ],
+    "example": "The Town Hall has put up the tax on property."
+  },
+  {
+    "front": "put sb up",
+    "back": [
+      "ospitare (qualcuno a dormire)"
+    ],
+    "example": "You don’t have to book a hotel. We can put you up."
+  },
+  {
+    "front": "put sth up*",
+    "back": [
+      "alzare",
+      "sollevare",
+      "erigere"
+    ],
+    "example": "When did they put this building up?"
+  },
+  {
+    "front": "put up with sb / sth*",
+    "back": [
+      "tollerare"
+    ],
+    "example": "I can’t put up with Adam’s rude manners any more."
+  },
+  {
+    "front": "run across / into",
+    "back": [
+      "incontrare (per caso)",
+      "scontrarsi"
+    ],
+    "example": "I’ve just run across / into a girl I hadn’t seen for ages!"
+  },
+  {
+    "front": "run after",
+    "back": [
+      "correre dietro",
+      "dare la caccia"
+    ],
+    "example": "They tried to run after the pickpocket but he escaped."
+  },
+  {
+    "front": "run away",
+    "back": [
+      "fuggire",
+      "abbandonare"
+    ],
+    "example": "A twelve year old boy has run away from school today."
+  },
+  {
+    "front": "run for",
+    "back": [
+      "candidarsi (alle elezioni)"
+    ],
+    "example": "Do you know that Kal is running for the next elections?"
+  },
+  {
+    "front": "run out of",
+    "back": [
+      "terminare",
+      "rimanere senza"
+    ],
+    "example": "I’ve run out of milk. Can you lend me some?"
+  },
+  {
+    "front": "run sb / sth over",
+    "back": [
+      "investire (con un veicolo)"
+    ],
+    "example": "“Why are you so shocked?” “I’ve just run over a cat.“"
+  },
+  {
+    "front": "run over / through",
+    "back": [
+      "leggere velocemente"
+    ],
+    "example": "He ran through the list but he couldn’t find his name."
+  },
+  {
+    "front": "set about*",
+    "back": [
+      "cominciare"
+    ],
+    "example": "They set about painting the kitchen some days ago."
+  },
+  {
+    "front": "set sb / sth apart*",
+    "back": [
+      "rendere diverso",
+      "distinguere"
+    ],
+    "example": "Her good looks set her apart from the other girls of her age."
+  },
+  {
+    "front": "set sb / sth back*",
+    "back": [
+      "causare un ritardo"
+    ],
+    "example": "The heavy traffic set me back about two hours."
+  },
+  {
+    "front": "set off*",
+    "back": [
+      "provocare",
+      "scatenare, causare",
+      "far esplodere"
+    ],
+    "example": "The financial crisis has set off great fear amongst shareholders. He was trying to set off some fireworks."
+  },
+  {
+    "front": "set off / out*",
+    "back": [
+      "partire per un viaggio"
+    ],
+    "example": "Our neighbours set off / out for New York some days ago."
+  },
+  {
+    "front": "set sb / sth on*",
+    "back": [
+      "istigare",
+      "aizzare"
+    ],
+    "example": "He told us to go away or he would set his dogs on us."
+  },
+  {
+    "front": "set out*",
+    "back": [
+      "fornire dettagli",
+      "spiegare"
+    ],
+    "example": "Ruby set out the four main steps of the process."
+  },
+  {
+    "front": "set sth up*",
+    "back": [
+      "erigere",
+      "avviare (un’azienda)"
+    ],
+    "example": "They decided to set up an association to help sick people."
+  },
+  {
+    "front": "take after",
+    "back": [
+      "assomigliare (per aspetto, comportamento)"
+    ],
+    "example": "Cindy doesn’t take after her sister."
+  },
+  {
+    "front": "take sth back*",
+    "back": [
+      "ritrattare quanto detto",
+      "scritto"
+    ],
+    "example": "They asked her to take back what she had said."
+  },
+  {
+    "front": "take sth down",
+    "back": [
+      "scrivere",
+      "prendere appunti",
+      "nota"
+    ],
+    "example": "You don’t have to take down every word I say."
+  },
+  {
+    "front": "take sb in*",
+    "back": [
+      "prendere in casa",
+      "dare rifugio",
+      "ingannare"
+    ],
+    "example": "We took him in because he had nowhere to stay. Leah took me in completely with a painful story."
+  },
+  {
+    "front": "take off",
+    "back": [
+      "decollare (di aereo)"
+    ],
+    "example": "The plane took off despite thick fog."
+  },
+  {
+    "front": "take sb off*",
+    "back": [
+      "imitare"
+    ],
+    "example": "Sean can take off the English teacher very well."
+  },
+  {
+    "front": "take sth off",
+    "back": [
+      "togliere (abiti)"
+    ],
+    "example": "If you are hot, you can take your jacket off."
+  },
+  {
+    "front": "take sb on",
+    "back": [
+      "assumere personale"
+    ],
+    "example": "The new department store is taking on new staff."
+  },
+  {
+    "front": "take sth on*",
+    "back": [
+      "accettare (un lavoro, responsabilità)"
+    ],
+    "example": "She was busy, so she didn’t take on any other work."
+  },
+  {
+    "front": "take sb out*",
+    "back": [
+      "portare fuori (di solito a cena)",
+      "invitare"
+    ],
+    "example": "I’m taking Lisa out for her birthday."
+  },
+  {
+    "front": "take sth out",
+    "back": [
+      "tirare fuori",
+      "rimuovere, togliere"
+    ],
+    "example": "The man opened his suitcase and took a gun out."
+  },
+  {
+    "front": "take over from*",
+    "back": [
+      "sostituire",
+      "fare le veci di"
+    ],
+    "example": "Jim will take over from Ted while Ted is abroad."
+  },
+  {
+    "front": "take sth over*",
+    "back": [
+      "assumere il controllo"
+    ],
+    "example": "An American company has taken our firm over."
+  },
+  {
+    "front": "take to*",
+    "back": [
+      "cominciare a piacere (provare simpatia per)"
+    ],
+    "example": "My daughter took to her new school immediately."
+  },
+  {
+    "front": "take sth up",
+    "back": [
+      "iniziare (un nuovo sport",
+      "attività)"
+    ],
+    "example": "Why don’t you take up tennis?"
+  },
+  {
+    "front": "take up sth*",
+    "back": [
+      "occupare una posizione",
+      "spazio"
+    ],
+    "example": "The sofa was too big. It took up half of the room."
+  },
+  {
+    "front": "turn (a)round*",
+    "back": [
+      "girarsi (nella direzione opposta)"
+    ],
+    "example": "Turn around and let me see the back of the dress."
+  },
+  {
+    "front": "turn sth (a)round*",
+    "back": [
+      "girare (dall’altra parte)"
+    ],
+    "example": "I turned the carpet round on the red side."
+  },
+  {
+    "front": "turn away*",
+    "back": [
+      "rifiutare il permesso di entrare"
+    ],
+    "example": "I was turned away from the casino because I wasn’t 18."
+  },
+  {
+    "front": "turn back",
+    "back": [
+      "ritornare"
+    ],
+    "example": "We had gone too far to turn back to the hotel."
+  },
+  {
+    "front": "turn sth / sb down",
+    "back": [
+      "abbassare (radio, gas)",
+      "rifiutare"
+    ],
+    "example": "Can you turn the volume down, please? Caitlin turned down all my invitations."
+  },
+  {
+    "front": "turn into",
+    "back": [
+      "trasformarsi",
+      "diventare altro"
+    ],
+    "example": "He turned his house into a Bed & Breakfast."
+  },
+  {
+    "front": "turn off",
+    "back": [
+      "deviare",
+      "svoltare"
+    ],
+    "example": "You must turn off after about 300 metres."
+  },
+  {
+    "front": "turn sb off",
+    "back": [
+      "indisporre",
+      "stancare"
+    ],
+    "example": "Jeremy really turns me off with his boring stories."
+  },
+  {
+    "front": "turn sth on/off",
+    "back": [
+      "accendere",
+      "spegnere (radio, luce)"
+    ],
+    "example": "It’s hot in here. Turn the air conditioning on."
+  },
+  {
+    "front": "turn out",
+    "back": [
+      "risultare",
+      "avere un certo esito"
+    ],
+    "example": "The new show turned out to be a great success."
+  },
+  {
+    "front": "turn sb out",
+    "back": [
+      "sfrattare",
+      "mandare via, espellere"
+    ],
+    "example": "If you don’t pay the rent, they will turn you out."
+  },
+  {
+    "front": "turn sth out*",
+    "back": [
+      "vuotare",
+      "svuotare",
+      "produrre"
+    ],
+    "example": "Next Sunday I’m going to turn the attic out. It’s an industrial oven. It can turn out 1000 cakes a week."
+  },
+  {
+    "front": "turn sth over*",
+    "back": [
+      "rovesciare (mettere sottosopra)",
+      "cambiare programma (TV)"
+    ],
+    "example": "Put the slices in the oven and turn them over frequently. I don’t like this film. Can I turn it over?"
+  },
+  {
+    "front": "turn to sb*",
+    "back": [
+      "rivolgersi (per aiuto",
+      "consiglio)"
+    ],
+    "example": "I generally turn to my father for advice."
+  },
+  {
+    "front": "turn up",
+    "back": [
+      "arrivare (farsi vivo)",
+      "ricomparire",
+      "saltar fuori"
+    ],
+    "example": "I waited for Ben for about an hour but he didn’t turn up. “I can’t find my watch.” “I’m sure it will turn up.”"
+  },
+  {
+    "front": "turn sth up*",
+    "back": [
+      "alzare",
+      "aumentare (radio, gas)"
+    ],
+    "example": "I like this song very much. Can you turn the music up?"
+  }
+]

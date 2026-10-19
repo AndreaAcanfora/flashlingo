@@ -1,0 +1,25 @@
+{
+  "name": "flashlingo-build",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Build & data pipeline for flashlingo: converts raw wordlists to deck JSON, derives CEFR levels, generates the manifest, validates, and (optionally) enriches with AI.",
+  "scripts": {
+    "build": "node build.js",
+    "fetch-sources": "node fetch-sources.js",
+    "convert": "node convert.js",
+    "manifest": "node gen-manifest.js",
+    "test": "node validate.js",
+    "validate": "node validate.js",
+    "enrich": "node enrich.js",
+    "enrich:dry": "node enrich.js --dry-run",
+    "enrich:report": "node enrich-report.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.68.0",
+    "ajv": "^8.17.1",
+    "csv-parse": "^7.0.3",
+    "dotenv": "^17.2.3",
+    "p-limit": "^7.1.1"
+  }
+}

@@ -1,0 +1,31 @@
+flashlingo
+Copyright (c) 2026 Andrea Acanfora
+Licensed under the MIT License (see LICENSE).
+
+This product includes third-party material as described below.
+
+------------------------------------------------------------------------------
+CEFR level labels
+------------------------------------------------------------------------------
+The CEFR level (A1–C2) attached to each English headword is DERIVED from:
+
+  - CEFR-J Wordlist — Tono, Y. et al., https://cefr-j.org/
+    Licensed under CC BY-SA 4.0.
+  - Octanove Vocabulary Profile (C1/C2), Open Language Profiles,
+    https://github.com/openlanguageprofiles/olp-en-cefrj
+    Licensed under CC BY-SA 4.0.
+
+Only a single derived level label per word is included in this repository; the
+original datasets (the CSV files) are NOT redistributed here. They are fetched
+at build time (see build/fetch-sources.js and build/sources.lock.json) and
+remain under their own CC BY-SA 4.0 license. The derivation is reproducible and
+documented in build/README.md.
+
+This is attribution, not legal advice. If you redistribute the source datasets
+themselves, you must comply with CC BY-SA 4.0 for those files.
+
+------------------------------------------------------------------------------
+Country flags
+------------------------------------------------------------------------------
+The flag SVGs in assets/flags/ are from the "flag-icons" project
+(https://github.com/lipis/flag-icons), licensed under the MIT License.

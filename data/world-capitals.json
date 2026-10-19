@@ -1,0 +1,1404 @@
+[
+  {
+    "front": "Italia",
+    "back": [
+      "Roma"
+    ],
+    "group": "Europa",
+    "cc": "it"
+  },
+  {
+    "front": "Spagna",
+    "back": [
+      "Madrid"
+    ],
+    "group": "Europa",
+    "cc": "es"
+  },
+  {
+    "front": "Portogallo",
+    "back": [
+      "Lisbona"
+    ],
+    "group": "Europa",
+    "cc": "pt"
+  },
+  {
+    "front": "Grecia",
+    "back": [
+      "Atene"
+    ],
+    "group": "Europa",
+    "cc": "gr"
+  },
+  {
+    "front": "Croazia",
+    "back": [
+      "Zagabria"
+    ],
+    "group": "Europa",
+    "cc": "hr"
+  },
+  {
+    "front": "Slovenia",
+    "back": [
+      "Lubiana"
+    ],
+    "group": "Europa",
+    "cc": "si"
+  },
+  {
+    "front": "Serbia",
+    "back": [
+      "Belgrado"
+    ],
+    "group": "Europa",
+    "cc": "rs"
+  },
+  {
+    "front": "Bosnia ed Erzegovina",
+    "back": [
+      "Sarajevo"
+    ],
+    "group": "Europa",
+    "cc": "ba"
+  },
+  {
+    "front": "Montenegro",
+    "back": [
+      "Podgorica"
+    ],
+    "group": "Europa",
+    "cc": "me"
+  },
+  {
+    "front": "Macedonia del Nord",
+    "back": [
+      "Skopje"
+    ],
+    "group": "Europa",
+    "cc": "mk"
+  },
+  {
+    "front": "Albania",
+    "back": [
+      "Tirana"
+    ],
+    "group": "Europa",
+    "cc": "al"
+  },
+  {
+    "front": "Kosovo",
+    "back": [
+      "Pristina"
+    ],
+    "group": "Europa",
+    "cc": "xk"
+  },
+  {
+    "front": "Malta",
+    "back": [
+      "La Valletta",
+      "Valletta"
+    ],
+    "group": "Europa",
+    "cc": "mt"
+  },
+  {
+    "front": "Francia",
+    "back": [
+      "Parigi"
+    ],
+    "group": "Europa",
+    "cc": "fr"
+  },
+  {
+    "front": "Germania",
+    "back": [
+      "Berlino"
+    ],
+    "group": "Europa",
+    "cc": "de"
+  },
+  {
+    "front": "Paesi Bassi",
+    "back": [
+      "Amsterdam"
+    ],
+    "group": "Europa",
+    "cc": "nl"
+  },
+  {
+    "front": "Belgio",
+    "back": [
+      "Bruxelles"
+    ],
+    "group": "Europa",
+    "cc": "be"
+  },
+  {
+    "front": "Lussemburgo",
+    "back": [
+      "Lussemburgo"
+    ],
+    "group": "Europa",
+    "cc": "lu"
+  },
+  {
+    "front": "Austria",
+    "back": [
+      "Vienna"
+    ],
+    "group": "Europa",
+    "cc": "at"
+  },
+  {
+    "front": "Svizzera",
+    "back": [
+      "Berna"
+    ],
+    "group": "Europa",
+    "cc": "ch"
+  },
+  {
+    "front": "Regno Unito",
+    "back": [
+      "Londra"
+    ],
+    "group": "Europa",
+    "cc": "gb"
+  },
+  {
+    "front": "Irlanda",
+    "back": [
+      "Dublino"
+    ],
+    "group": "Europa",
+    "cc": "ie"
+  },
+  {
+    "front": "Danimarca",
+    "back": [
+      "Copenaghen"
+    ],
+    "group": "Europa",
+    "cc": "dk"
+  },
+  {
+    "front": "Svezia",
+    "back": [
+      "Stoccolma"
+    ],
+    "group": "Europa",
+    "cc": "se"
+  },
+  {
+    "front": "Norvegia",
+    "back": [
+      "Oslo"
+    ],
+    "group": "Europa",
+    "cc": "no"
+  },
+  {
+    "front": "Finlandia",
+    "back": [
+      "Helsinki"
+    ],
+    "group": "Europa",
+    "cc": "fi"
+  },
+  {
+    "front": "Islanda",
+    "back": [
+      "Reykjavik"
+    ],
+    "group": "Europa",
+    "cc": "is"
+  },
+  {
+    "front": "Estonia",
+    "back": [
+      "Tallinn"
+    ],
+    "group": "Europa",
+    "cc": "ee"
+  },
+  {
+    "front": "Lettonia",
+    "back": [
+      "Riga"
+    ],
+    "group": "Europa",
+    "cc": "lv"
+  },
+  {
+    "front": "Lituania",
+    "back": [
+      "Vilnius"
+    ],
+    "group": "Europa",
+    "cc": "lt"
+  },
+  {
+    "front": "Polonia",
+    "back": [
+      "Varsavia"
+    ],
+    "group": "Europa",
+    "cc": "pl"
+  },
+  {
+    "front": "Repubblica Ceca",
+    "back": [
+      "Praga"
+    ],
+    "group": "Europa",
+    "cc": "cz"
+  },
+  {
+    "front": "Slovacchia",
+    "back": [
+      "Bratislava"
+    ],
+    "group": "Europa",
+    "cc": "sk"
+  },
+  {
+    "front": "Ungheria",
+    "back": [
+      "Budapest"
+    ],
+    "group": "Europa",
+    "cc": "hu"
+  },
+  {
+    "front": "Romania",
+    "back": [
+      "Bucarest"
+    ],
+    "group": "Europa",
+    "cc": "ro"
+  },
+  {
+    "front": "Bulgaria",
+    "back": [
+      "Sofia"
+    ],
+    "group": "Europa",
+    "cc": "bg"
+  },
+  {
+    "front": "Moldavia",
+    "back": [
+      "Chisinau"
+    ],
+    "group": "Europa",
+    "cc": "md"
+  },
+  {
+    "front": "Ucraina",
+    "back": [
+      "Kiev"
+    ],
+    "group": "Europa",
+    "cc": "ua"
+  },
+  {
+    "front": "Bielorussia",
+    "back": [
+      "Minsk"
+    ],
+    "group": "Europa",
+    "cc": "by"
+  },
+  {
+    "front": "Russia",
+    "back": [
+      "Mosca"
+    ],
+    "group": "Europa",
+    "cc": "ru"
+  },
+  {
+    "front": "Turchia",
+    "back": [
+      "Ankara"
+    ],
+    "group": "Asia",
+    "cc": "tr"
+  },
+  {
+    "front": "Cipro",
+    "back": [
+      "Nicosia"
+    ],
+    "group": "Asia",
+    "cc": "cy"
+  },
+  {
+    "front": "Georgia",
+    "back": [
+      "Tbilisi"
+    ],
+    "group": "Asia",
+    "cc": "ge"
+  },
+  {
+    "front": "Armenia",
+    "back": [
+      "Erevan"
+    ],
+    "group": "Asia",
+    "cc": "am"
+  },
+  {
+    "front": "Azerbaigian",
+    "back": [
+      "Baku"
+    ],
+    "group": "Asia",
+    "cc": "az"
+  },
+  {
+    "front": "Siria",
+    "back": [
+      "Damasco"
+    ],
+    "group": "Asia",
+    "cc": "sy"
+  },
+  {
+    "front": "Libano",
+    "back": [
+      "Beirut"
+    ],
+    "group": "Asia",
+    "cc": "lb"
+  },
+  {
+    "front": "Israele",
+    "back": [
+      "Gerusalemme"
+    ],
+    "group": "Asia",
+    "cc": "il"
+  },
+  {
+    "front": "Giordania",
+    "back": [
+      "Amman"
+    ],
+    "group": "Asia",
+    "cc": "jo"
+  },
+  {
+    "front": "Iraq",
+    "back": [
+      "Baghdad"
+    ],
+    "group": "Asia",
+    "cc": "iq"
+  },
+  {
+    "front": "Arabia Saudita",
+    "back": [
+      "Riad"
+    ],
+    "group": "Asia",
+    "cc": "sa"
+  },
+  {
+    "front": "Yemen",
+    "back": [
+      "Sana'a",
+      "Sana"
+    ],
+    "group": "Asia",
+    "cc": "ye"
+  },
+  {
+    "front": "Oman",
+    "back": [
+      "Mascate"
+    ],
+    "group": "Asia",
+    "cc": "om"
+  },
+  {
+    "front": "Emirati Arabi Uniti",
+    "back": [
+      "Abu Dhabi"
+    ],
+    "group": "Asia",
+    "cc": "ae"
+  },
+  {
+    "front": "Qatar",
+    "back": [
+      "Doha"
+    ],
+    "group": "Asia",
+    "cc": "qa"
+  },
+  {
+    "front": "Kuwait",
+    "back": [
+      "Kuwait City",
+      "Kuwait"
+    ],
+    "group": "Asia",
+    "cc": "kw"
+  },
+  {
+    "front": "Bahrein",
+    "back": [
+      "Manama"
+    ],
+    "group": "Asia",
+    "cc": "bh"
+  },
+  {
+    "front": "Kazakistan",
+    "back": [
+      "Astana",
+      "Nur-Sultan"
+    ],
+    "group": "Asia",
+    "cc": "kz"
+  },
+  {
+    "front": "Uzbekistan",
+    "back": [
+      "Tashkent"
+    ],
+    "group": "Asia",
+    "cc": "uz"
+  },
+  {
+    "front": "Turkmenistan",
+    "back": [
+      "Ashgabat"
+    ],
+    "group": "Asia",
+    "cc": "tm"
+  },
+  {
+    "front": "Kirghizistan",
+    "back": [
+      "Bishkek"
+    ],
+    "group": "Asia",
+    "cc": "kg"
+  },
+  {
+    "front": "Tagikistan",
+    "back": [
+      "Dushanbe"
+    ],
+    "group": "Asia",
+    "cc": "tj"
+  },
+  {
+    "front": "Iran",
+    "back": [
+      "Teheran"
+    ],
+    "group": "Asia",
+    "cc": "ir"
+  },
+  {
+    "front": "Afghanistan",
+    "back": [
+      "Kabul"
+    ],
+    "group": "Asia",
+    "cc": "af"
+  },
+  {
+    "front": "Pakistan",
+    "back": [
+      "Islamabad"
+    ],
+    "group": "Asia",
+    "cc": "pk"
+  },
+  {
+    "front": "India",
+    "back": [
+      "Nuova Delhi",
+      "New Delhi"
+    ],
+    "group": "Asia",
+    "cc": "in"
+  },
+  {
+    "front": "Nepal",
+    "back": [
+      "Kathmandu"
+    ],
+    "group": "Asia",
+    "cc": "np"
+  },
+  {
+    "front": "Bhutan",
+    "back": [
+      "Thimphu"
+    ],
+    "group": "Asia",
+    "cc": "bt"
+  },
+  {
+    "front": "Bangladesh",
+    "back": [
+      "Dhaka"
+    ],
+    "group": "Asia",
+    "cc": "bd"
+  },
+  {
+    "front": "Sri Lanka",
+    "back": [
+      "Colombo",
+      "Sri Jayawardenepura Kotte"
+    ],
+    "group": "Asia",
+    "cc": "lk"
+  },
+  {
+    "front": "Maldive",
+    "back": [
+      "Male",
+      "Malé"
+    ],
+    "group": "Asia",
+    "cc": "mv"
+  },
+  {
+    "front": "Cina",
+    "back": [
+      "Pechino"
+    ],
+    "group": "Asia",
+    "cc": "cn"
+  },
+  {
+    "front": "Mongolia",
+    "back": [
+      "Ulan Bator"
+    ],
+    "group": "Asia",
+    "cc": "mn"
+  },
+  {
+    "front": "Corea del Nord",
+    "back": [
+      "Pyongyang"
+    ],
+    "group": "Asia",
+    "cc": "kp"
+  },
+  {
+    "front": "Corea del Sud",
+    "back": [
+      "Seul"
+    ],
+    "group": "Asia",
+    "cc": "kr"
+  },
+  {
+    "front": "Giappone",
+    "back": [
+      "Tokyo"
+    ],
+    "group": "Asia",
+    "cc": "jp"
+  },
+  {
+    "front": "Myanmar",
+    "back": [
+      "Naypyidaw"
+    ],
+    "group": "Asia",
+    "cc": "mm"
+  },
+  {
+    "front": "Thailandia",
+    "back": [
+      "Bangkok"
+    ],
+    "group": "Asia",
+    "cc": "th"
+  },
+  {
+    "front": "Laos",
+    "back": [
+      "Vientiane"
+    ],
+    "group": "Asia",
+    "cc": "la"
+  },
+  {
+    "front": "Cambogia",
+    "back": [
+      "Phnom Penh"
+    ],
+    "group": "Asia",
+    "cc": "kh"
+  },
+  {
+    "front": "Vietnam",
+    "back": [
+      "Hanoi"
+    ],
+    "group": "Asia",
+    "cc": "vn"
+  },
+  {
+    "front": "Malesia",
+    "back": [
+      "Kuala Lumpur"
+    ],
+    "group": "Asia",
+    "cc": "my"
+  },
+  {
+    "front": "Singapore",
+    "back": [
+      "Singapore"
+    ],
+    "group": "Asia",
+    "cc": "sg"
+  },
+  {
+    "front": "Brunei",
+    "back": [
+      "Bandar Seri Begawan"
+    ],
+    "group": "Asia",
+    "cc": "bn"
+  },
+  {
+    "front": "Indonesia",
+    "back": [
+      "Giacarta",
+      "Jakarta"
+    ],
+    "group": "Asia",
+    "cc": "id"
+  },
+  {
+    "front": "Filippine",
+    "back": [
+      "Manila"
+    ],
+    "group": "Asia",
+    "cc": "ph"
+  },
+  {
+    "front": "Timor Est",
+    "back": [
+      "Dili"
+    ],
+    "group": "Asia",
+    "cc": "tl"
+  },
+  {
+    "front": "Egitto",
+    "back": [
+      "Il Cairo",
+      "Cairo"
+    ],
+    "group": "Africa",
+    "cc": "eg"
+  },
+  {
+    "front": "Libia",
+    "back": [
+      "Tripoli"
+    ],
+    "group": "Africa",
+    "cc": "ly"
+  },
+  {
+    "front": "Tunisia",
+    "back": [
+      "Tunisi"
+    ],
+    "group": "Africa",
+    "cc": "tn"
+  },
+  {
+    "front": "Algeria",
+    "back": [
+      "Algeri"
+    ],
+    "group": "Africa",
+    "cc": "dz"
+  },
+  {
+    "front": "Marocco",
+    "back": [
+      "Rabat"
+    ],
+    "group": "Africa",
+    "cc": "ma"
+  },
+  {
+    "front": "Sudan",
+    "back": [
+      "Khartoum"
+    ],
+    "group": "Africa",
+    "cc": "sd"
+  },
+  {
+    "front": "Sud Sudan",
+    "back": [
+      "Giuba",
+      "Juba"
+    ],
+    "group": "Africa",
+    "cc": "ss"
+  },
+  {
+    "front": "Mauritania",
+    "back": [
+      "Nouakchott"
+    ],
+    "group": "Africa",
+    "cc": "mr"
+  },
+  {
+    "front": "Mali",
+    "back": [
+      "Bamako"
+    ],
+    "group": "Africa",
+    "cc": "ml"
+  },
+  {
+    "front": "Niger",
+    "back": [
+      "Niamey"
+    ],
+    "group": "Africa",
+    "cc": "ne"
+  },
+  {
+    "front": "Senegal",
+    "back": [
+      "Dakar"
+    ],
+    "group": "Africa",
+    "cc": "sn"
+  },
+  {
+    "front": "Gambia",
+    "back": [
+      "Banjul"
+    ],
+    "group": "Africa",
+    "cc": "gm"
+  },
+  {
+    "front": "Guinea-Bissau",
+    "back": [
+      "Bissau"
+    ],
+    "group": "Africa",
+    "cc": "gw"
+  },
+  {
+    "front": "Guinea",
+    "back": [
+      "Conakry"
+    ],
+    "group": "Africa",
+    "cc": "gn"
+  },
+  {
+    "front": "Sierra Leone",
+    "back": [
+      "Freetown"
+    ],
+    "group": "Africa",
+    "cc": "sl"
+  },
+  {
+    "front": "Liberia",
+    "back": [
+      "Monrovia"
+    ],
+    "group": "Africa",
+    "cc": "lr"
+  },
+  {
+    "front": "Costa d'Avorio",
+    "back": [
+      "Yamoussoukro",
+      "Abidjan"
+    ],
+    "group": "Africa",
+    "cc": "ci"
+  },
+  {
+    "front": "Ghana",
+    "back": [
+      "Accra"
+    ],
+    "group": "Africa",
+    "cc": "gh"
+  },
+  {
+    "front": "Togo",
+    "back": [
+      "Lome",
+      "Lomé"
+    ],
+    "group": "Africa",
+    "cc": "tg"
+  },
+  {
+    "front": "Benin",
+    "back": [
+      "Porto-Novo",
+      "Porto Novo"
+    ],
+    "group": "Africa",
+    "cc": "bj"
+  },
+  {
+    "front": "Burkina Faso",
+    "back": [
+      "Ouagadougou"
+    ],
+    "group": "Africa",
+    "cc": "bf"
+  },
+  {
+    "front": "Nigeria",
+    "back": [
+      "Abuja"
+    ],
+    "group": "Africa",
+    "cc": "ng"
+  },
+  {
+    "front": "Ciad",
+    "back": [
+      "N'Djamena",
+      "Ndjamena"
+    ],
+    "group": "Africa",
+    "cc": "td"
+  },
+  {
+    "front": "Camerun",
+    "back": [
+      "Yaounde",
+      "Yaoundé"
+    ],
+    "group": "Africa",
+    "cc": "cm"
+  },
+  {
+    "front": "Repubblica Centrafricana",
+    "back": [
+      "Bangui"
+    ],
+    "group": "Africa",
+    "cc": "cf"
+  },
+  {
+    "front": "Guinea Equatoriale",
+    "back": [
+      "Malabo"
+    ],
+    "group": "Africa",
+    "cc": "gq"
+  },
+  {
+    "front": "Gabon",
+    "back": [
+      "Libreville"
+    ],
+    "group": "Africa",
+    "cc": "ga"
+  },
+  {
+    "front": "Repubblica del Congo",
+    "back": [
+      "Brazzaville"
+    ],
+    "group": "Africa",
+    "cc": "cg"
+  },
+  {
+    "front": "Repubblica Democratica del Congo",
+    "back": [
+      "Kinshasa"
+    ],
+    "group": "Africa",
+    "cc": "cd"
+  },
+  {
+    "front": "Angola",
+    "back": [
+      "Luanda"
+    ],
+    "group": "Africa",
+    "cc": "ao"
+  },
+  {
+    "front": "Etiopia",
+    "back": [
+      "Addis Abeba"
+    ],
+    "group": "Africa",
+    "cc": "et"
+  },
+  {
+    "front": "Eritrea",
+    "back": [
+      "Asmara"
+    ],
+    "group": "Africa",
+    "cc": "er"
+  },
+  {
+    "front": "Gibuti",
+    "back": [
+      "Gibuti",
+      "Djibouti"
+    ],
+    "group": "Africa",
+    "cc": "dj"
+  },
+  {
+    "front": "Somalia",
+    "back": [
+      "Mogadiscio"
+    ],
+    "group": "Africa",
+    "cc": "so"
+  },
+  {
+    "front": "Kenya",
+    "back": [
+      "Nairobi"
+    ],
+    "group": "Africa",
+    "cc": "ke"
+  },
+  {
+    "front": "Uganda",
+    "back": [
+      "Kampala"
+    ],
+    "group": "Africa",
+    "cc": "ug"
+  },
+  {
+    "front": "Ruanda",
+    "back": [
+      "Kigali"
+    ],
+    "group": "Africa",
+    "cc": "rw"
+  },
+  {
+    "front": "Burundi",
+    "back": [
+      "Gitega",
+      "Bujumbura"
+    ],
+    "group": "Africa",
+    "cc": "bi"
+  },
+  {
+    "front": "Tanzania",
+    "back": [
+      "Dodoma",
+      "Dar es Salaam"
+    ],
+    "group": "Africa",
+    "cc": "tz"
+  },
+  {
+    "front": "Malawi",
+    "back": [
+      "Lilongwe"
+    ],
+    "group": "Africa",
+    "cc": "mw"
+  },
+  {
+    "front": "Zambia",
+    "back": [
+      "Lusaka"
+    ],
+    "group": "Africa",
+    "cc": "zm"
+  },
+  {
+    "front": "Mozambico",
+    "back": [
+      "Maputo"
+    ],
+    "group": "Africa",
+    "cc": "mz"
+  },
+  {
+    "front": "Zimbabwe",
+    "back": [
+      "Harare"
+    ],
+    "group": "Africa",
+    "cc": "zw"
+  },
+  {
+    "front": "Madagascar",
+    "back": [
+      "Antananarivo"
+    ],
+    "group": "Africa",
+    "cc": "mg"
+  },
+  {
+    "front": "Mauritius",
+    "back": [
+      "Port Louis"
+    ],
+    "group": "Africa",
+    "cc": "mu"
+  },
+  {
+    "front": "Namibia",
+    "back": [
+      "Windhoek"
+    ],
+    "group": "Africa",
+    "cc": "na"
+  },
+  {
+    "front": "Botswana",
+    "back": [
+      "Gaborone"
+    ],
+    "group": "Africa",
+    "cc": "bw"
+  },
+  {
+    "front": "Sudafrica",
+    "back": [
+      "Pretoria",
+      "Citta del Capo",
+      "Città del Capo",
+      "Bloemfontein"
+    ],
+    "group": "Africa",
+    "cc": "za"
+  },
+  {
+    "front": "Lesotho",
+    "back": [
+      "Maseru"
+    ],
+    "group": "Africa",
+    "cc": "ls"
+  },
+  {
+    "front": "Eswatini",
+    "back": [
+      "Mbabane"
+    ],
+    "group": "Africa",
+    "cc": "sz"
+  },
+  {
+    "front": "Canada",
+    "back": [
+      "Ottawa"
+    ],
+    "group": "America",
+    "cc": "ca"
+  },
+  {
+    "front": "Stati Uniti",
+    "back": [
+      "Washington",
+      "Washington D.C."
+    ],
+    "group": "America",
+    "cc": "us"
+  },
+  {
+    "front": "Messico",
+    "back": [
+      "Citta del Messico",
+      "Città del Messico"
+    ],
+    "group": "America",
+    "cc": "mx"
+  },
+  {
+    "front": "Guatemala",
+    "back": [
+      "Citta del Guatemala",
+      "Città del Guatemala",
+      "Guatemala"
+    ],
+    "group": "America",
+    "cc": "gt"
+  },
+  {
+    "front": "Belize",
+    "back": [
+      "Belmopan"
+    ],
+    "group": "America",
+    "cc": "bz"
+  },
+  {
+    "front": "Honduras",
+    "back": [
+      "Tegucigalpa"
+    ],
+    "group": "America",
+    "cc": "hn"
+  },
+  {
+    "front": "El Salvador",
+    "back": [
+      "San Salvador"
+    ],
+    "group": "America",
+    "cc": "sv"
+  },
+  {
+    "front": "Nicaragua",
+    "back": [
+      "Managua"
+    ],
+    "group": "America",
+    "cc": "ni"
+  },
+  {
+    "front": "Costa Rica",
+    "back": [
+      "San Jose",
+      "San José"
+    ],
+    "group": "America",
+    "cc": "cr"
+  },
+  {
+    "front": "Panama",
+    "back": [
+      "Panama"
+    ],
+    "group": "America",
+    "cc": "pa"
+  },
+  {
+    "front": "Cuba",
+    "back": [
+      "L'Avana",
+      "Avana",
+      "Havana"
+    ],
+    "group": "America",
+    "cc": "cu"
+  },
+  {
+    "front": "Giamaica",
+    "back": [
+      "Kingston"
+    ],
+    "group": "America",
+    "cc": "jm"
+  },
+  {
+    "front": "Haiti",
+    "back": [
+      "Port-au-Prince"
+    ],
+    "group": "America",
+    "cc": "ht"
+  },
+  {
+    "front": "Repubblica Dominicana",
+    "back": [
+      "Santo Domingo"
+    ],
+    "group": "America",
+    "cc": "do"
+  },
+  {
+    "front": "Bahamas",
+    "back": [
+      "Nassau"
+    ],
+    "group": "America",
+    "cc": "bs"
+  },
+  {
+    "front": "Trinidad e Tobago",
+    "back": [
+      "Port of Spain",
+      "Port-of-Spain"
+    ],
+    "group": "America",
+    "cc": "tt"
+  },
+  {
+    "front": "Colombia",
+    "back": [
+      "Bogota",
+      "Bogotà"
+    ],
+    "group": "America",
+    "cc": "co"
+  },
+  {
+    "front": "Venezuela",
+    "back": [
+      "Caracas"
+    ],
+    "group": "America",
+    "cc": "ve"
+  },
+  {
+    "front": "Guyana",
+    "back": [
+      "Georgetown"
+    ],
+    "group": "America",
+    "cc": "gy"
+  },
+  {
+    "front": "Suriname",
+    "back": [
+      "Paramaribo"
+    ],
+    "group": "America",
+    "cc": "sr"
+  },
+  {
+    "front": "Ecuador",
+    "back": [
+      "Quito"
+    ],
+    "group": "America",
+    "cc": "ec"
+  },
+  {
+    "front": "Peru",
+    "back": [
+      "Lima"
+    ],
+    "group": "America",
+    "cc": "pe"
+  },
+  {
+    "front": "Brasile",
+    "back": [
+      "Brasilia",
+      "Brasília"
+    ],
+    "group": "America",
+    "cc": "br"
+  },
+  {
+    "front": "Bolivia",
+    "back": [
+      "Sucre",
+      "La Paz"
+    ],
+    "group": "America",
+    "cc": "bo"
+  },
+  {
+    "front": "Paraguay",
+    "back": [
+      "Asuncion",
+      "Asunción"
+    ],
+    "group": "America",
+    "cc": "py"
+  },
+  {
+    "front": "Cile",
+    "back": [
+      "Santiago",
+      "Santiago del Cile"
+    ],
+    "group": "America",
+    "cc": "cl"
+  },
+  {
+    "front": "Argentina",
+    "back": [
+      "Buenos Aires"
+    ],
+    "group": "America",
+    "cc": "ar"
+  },
+  {
+    "front": "Uruguay",
+    "back": [
+      "Montevideo"
+    ],
+    "group": "America",
+    "cc": "uy"
+  },
+  {
+    "front": "Australia",
+    "back": [
+      "Canberra"
+    ],
+    "group": "Oceania",
+    "cc": "au"
+  },
+  {
+    "front": "Nuova Zelanda",
+    "back": [
+      "Wellington"
+    ],
+    "group": "Oceania",
+    "cc": "nz"
+  },
+  {
+    "front": "Papua Nuova Guinea",
+    "back": [
+      "Port Moresby"
+    ],
+    "group": "Oceania",
+    "cc": "pg"
+  },
+  {
+    "front": "Figi",
+    "back": [
+      "Suva"
+    ],
+    "group": "Oceania",
+    "cc": "fj"
+  },
+  {
+    "front": "Isole Salomone",
+    "back": [
+      "Honiara"
+    ],
+    "group": "Oceania",
+    "cc": "sb"
+  },
+  {
+    "front": "Vanuatu",
+    "back": [
+      "Port Vila"
+    ],
+    "group": "Oceania",
+    "cc": "vu"
+  }
+]

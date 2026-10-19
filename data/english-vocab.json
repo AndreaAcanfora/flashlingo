@@ -1,0 +1,911 @@
+[
+  {
+    "front": "retrieve",
+    "back": [
+      "recuperare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "wonder",
+    "back": [
+      "meravigliarsi",
+      "chiedere"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "appeal",
+    "back": [
+      "ricorrere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "involve",
+    "back": [
+      "coinvolgere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "astonish",
+    "back": [
+      "stupire"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "lay",
+    "back": [
+      "posare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "strive",
+    "back": [
+      "lottare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "refine",
+    "back": [
+      "affinare"
+    ],
+    "level": null
+  },
+  {
+    "front": "slam",
+    "back": [
+      "sbattere"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "grab",
+    "back": [
+      "afferrare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "spun",
+    "back": [
+      "girare"
+    ],
+    "level": null
+  },
+  {
+    "front": "smash",
+    "back": [
+      "distruggere"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "fulfill",
+    "back": [
+      "soddisfare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "contend",
+    "back": [
+      "lottare"
+    ],
+    "level": null
+  },
+  {
+    "front": "hang out",
+    "back": [
+      "passare il tempo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "erase",
+    "back": [
+      "cancellare"
+    ],
+    "level": null
+  },
+  {
+    "front": "convey",
+    "back": [
+      "trasmettere"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "to back",
+    "back": [
+      "sostenere"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "to carry on",
+    "back": [
+      "proseguire"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "to arrange",
+    "back": [
+      "organizzare"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "to clench",
+    "back": [
+      "stringere"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "astound",
+    "back": [
+      "stupire"
+    ],
+    "level": null
+  },
+  {
+    "front": "thus",
+    "back": [
+      "così",
+      "quindi"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "those",
+    "back": [
+      "quelle",
+      "quelli"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "either",
+    "back": [
+      "o",
+      "entrambi"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "quite",
+    "back": [
+      "abbastanza"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "briefly",
+    "back": [
+      "brevemente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "overall",
+    "back": [
+      "complessivamente"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "berserk",
+    "back": [
+      "frenetico"
+    ],
+    "level": null
+  },
+  {
+    "front": "overshoot",
+    "back": [
+      "andare oltre"
+    ],
+    "level": null
+  },
+  {
+    "front": "unlikely",
+    "back": [
+      "improbabile"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "Moreover",
+    "back": [
+      "inoltre"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "statement",
+    "back": [
+      "dichiarazione"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "batch",
+    "back": [
+      "lotto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "further",
+    "back": [
+      "ulteriore"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "troubleshoot",
+    "back": [
+      "risoluzione dei problemi"
+    ],
+    "level": null
+  },
+  {
+    "front": "though",
+    "back": [
+      "anche se",
+      "sebbene"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "early",
+    "back": [
+      "presto"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "therefore",
+    "back": [
+      "perciò"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "inch",
+    "back": [
+      "pollice"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "newly",
+    "back": [
+      "recentemente"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "stride",
+    "back": [
+      "passo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "tough",
+    "back": [
+      "difficile"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "loaf",
+    "back": [
+      "pagnotta"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "safety",
+    "back": [
+      "sicurezza"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "sake",
+    "back": [
+      "interesse"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "lone",
+    "back": [
+      "solitario",
+      "solitaria"
+    ],
+    "level": null
+  },
+  {
+    "front": "charm",
+    "back": [
+      "fascino"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "charming",
+    "back": [
+      "affascinante"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "sweater",
+    "back": [
+      "maglione"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "silly",
+    "back": [
+      "sciocco"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "scare",
+    "back": [
+      "spavento",
+      "spaventare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "claim",
+    "back": [
+      "richiesta"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "snare",
+    "back": [
+      "trappola"
+    ],
+    "level": null
+  },
+  {
+    "front": "hardship",
+    "back": [
+      "disagio"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "misuse",
+    "back": [
+      "abuso"
+    ],
+    "level": null
+  },
+  {
+    "front": "faith",
+    "back": [
+      "fede"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "aid",
+    "back": [
+      "aiuto"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "keen",
+    "back": [
+      "acuto"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "tight",
+    "back": [
+      "stretto"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "matter",
+    "back": [
+      "importa",
+      "questione"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "proof",
+    "back": [
+      "prova",
+      "testimonianza"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "wide",
+    "back": [
+      "ampio"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "breed",
+    "back": [
+      "razza"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "dummy",
+    "back": [
+      "manichino"
+    ],
+    "level": null
+  },
+  {
+    "front": "onward",
+    "back": [
+      "avanti"
+    ],
+    "level": null
+  },
+  {
+    "front": "span",
+    "back": [
+      "durata"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "grading",
+    "back": [
+      "classificazione"
+    ],
+    "level": null
+  },
+  {
+    "front": "Fairly",
+    "back": [
+      "abbastanza"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "whereas",
+    "back": [
+      "mentre"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "lack",
+    "back": [
+      "mancanza",
+      "mancare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "wasteful",
+    "back": [
+      "dispendioso"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "suitable",
+    "back": [
+      "adatto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "spoilt",
+    "back": [
+      "viziato"
+    ],
+    "level": null
+  },
+  {
+    "front": "spell",
+    "back": [
+      "fascino",
+      "incantesimo"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "west",
+    "back": [
+      "ovest"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "figure",
+    "back": [
+      "figura",
+      "cifra"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "heat",
+    "back": [
+      "calore",
+      "riscaldare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "whose",
+    "back": [
+      "di chi",
+      "di cui"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "heavy",
+    "back": [
+      "pesante"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "daisy",
+    "back": [
+      "margherita"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "syllabus",
+    "back": [
+      "programma"
+    ],
+    "level": null
+  },
+  {
+    "front": "anger",
+    "back": [
+      "rabbia"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "evidence",
+    "back": [
+      "prova"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "downhill",
+    "back": [
+      "discesa"
+    ],
+    "level": null
+  },
+  {
+    "front": "dreary",
+    "back": [
+      "triste"
+    ],
+    "level": null
+  },
+  {
+    "front": "concern",
+    "back": [
+      "preocuppazione",
+      "interessare"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "boundary",
+    "back": [
+      "confine"
+    ],
+    "level": null
+  },
+  {
+    "front": "rash",
+    "back": [
+      "avventato"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "willing",
+    "back": [
+      "disposto"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "deaf",
+    "back": [
+      "sordo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "somehow",
+    "back": [
+      "in qualche modo"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "pledge",
+    "back": [
+      "impegno"
+    ],
+    "level": null
+  },
+  {
+    "front": "liability",
+    "back": [
+      "responsabilità"
+    ],
+    "level": null
+  },
+  {
+    "front": "kindness",
+    "back": [
+      "gentilezza"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "endeavor",
+    "back": [
+      "tentativo"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "within",
+    "back": [
+      "entro"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "rate",
+    "back": [
+      "tasso"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "toward",
+    "back": [
+      "verso"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "so far",
+    "back": [
+      "finora"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "snippet",
+    "back": [
+      "frammento"
+    ],
+    "level": "C2"
+  },
+  {
+    "front": "pitch",
+    "back": [
+      "intonazione",
+      "montare",
+      "lanciare"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "inference",
+    "back": [
+      "deduzione"
+    ],
+    "level": "B2"
+  },
+  {
+    "front": "so on",
+    "back": [
+      "presto",
+      "appena"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "slight",
+    "back": [
+      "lieve"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "prone",
+    "back": [
+      "incline"
+    ],
+    "level": "C2"
+  },
+  {
+    "front": "breadth",
+    "back": [
+      "ampiezza"
+    ],
+    "level": null
+  },
+  {
+    "front": "mat",
+    "back": [
+      "tappeto"
+    ],
+    "level": null
+  },
+  {
+    "front": "fence",
+    "back": [
+      "recinto"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "shiver",
+    "back": [
+      "brivido",
+      "tremare"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "prize",
+    "back": [
+      "premio"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "flat",
+    "back": [
+      "piatta"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "skew",
+    "back": [
+      "storto"
+    ],
+    "level": "C2"
+  },
+  {
+    "front": "disease",
+    "back": [
+      "malattia"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "deal of",
+    "back": [
+      "un sacco di"
+    ],
+    "level": "A2"
+  },
+  {
+    "front": "lookout",
+    "back": [
+      "attenzione"
+    ],
+    "level": null
+  },
+  {
+    "front": "straight",
+    "back": [
+      "diritto"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "afterwards",
+    "back": [
+      "in seguito"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "bright",
+    "back": [
+      "luminoso"
+    ],
+    "level": "A1"
+  },
+  {
+    "front": "demand",
+    "back": [
+      "richiesta",
+      "domanda"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "hang in there",
+    "back": [
+      "tenere duro"
+    ],
+    "level": "B1"
+  },
+  {
+    "front": "peerless",
+    "back": [
+      "impareggiabile"
+    ],
+    "level": null
+  },
+  {
+    "front": "halt",
+    "back": [
+      "arresto"
+    ],
+    "level": null
+  },
+  {
+    "front": "transplant",
+    "back": [
+      "trapianto"
+    ],
+    "level": null
+  },
+  {
+    "front": "asset",
+    "back": [
+      "risorsa"
+    ],
+    "level": null
+  },
+  {
+    "front": "wares",
+    "back": [
+      "merci"
+    ],
+    "level": "C1"
+  },
+  {
+    "front": "stock",
+    "back": [
+      "azione"
+    ],
+    "level": "B2"
+  }
+]

@@ -1,0 +1,84 @@
+/* Thin layer for things that are awkward as Tailwind utilities:
+   the card flip, reduced-motion, focus rings, and a few primitives. */
+
+:root {
+  --flip-ms: 420ms;
+}
+
+/* 3D flip card ------------------------------------------------------------ */
+.flip {
+  perspective: 1400px;
+}
+.flip-inner {
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform var(--flip-ms) cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.flip.revealed .flip-inner {
+  transform: rotateX(180deg);
+}
+.flip-face {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.flip-back {
+  transform: rotateX(180deg);
+}
+/* The inner element needs an explicit height; the wrapper sets it per-screen. */
+.flip,
+.flip-inner {
+  height: 100%;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .flip-inner {
+    transition: none;
+  }
+}
+
+/* Focus visibility -------------------------------------------------------- */
+:focus-visible {
+  outline: 2px solid #6366f1;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Keyboard hint keycaps --------------------------------------------------- */
+kbd {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.72rem;
+  line-height: 1;
+  padding: 2px 6px;
+  border-radius: 6px;
+  border: 1px solid rgb(148 163 184 / 0.5);
+  background: rgb(148 163 184 / 0.12);
+  white-space: nowrap;
+}
+
+/* Toast ------------------------------------------------------------------- */
+.toast {
+  animation: toast-in 160ms ease-out;
+}
+@keyframes toast-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Flag rendering ---------------------------------------------------------- */
+.flag {
+  display: inline-block;
+  border-radius: 3px;
+  box-shadow: 0 0 0 1px rgb(15 23 42 / 0.12);
+  object-fit: cover;
+  background: rgb(148 163 184 / 0.2);
+}
