@@ -1,0 +1,32 @@
+{
+ "_note": "Hand-reviewed fixes for raw/words-excel.txt (typos, wrong senses, nouns instead of verbs, stray capitals). 'rename' fixes the English side; 'replace' replaces the Italian answers.",
+ "rename": { "Moreover": "moreover", "Fairly": "fairly", "spun": "spin", "so on": "and so on", "deal of": "a great deal of" },
+ "replace": {
+  "spin": ["girare", "ruotare"],
+  "troubleshoot": ["risolvere i problemi", "diagnosticare"],
+  "smash": ["frantumare", "distruggere", "schiacciare"],
+  "appeal": ["fare appello", "ricorrere", "appello"],
+  "claim": ["affermare", "rivendicare", "richiesta"],
+  "matter": ["importare", "questione"],
+  "concern": ["preoccupazione", "riguardare", "preoccupare"],
+  "and so on": ["e così via", "eccetera"],
+  "stride": ["passo", "camminare a grandi passi"],
+  "span": ["durata", "arco", "estendersi"],
+  "skew": ["distorcere", "falsare", "storto"],
+  "flat": ["piatto", "appartamento"],
+  "stock": ["azioni", "scorta"],
+  "endeavor": ["sforzo", "impegno", "sforzarsi"],
+  "halt": ["fermare", "fermarsi", "arresto"],
+  "keen": ["appassionato", "desideroso", "acuto"],
+  "aid": ["aiuto", "aiutare"],
+  "lookout": ["vedetta", "sentinella", "stare all'erta"],
+  "grading": ["valutazione", "voto"],
+  "sake": ["bene", "per amore di"],
+  "contend": ["sostenere", "competere", "lottare"],
+  "berserk": ["furioso", "fuori di sé"],
+  "dummy": ["manichino", "fantoccio", "finto"],
+  "a great deal of": ["molto", "un sacco di"],
+  "either": ["o", "l'uno o l'altro", "neanche"]
+ },
+ "remove": []
+}

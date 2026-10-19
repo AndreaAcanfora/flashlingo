@@ -107,9 +107,30 @@ export function convert({ levelMap }) {
     }
     void merged;
 
+    // Hand-reviewed corrections: replace the Italian answers of listed words and
+    // drop junk entries. Applied last, so they win over the raw data and merges.
+    let corrected = 0;
+    if (deck.corrections) {
+      const corr = JSON.parse(readFileSync(join(RAW_DIR, deck.corrections), 'utf8'));
+      for (const [from, to] of Object.entries(corr.rename || {})) {
+        const c = byKey.get(dedupeKey(from));
+        if (!c) { console.warn(`    ! rename for unknown word "${from}"`); continue; }
+        byKey.delete(dedupeKey(from));
+        c.front = clean(to);
+        byKey.set(dedupeKey(to), c);
+      }
+      for (const [front, back] of Object.entries(corr.replace || {})) {
+        const c = byKey.get(dedupeKey(front));
+        if (c) { c.back = back.map(clean); corrected++; }
+        else console.warn(`    ! correction for unknown word "${front}"`);
+      }
+      const drop = new Set((corr.remove || []).map(dedupeKey));
+      for (let i = cards.length - 1; i >= 0; i--) if (drop.has(dedupeKey(cards[i].front))) cards.splice(i, 1);
+    }
+
     writeJSONAtomic(join(DATA_DIR, `${deck.id}.json`), cards, CARD_KEY_ORDER);
     const leveled = deck.levels ? cards.filter((c) => c.level).length : 0;
-    report.push({ id: deck.id, count: cards.length, dropped, leveled, unmapped });
+    report.push({ id: deck.id, count: cards.length, dropped, leveled, unmapped, corrected });
   }
   return report;
 }

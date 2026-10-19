@@ -22,7 +22,7 @@ async function main() {
   console.log(`CEFR level map: ${map.size} headwords from ${rows} rows.`);
   const report = convert({ levelMap: map });
   for (const r of report) {
-    console.log(`  ${r.id.padEnd(16)} ${r.count} cards (dropped ${r.dropped}${r.leveled ? `, leveled ${r.leveled}` : ''})`);
+    console.log(`  ${r.id.padEnd(16)} ${r.count} cards (dropped ${r.dropped}${r.leveled ? `, leveled ${r.leveled}` : ''}${r.corrected ? `, corrected ${r.corrected}` : ''})`);
     if (r.unmapped.length) console.warn(`    ! unmapped countries: ${r.unmapped.join(', ')}`);
   }
 

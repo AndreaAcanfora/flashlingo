@@ -11,6 +11,7 @@ export const DECKS = [
     // Second file adds hand-authored advanced (C1/C2) words with explicit levels
     // so the top levels aren't nearly empty (otherwise adaptive loops 2 cards).
     raw: ['3000words.js', 'english-advanced.json', 'english-extra.json', 'english-extra2.json', 'english-extra3.json', 'english-extra4.json', 'english-extra5.json', 'english-extra6.json', 'english-extra7.json', 'english-extra8.json', 'english-extra9.json', 'english-extra10.json', 'english-extra11.json', 'english-extra12.json', 'english-extra13.json', 'english-extra14.json', 'english-extra15.json'],
+    corrections: 'english-3000-corrections.json',
     format: 'json',
     levels: true,
     meta: {
@@ -54,6 +55,7 @@ export const DECKS = [
   {
     id: 'english-vocab',
     raw: 'words-excel.txt',
+    corrections: 'english-vocab-corrections.json',
     format: 'json',
     levels: true,
     meta: {

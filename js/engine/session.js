@@ -15,9 +15,35 @@ function applyFilters(cards, filters) {
   return out;
 }
 
+// Priority used by adaptive mode: due reviews first, then new cards, and only
+// then cards seen recently that aren't due yet (so you don't get the same
+// words session after session).
 function weight(card, stat, sessionCount) {
-  if (!stat.seen) return 3.5; // unseen: equal weight (order randomized by the shuffle below)
-  return (6 - stat.box) + 2 * errorRate(stat) + (isDue(stat, sessionCount) ? 1.5 : 0);
+  if (!stat.seen) return 5;
+  if (isDue(stat, sessionCount)) return 6 + (6 - stat.box) + 2 * errorRate(stat);
+  return 1 + errorRate(stat);
+}
+
+// Pick `n` cards for a session: up to half are due reviews (hardest first),
+// the rest are new cards chosen at random, then anything else. The final list
+// is shuffled so the order is random too.
+function selectCards(pool, n, statOf, sessionCount) {
+  const due = [], fresh = [], later = [];
+  for (const c of shuffle([...pool])) {
+    const s = statOf(c);
+    if (!s.seen) fresh.push(c);
+    else if (isDue(s, sessionCount)) due.push(c);
+    else later.push(c);
+  }
+  due.sort((a, b) => weight(b, statOf(b), sessionCount) - weight(a, statOf(a), sessionCount));
+  if (!(n > 0)) n = pool.length;
+  const reviews = due.slice(0, Math.ceil(n / 2));
+  const picked = [...reviews, ...fresh.slice(0, n - reviews.length)];
+  for (const c of [...due.slice(reviews.length), ...later]) {
+    if (picked.length >= n) break;
+    picked.push(c);
+  }
+  return shuffle(picked.slice(0, n));
 }
 
 // Fisher–Yates shuffle (in place).
@@ -50,14 +76,9 @@ export function createSession(deck, { mode, gradeMode, filters, length, learn = 
     adaptive = createAdaptive(filters.startLevel, deck.cards);
     poolSize = deck.cards.filter((c) => c.level).length;
   } else {
-    const pool = applyFilters(deck.cards, filters);
-    // Shuffle first, then stable-sort by weight: harder cards come first, and
-    // cards of equal weight (e.g. all unseen) end up in random order so the
-    // session doesn't always start from the same card.
-    const sorted = shuffle([...pool]).sort((a, b) => weight(b, statOf(b), sessionCount) - weight(a, statOf(a), sessionCount));
     // Both goals take only `length` cards (0 = all); "learn" then repeats
     // missed ones until every selected card is answered correctly.
-    queue = sorted.slice(0, length > 0 ? length : sorted.length);
+    queue = selectCards(applyFilters(deck.cards, filters), length, statOf, sessionCount);
     poolSize = queue.length;
   }
 

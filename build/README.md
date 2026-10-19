@@ -69,3 +69,18 @@ Only the derived label is written into the deck files — the CSVs are never com
 See the "Optional: AI enrichment" section in the root `README.md`. `enrich.js` fills
 `meanings`/`synonyms`/`example` using the Anthropic API with your own key; `.env`
 holds the key and is gitignored. `enrich-report.js` prints a review with flags.
+
+## Translation corrections
+
+The original wordlists (`raw/3000words.js`, `raw/words-excel.txt`) were largely
+machine-translated and contained errors: UI-style imperatives ("add = Inserisci"),
+nouns instead of verb infinitives ("borrow = prestito"), wrong senses
+("adjustment = registrazione"), gerunds, stray articles and capitals.
+
+Rather than editing the raw files, hand-reviewed fixes live in
+`raw/<deck>-corrections.json` and are applied by `convert.js` **after** all
+supplements are merged:
+
+- `replace`: word → the correct Italian answers (verbs in the infinitive)
+- `rename`: fixes the English side (e.g. `spun` → `spin`)
+- `remove`: drops junk entries

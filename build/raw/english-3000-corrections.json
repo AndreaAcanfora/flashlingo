@@ -1,0 +1,2405 @@
+{
+ "_note": "Hand-reviewed fixes for machine-translation errors in raw/3000words.js (imperatives like \"Inserisci\", nouns instead of verb infinitives, wrong senses, stray articles/capitals). Applied by convert.js after supplements are merged; each entry REPLACES the Italian answers.",
+ "replace": {
+  "about": [
+   "di",
+   "circa",
+   "riguardo a"
+  ],
+  "act": [
+   "agire",
+   "atto",
+   "recitare"
+  ],
+  "add": [
+   "aggiungere"
+  ],
+  "adjustment": [
+   "regolazione",
+   "adattamento",
+   "modifica"
+  ],
+  "again": [
+   "di nuovo",
+   "ancora"
+  ],
+  "aid": [
+   "aiuto",
+   "aiutare"
+  ],
+  "aim": [
+   "scopo",
+   "obiettivo",
+   "mirare"
+  ],
+  "all": [
+   "tutti",
+   "tutto"
+  ],
+  "ally": [
+   "alleato",
+   "allearsi"
+  ],
+  "anybody": [
+   "chiunque",
+   "qualcuno"
+  ],
+  "anything": [
+   "qualcosa",
+   "qualsiasi cosa",
+   "niente"
+  ],
+  "anyway": [
+   "comunque"
+  ],
+  "appeal": [
+   "appello",
+   "fare appello",
+   "attrarre"
+  ],
+  "appropriate": [
+   "appropriato",
+   "adeguato"
+  ],
+  "area": [
+   "zona",
+   "area"
+  ],
+  "arrangement": [
+   "accordo",
+   "sistemazione",
+   "preparativi"
+  ],
+  "ask": [
+   "chiedere",
+   "domandare"
+  ],
+  "asset": [
+   "risorsa",
+   "bene"
+  ],
+  "assignment": [
+   "incarico",
+   "compito"
+  ],
+  "associate": [
+   "associare",
+   "socio"
+  ],
+  "assumption": [
+   "supposizione",
+   "presupposto"
+  ],
+  "attend": [
+   "frequentare",
+   "partecipare",
+   "assistere"
+  ],
+  "attorney": [
+   "avvocato",
+   "procuratore"
+  ],
+  "attribute": [
+   "attributo",
+   "attribuire"
+  ],
+  "back": [
+   "indietro",
+   "schiena",
+   "sostenere"
+  ],
+  "bag": [
+   "borsa"
+  ],
+  "begin": [
+   "iniziare",
+   "cominciare"
+  ],
+  "benefit": [
+   "beneficio",
+   "beneficiare"
+  ],
+  "besides": [
+   "inoltre",
+   "oltre a"
+  ],
+  "bit": [
+   "pezzetto",
+   "un po'"
+  ],
+  "blow": [
+   "soffiare",
+   "colpo"
+  ],
+  "board": [
+   "tavola",
+   "consiglio",
+   "salire a bordo"
+  ],
+  "borrow": [
+   "prendere in prestito"
+  ],
+  "bottom": [
+   "fondo",
+   "parte inferiore"
+  ],
+  "breast": [
+   "seno",
+   "petto"
+  ],
+  "British": [
+   "britannico"
+  ],
+  "brush": [
+   "spazzola",
+   "spazzolare"
+  ],
+  "buck": [
+   "dollaro",
+   "maschio (di cervo)"
+  ],
+  "budget": [
+   "bilancio",
+   "budget"
+  ],
+  "burden": [
+   "fardello",
+   "peso",
+   "gravare"
+  ],
+  "business": [
+   "affari",
+   "azienda",
+   "attività commerciale"
+  ],
+  "buy": [
+   "comprare",
+   "acquistare"
+  ],
+  "by": [
+   "da",
+   "entro",
+   "vicino a"
+  ],
+  "cabinet": [
+   "armadietto",
+   "consiglio dei ministri"
+  ],
+  "camera": [
+   "macchina fotografica",
+   "telecamera"
+  ],
+  "carefully": [
+   "con attenzione",
+   "attentamente"
+  ],
+  "carrier": [
+   "vettore",
+   "corriere"
+  ],
+  "case": [
+   "caso",
+   "custodia",
+   "astuccio"
+  ],
+  "cast": [
+   "lanciare",
+   "gettare",
+   "cast"
+  ],
+  "CEO": [
+   "amministratore delegato"
+  ],
+  "chamber": [
+   "camera",
+   "sala"
+  ],
+  "chance": [
+   "possibilità",
+   "occasione"
+  ],
+  "change": [
+   "cambiare",
+   "cambiamento",
+   "resto (soldi)"
+  ],
+  "changing": [
+   "mutevole",
+   "che cambia"
+  ],
+  "check": [
+   "controllare",
+   "verificare",
+   "controllo"
+  ],
+  "chip": [
+   "patatina",
+   "chip"
+  ],
+  "claim": [
+   "affermare",
+   "rivendicare",
+   "richiesta"
+  ],
+  "class": [
+   "classe",
+   "lezione"
+  ],
+  "clear": [
+   "chiaro",
+   "liberare",
+   "sgomberare"
+  ],
+  "climb": [
+   "arrampicarsi",
+   "scalare",
+   "salita"
+  ],
+  "close": [
+   "chiudere",
+   "vicino"
+  ],
+  "cloud": [
+   "nuvola",
+   "nube"
+  ],
+  "clue": [
+   "indizio",
+   "traccia"
+  ],
+  "coast": [
+   "costa"
+  ],
+  "collapse": [
+   "crollare",
+   "crollo"
+  ],
+  "college": [
+   "università",
+   "istituto superiore"
+  ],
+  "comfort": [
+   "comodità",
+   "conforto",
+   "confortare"
+  ],
+  "committee": [
+   "comitato",
+   "commissione"
+  ],
+  "competition": [
+   "competizione",
+   "concorrenza",
+   "gara"
+  ],
+  "complaint": [
+   "reclamo",
+   "lamentela"
+  ],
+  "comprehensive": [
+   "completo",
+   "esaustivo",
+   "globale"
+  ],
+  "concentrate": [
+   "concentrarsi",
+   "concentrare"
+  ],
+  "concern": [
+   "preoccupazione",
+   "riguardare",
+   "preoccupare"
+  ],
+  "concerned": [
+   "preoccupato",
+   "interessato"
+  ],
+  "concrete": [
+   "concreto",
+   "calcestruzzo"
+  ],
+  "conduct": [
+   "condurre",
+   "condotta"
+  ],
+  "congressional": [
+   "del Congresso"
+  ],
+  "connect": [
+   "collegare",
+   "connettere"
+  ],
+  "conservative": [
+   "conservatore",
+   "prudente"
+  ],
+  "consider": [
+   "considerare",
+   "ritenere"
+  ],
+  "content": [
+   "contenuto",
+   "soddisfatto"
+  ],
+  "contest": [
+   "concorso",
+   "gara",
+   "contestare"
+  ],
+  "continue": [
+   "continuare"
+  ],
+  "continued": [
+   "continuo",
+   "proseguito"
+  ],
+  "contract": [
+   "contratto",
+   "contrarre"
+  ],
+  "cooking": [
+   "cucina",
+   "il cucinare"
+  ],
+  "cool": [
+   "fresco",
+   "figo",
+   "raffreddare"
+  ],
+  "cope": [
+   "farcela",
+   "far fronte"
+  ],
+  "corn": [
+   "mais"
+  ],
+  "could": [
+   "poteva",
+   "potrebbe"
+  ],
+  "counselor": [
+   "consulente",
+   "consigliere"
+  ],
+  "count": [
+   "contare",
+   "conteggio"
+  ],
+  "court": [
+   "tribunale",
+   "corte",
+   "campo (da gioco)"
+  ],
+  "cover": [
+   "coprire",
+   "copertina",
+   "copertura"
+  ],
+  "crack": [
+   "crepa",
+   "incrinare"
+  ],
+  "craft": [
+   "mestiere",
+   "artigianato",
+   "creare"
+  ],
+  "crash": [
+   "schianto",
+   "schiantarsi",
+   "incidente"
+  ],
+  "crop": [
+   "raccolto",
+   "coltura",
+   "ritagliare"
+  ],
+  "custom": [
+   "usanza",
+   "costume"
+  ],
+  "cycle": [
+   "ciclo",
+   "andare in bicicletta"
+  ],
+  "daily": [
+   "quotidiano",
+   "quotidianamente"
+  ],
+  "deal": [
+   "affare",
+   "accordo",
+   "occuparsi di"
+  ],
+  "dealer": [
+   "commerciante",
+   "rivenditore"
+  ],
+  "debate": [
+   "dibattito",
+   "discutere"
+  ],
+  "deck": [
+   "ponte (di nave)",
+   "mazzo (di carte)"
+  ],
+  "decline": [
+   "declino",
+   "diminuire",
+   "rifiutare"
+  ],
+  "defeat": [
+   "sconfitta",
+   "sconfiggere"
+  ],
+  "deficit": [
+   "deficit",
+   "disavanzo"
+  ],
+  "definitely": [
+   "sicuramente",
+   "decisamente"
+  ],
+  "demand": [
+   "richiesta",
+   "domanda",
+   "esigere"
+  ],
+  "depending": [
+   "a seconda di",
+   "dipende da"
+  ],
+  "depict": [
+   "raffigurare",
+   "rappresentare"
+  ],
+  "designer": [
+   "designer",
+   "progettista",
+   "stilista"
+  ],
+  "detect": [
+   "rilevare",
+   "individuare"
+  ],
+  "developing": [
+   "in via di sviluppo"
+  ],
+  "dining": [
+   "sala da pranzo",
+   "cenare"
+  ],
+  "dirt": [
+   "sporcizia",
+   "terra"
+  ],
+  "disability": [
+   "disabilità",
+   "invalidità"
+  ],
+  "dismiss": [
+   "licenziare",
+   "respingere",
+   "congedare"
+  ],
+  "dispute": [
+   "controversia",
+   "disputa"
+  ],
+  "dominate": [
+   "dominare"
+  ],
+  "downtown": [
+   "in centro",
+   "centro città"
+  ],
+  "drama": [
+   "dramma",
+   "teatro"
+  ],
+  "dress": [
+   "vestito",
+   "vestirsi"
+  ],
+  "drop": [
+   "far cadere",
+   "goccia",
+   "calare"
+  ],
+  "ease": [
+   "facilità",
+   "sollievo",
+   "alleviare"
+  ],
+  "education": [
+   "istruzione",
+   "formazione"
+  ],
+  "either": [
+   "o",
+   "l'uno o l'altro",
+   "neanche"
+  ],
+  "else": [
+   "altro",
+   "altrimenti"
+  ],
+  "embrace": [
+   "abbracciare",
+   "abbraccio"
+  ],
+  "encounter": [
+   "incontrare",
+   "incontro"
+  ],
+  "enforcement": [
+   "applicazione (della legge)",
+   "esecuzione"
+  ],
+  "engage": [
+   "coinvolgere",
+   "impegnarsi"
+  ],
+  "enjoy": [
+   "godere",
+   "divertirsi",
+   "gustare"
+  ],
+  "enter": [
+   "entrare",
+   "inserire",
+   "accedere"
+  ],
+  "entry": [
+   "ingresso",
+   "voce",
+   "iscrizione"
+  ],
+  "equal": [
+   "uguale",
+   "pari",
+   "eguagliare"
+  ],
+  "escape": [
+   "scappare",
+   "fuggire",
+   "fuga"
+  ],
+  "establishment": [
+   "istituzione",
+   "fondazione",
+   "stabilimento"
+  ],
+  "estate": [
+   "proprietà",
+   "tenuta",
+   "patrimonio"
+  ],
+  "even": [
+   "anche",
+   "perfino",
+   "pari"
+  ],
+  "eventually": [
+   "alla fine",
+   "prima o poi"
+  ],
+  "everything": [
+   "tutto"
+  ],
+  "everywhere": [
+   "dappertutto",
+   "ovunque"
+  ],
+  "exactly": [
+   "esattamente"
+  ],
+  "examination": [
+   "esame",
+   "visita medica"
+  ],
+  "exchange": [
+   "scambio",
+   "scambiare",
+   "cambio"
+  ],
+  "exhibit": [
+   "esporre",
+   "mostrare",
+   "reperto"
+  ],
+  "expensive": [
+   "caro",
+   "costoso"
+  ],
+  "experiment": [
+   "esperimento",
+   "sperimentare"
+  ],
+  "express": [
+   "esprimere",
+   "espresso"
+  ],
+  "extent": [
+   "misura",
+   "portata",
+   "estensione"
+  ],
+  "facility": [
+   "struttura",
+   "impianto",
+   "servizio"
+  ],
+  "fall": [
+   "cadere",
+   "caduta",
+   "autunno"
+  ],
+  "farmer": [
+   "agricoltore",
+   "contadino"
+  ],
+  "feature": [
+   "caratteristica",
+   "includere",
+   "presentare"
+  ],
+  "feed": [
+   "nutrire",
+   "dare da mangiare",
+   "alimentare"
+  ],
+  "feel": [
+   "sentire",
+   "sentirsi",
+   "provare"
+  ],
+  "fiction": [
+   "narrativa",
+   "finzione"
+  ],
+  "fight": [
+   "combattere",
+   "litigare",
+   "lotta"
+  ],
+  "fighting": [
+   "combattimento",
+   "lotta"
+  ],
+  "find": [
+   "trovare"
+  ],
+  "firm": [
+   "azienda",
+   "ditta",
+   "solido"
+  ],
+  "fit": [
+   "in forma",
+   "adattarsi",
+   "stare bene (vestito)"
+  ],
+  "flat": [
+   "piatto",
+   "appartamento"
+  ],
+  "flavor": [
+   "sapore",
+   "gusto"
+  ],
+  "float": [
+   "galleggiare"
+  ],
+  "focus": [
+   "concentrarsi",
+   "fuoco",
+   "messa a fuoco"
+  ],
+  "following": [
+   "seguente",
+   "successivo"
+  ],
+  "force": [
+   "forza",
+   "costringere"
+  ],
+  "foreign": [
+   "straniero",
+   "estero"
+  ],
+  "form": [
+   "modulo",
+   "forma",
+   "formare"
+  ],
+  "forth": [
+   "avanti",
+   "fuori"
+  ],
+  "forward": [
+   "avanti",
+   "inoltrare"
+  ],
+  "frame": [
+   "cornice",
+   "telaio",
+   "inquadrare"
+  ],
+  "free": [
+   "libero",
+   "gratuito",
+   "liberare"
+  ],
+  "from": [
+   "da"
+  ],
+  "front": [
+   "davanti",
+   "parte anteriore",
+   "fronte"
+  ],
+  "full": [
+   "pieno",
+   "completo"
+  ],
+  "fund": [
+   "fondo",
+   "finanziare"
+  ],
+  "furniture": [
+   "mobili",
+   "arredamento"
+  ],
+  "gain": [
+   "guadagnare",
+   "ottenere",
+   "guadagno"
+  ],
+  "gap": [
+   "divario",
+   "spazio vuoto",
+   "lacuna"
+  ],
+  "garage": [
+   "garage",
+   "box auto",
+   "officina"
+  ],
+  "gear": [
+   "attrezzatura",
+   "ingranaggio",
+   "marcia"
+  ],
+  "gender": [
+   "genere"
+  ],
+  "generate": [
+   "generare",
+   "creare"
+  ],
+  "glance": [
+   "occhiata",
+   "dare un'occhiata"
+  ],
+  "grab": [
+   "afferrare",
+   "prendere"
+  ],
+  "grade": [
+   "voto",
+   "grado",
+   "classe"
+  ],
+  "graduate": [
+   "laureato",
+   "diplomato",
+   "laurearsi"
+  ],
+  "grand": [
+   "grandioso",
+   "imponente"
+  ],
+  "grant": [
+   "concedere",
+   "sovvenzione",
+   "borsa di studio"
+  ],
+  "grocery": [
+   "alimentari",
+   "negozio di alimentari"
+  ],
+  "ground": [
+   "terreno",
+   "suolo",
+   "terra"
+  ],
+  "guarantee": [
+   "garanzia",
+   "garantire"
+  ],
+  "guideline": [
+   "linea guida",
+   "direttiva"
+  ],
+  "hang": [
+   "appendere",
+   "pendere"
+  ],
+  "headquarters": [
+   "sede centrale",
+   "quartier generale"
+  ],
+  "heat": [
+   "calore",
+   "caldo",
+   "riscaldare"
+  ],
+  "her": [
+   "lei",
+   "la",
+   "sua"
+  ],
+  "hold": [
+   "tenere",
+   "reggere",
+   "presa"
+  ],
+  "hole": [
+   "buco",
+   "foro"
+  ],
+  "holy": [
+   "santo",
+   "sacro"
+  ],
+  "host": [
+   "ospite",
+   "padrone di casa",
+   "ospitare"
+  ],
+  "hot": [
+   "caldo",
+   "piccante"
+  ],
+  "household": [
+   "famiglia",
+   "nucleo familiare",
+   "domestico"
+  ],
+  "hurt": [
+   "fare male",
+   "ferire",
+   "ferito"
+  ],
+  "ie": [
+   "cioè",
+   "ossia"
+  ],
+  "implement": [
+   "attuare",
+   "implementare",
+   "strumento"
+  ],
+  "implication": [
+   "implicazione",
+   "conseguenza"
+  ],
+  "impressive": [
+   "impressionante",
+   "notevole"
+  ],
+  "improve": [
+   "migliorare"
+  ],
+  "including": [
+   "compreso",
+   "incluso"
+  ],
+  "increase": [
+   "aumentare",
+   "aumento"
+  ],
+  "increased": [
+   "aumentato",
+   "maggiore"
+  ],
+  "influence": [
+   "influenza",
+   "influenzare"
+  ],
+  "inform": [
+   "informare",
+   "far sapere"
+  ],
+  "inquiry": [
+   "inchiesta",
+   "indagine",
+   "richiesta di informazioni"
+  ],
+  "instance": [
+   "esempio",
+   "caso"
+  ],
+  "instead": [
+   "invece"
+  ],
+  "iron": [
+   "ferro",
+   "ferro da stiro",
+   "stirare"
+  ],
+  "itself": [
+   "sé stesso",
+   "se stesso"
+  ],
+  "join": [
+   "unirsi",
+   "aderire",
+   "iscriversi"
+  ],
+  "joint": [
+   "comune",
+   "congiunto",
+   "articolazione"
+  ],
+  "journal": [
+   "rivista (specialistica)",
+   "diario"
+  ],
+  "kid": [
+   "bambino",
+   "ragazzo",
+   "scherzare"
+  ],
+  "kill": [
+   "uccidere"
+  ],
+  "labor": [
+   "lavoro",
+   "manodopera"
+  ],
+  "lack": [
+   "mancanza",
+   "mancare"
+  ],
+  "language": [
+   "lingua",
+   "linguaggio"
+  ],
+  "lap": [
+   "giro (di pista)",
+   "grembo"
+  ],
+  "later": [
+   "dopo",
+   "più tardi"
+  ],
+  "lawn": [
+   "prato"
+  ],
+  "lawsuit": [
+   "causa (legale)"
+  ],
+  "lay": [
+   "posare",
+   "stendere",
+   "deporre"
+  ],
+  "lead": [
+   "guidare",
+   "condurre",
+   "piombo"
+  ],
+  "leadership": [
+   "leadership",
+   "guida",
+   "direzione"
+  ],
+  "leading": [
+   "principale",
+   "di primo piano"
+  ],
+  "lean": [
+   "appoggiarsi",
+   "inclinarsi",
+   "magro"
+  ],
+  "least": [
+   "il meno",
+   "minimo"
+  ],
+  "leave": [
+   "partire",
+   "lasciare",
+   "congedo"
+  ],
+  "lie": [
+   "mentire",
+   "bugia",
+   "sdraiarsi"
+  ],
+  "lifetime": [
+   "vita",
+   "tutta la vita"
+  ],
+  "lift": [
+   "sollevare",
+   "alzare",
+   "ascensore"
+  ],
+  "light": [
+   "luce",
+   "leggero",
+   "accendere"
+  ],
+  "like": [
+   "come",
+   "piacere"
+  ],
+  "list": [
+   "elenco",
+   "lista",
+   "elencare"
+  ],
+  "little": [
+   "piccolo",
+   "poco"
+  ],
+  "live": [
+   "vivere",
+   "abitare",
+   "dal vivo"
+  ],
+  "living": [
+   "vivente",
+   "vita",
+   "sostentamento"
+  ],
+  "location": [
+   "posizione",
+   "luogo"
+  ],
+  "lock": [
+   "serratura",
+   "chiudere a chiave"
+  ],
+  "look": [
+   "guardare",
+   "sembrare",
+   "sguardo"
+  ],
+  "loose": [
+   "allentato",
+   "sciolto",
+   "largo"
+  ],
+  "lost": [
+   "perso",
+   "smarrito"
+  ],
+  "lot": [
+   "molto",
+   "un sacco"
+  ],
+  "loud": [
+   "forte",
+   "rumoroso"
+  ],
+  "love": [
+   "amare",
+   "amore"
+  ],
+  "lovely": [
+   "bello",
+   "delizioso",
+   "incantevole"
+  ],
+  "lower": [
+   "abbassare",
+   "inferiore"
+  ],
+  "lunch": [
+   "pranzo"
+  ],
+  "mail": [
+   "posta",
+   "spedire"
+  ],
+  "maker": [
+   "produttore",
+   "creatore"
+  ],
+  "manufacturing": [
+   "produzione",
+   "manifattura"
+  ],
+  "map": [
+   "mappa",
+   "cartina"
+  ],
+  "mark": [
+   "segno",
+   "segnare",
+   "voto"
+  ],
+  "market": [
+   "mercato",
+   "commercializzare"
+  ],
+  "mass": [
+   "massa",
+   "di massa",
+   "messa"
+  ],
+  "match": [
+   "partita",
+   "fiammifero",
+   "abbinare"
+  ],
+  "matter": [
+   "questione",
+   "importare",
+   "materia"
+  ],
+  "may": [
+   "potere (possibilità)",
+   "può darsi",
+   "maggio"
+  ],
+  "mayor": [
+   "sindaco"
+  ],
+  "mention": [
+   "menzionare",
+   "citare",
+   "menzione"
+  ],
+  "mess": [
+   "disordine",
+   "pasticcio",
+   "scompigliare"
+  ],
+  "miss": [
+   "perdere",
+   "mancare",
+   "sentire la mancanza"
+  ],
+  "mistake": [
+   "errore",
+   "sbaglio"
+  ],
+  "mix": [
+   "mescolare",
+   "miscela"
+  ],
+  "monitor": [
+   "monitorare",
+   "tenere sotto controllo",
+   "monitor"
+  ],
+  "motor": [
+   "motore"
+  ],
+  "mount": [
+   "montare",
+   "salire"
+  ],
+  "move": [
+   "muovere",
+   "spostare",
+   "trasferirsi"
+  ],
+  "Mr": [
+   "signor",
+   "sig."
+  ],
+  "much": [
+   "molto",
+   "tanto"
+  ],
+  "nearby": [
+   "vicino",
+   "nelle vicinanze"
+  ],
+  "negotiation": [
+   "negoziato",
+   "trattativa"
+  ],
+  "neither": [
+   "nessuno dei due",
+   "né"
+  ],
+  "net": [
+   "rete",
+   "netto"
+  ],
+  "news": [
+   "notizie",
+   "notizia"
+  ],
+  "newspaper": [
+   "giornale"
+  ],
+  "nice": [
+   "carino",
+   "simpatico",
+   "piacevole"
+  ],
+  "nod": [
+   "annuire",
+   "cenno del capo"
+  ],
+  "notice": [
+   "notare",
+   "avviso"
+  ],
+  "now": [
+   "ora",
+   "adesso"
+  ],
+  "n't": [
+   "non"
+  ],
+  "nurse": [
+   "infermiere",
+   "infermiera",
+   "curare"
+  ],
+  "nut": [
+   "noce",
+   "frutta secca",
+   "dado"
+  ],
+  "objective": [
+   "obiettivo",
+   "oggettivo"
+  ],
+  "okay": [
+   "va bene",
+   "ok"
+  ],
+  "on": [
+   "su",
+   "sopra",
+   "acceso"
+  ],
+  "online": [
+   "online",
+   "in rete"
+  ],
+  "only": [
+   "solo",
+   "soltanto",
+   "unico"
+  ],
+  "opposite": [
+   "opposto",
+   "di fronte",
+   "contrario"
+  ],
+  "ought": [
+   "dovere (consiglio)",
+   "dovrebbe"
+  ],
+  "outside": [
+   "fuori",
+   "esterno",
+   "all'esterno"
+  ],
+  "over": [
+   "sopra",
+   "finito",
+   "oltre"
+  ],
+  "overall": [
+   "complessivo",
+   "globale",
+   "nel complesso"
+  ],
+  "owe": [
+   "dovere (soldi)",
+   "essere debitore"
+  ],
+  "own": [
+   "possedere",
+   "proprio"
+  ],
+  "pace": [
+   "ritmo",
+   "andatura",
+   "camminare avanti e indietro"
+  ],
+  "pack": [
+   "fare le valigie",
+   "impacchettare",
+   "pacco"
+  ],
+  "painting": [
+   "dipinto",
+   "pittura",
+   "quadro"
+  ],
+  "pant": [
+   "ansimare"
+  ],
+  "party": [
+   "festa",
+   "partito"
+  ],
+  "pass": [
+   "passare",
+   "superare",
+   "passaggio"
+  ],
+  "pattern": [
+   "schema",
+   "modello",
+   "motivo"
+  ],
+  "peer": [
+   "coetaneo",
+   "pari",
+   "scrutare"
+  ],
+  "penalty": [
+   "pena",
+   "sanzione",
+   "rigore"
+  ],
+  "performance": [
+   "prestazione",
+   "esibizione",
+   "rendimento"
+  ],
+  "permission": [
+   "permesso",
+   "autorizzazione"
+  ],
+  "pick": [
+   "scegliere",
+   "raccogliere"
+  ],
+  "pitch": [
+   "campo (da gioco)",
+   "tono",
+   "lanciare"
+  ],
+  "plot": [
+   "trama",
+   "complotto",
+   "appezzamento"
+  ],
+  "PM": [
+   "del pomeriggio",
+   "pomeridiano"
+  ],
+  "police": [
+   "polizia"
+  ],
+  "policy": [
+   "politica",
+   "linea di condotta",
+   "polizza"
+  ],
+  "possibly": [
+   "forse",
+   "possibilmente"
+  ],
+  "post": [
+   "pubblicare",
+   "spedire",
+   "posta",
+   "palo"
+  ],
+  "pound": [
+   "sterlina",
+   "libbra",
+   "battere"
+  ],
+  "present": [
+   "presente",
+   "regalo",
+   "presentare"
+  ],
+  "preserve": [
+   "conservare",
+   "preservare"
+  ],
+  "press": [
+   "premere",
+   "stampa"
+  ],
+  "pretend": [
+   "fingere",
+   "far finta"
+  ],
+  "pretty": [
+   "carino",
+   "grazioso",
+   "abbastanza"
+  ],
+  "primarily": [
+   "principalmente",
+   "in primo luogo"
+  ],
+  "prior": [
+   "precedente",
+   "prima"
+  ],
+  "prominent": [
+   "di spicco",
+   "prominente"
+  ],
+  "proper": [
+   "corretto",
+   "adeguato",
+   "vero e proprio"
+  ],
+  "provider": [
+   "fornitore"
+  ],
+  "pull": [
+   "tirare"
+  ],
+  "qualify": [
+   "qualificarsi",
+   "avere diritto"
+  ],
+  "quarter": [
+   "quarto",
+   "trimestre",
+   "quartiere"
+  ],
+  "quick": [
+   "veloce",
+   "rapido"
+  ],
+  "quit": [
+   "smettere",
+   "lasciare",
+   "abbandonare"
+  ],
+  "quote": [
+   "citare",
+   "citazione",
+   "preventivo"
+  ],
+  "race": [
+   "gara",
+   "corsa",
+   "razza",
+   "correre"
+  ],
+  "radio": [
+   "radio"
+  ],
+  "rail": [
+   "rotaia",
+   "ringhiera",
+   "binario"
+  ],
+  "rain": [
+   "pioggia",
+   "piovere"
+  ],
+  "raise": [
+   "alzare",
+   "sollevare",
+   "raccogliere (fondi)",
+   "aumento"
+  ],
+  "range": [
+   "gamma",
+   "intervallo",
+   "variare"
+  ],
+  "rank": [
+   "grado",
+   "classifica",
+   "classificare"
+  ],
+  "real": [
+   "vero",
+   "reale"
+  ],
+  "recommend": [
+   "raccomandare",
+   "consigliare"
+  ],
+  "record": [
+   "registrare",
+   "record",
+   "disco"
+  ],
+  "refer": [
+   "riferirsi",
+   "fare riferimento"
+  ],
+  "refugee": [
+   "rifugiato",
+   "profugo"
+  ],
+  "regard": [
+   "considerare",
+   "riguardo"
+  ],
+  "regardless": [
+   "indipendentemente",
+   "comunque"
+  ],
+  "relate": [
+   "riferirsi",
+   "essere collegato",
+   "raccontare"
+  ],
+  "release": [
+   "rilasciare",
+   "pubblicare",
+   "uscita"
+  ],
+  "remote": [
+   "remoto",
+   "lontano",
+   "telecomando"
+  ],
+  "report": [
+   "rapporto",
+   "relazione",
+   "riferire",
+   "segnalare"
+  ],
+  "representation": [
+   "rappresentazione",
+   "rappresentanza"
+  ],
+  "Republican": [
+   "repubblicano"
+  ],
+  "requirement": [
+   "requisito"
+  ],
+  "research": [
+   "ricerca",
+   "fare ricerca"
+  ],
+  "resort": [
+   "località turistica",
+   "ricorrere"
+  ],
+  "respondent": [
+   "intervistato",
+   "rispondente"
+  ],
+  "rest": [
+   "riposo",
+   "riposare",
+   "resto"
+  ],
+  "restore": [
+   "ripristinare",
+   "restaurare",
+   "ristabilire"
+  ],
+  "retirement": [
+   "pensione",
+   "pensionamento"
+  ],
+  "return": [
+   "tornare",
+   "restituire",
+   "ritorno"
+  ],
+  "revenue": [
+   "ricavi",
+   "entrate"
+  ],
+  "review": [
+   "recensione",
+   "rivedere",
+   "revisione"
+  ],
+  "rid": [
+   "liberarsi",
+   "sbarazzarsi"
+  ],
+  "ride": [
+   "andare (in bici/a cavallo)",
+   "giro",
+   "corsa"
+  ],
+  "rise": [
+   "salire",
+   "aumentare",
+   "aumento"
+  ],
+  "rock": [
+   "roccia",
+   "musica rock",
+   "dondolare"
+  ],
+  "roll": [
+   "rotolare",
+   "rotolo",
+   "panino"
+  ],
+  "room": [
+   "stanza",
+   "camera",
+   "spazio"
+  ],
+  "round": [
+   "rotondo",
+   "giro",
+   "turno"
+  ],
+  "row": [
+   "fila",
+   "riga",
+   "remare"
+  ],
+  "rule": [
+   "regola",
+   "governare"
+  ],
+  "running": [
+   "corsa",
+   "funzionamento"
+  ],
+  "sale": [
+   "vendita",
+   "saldi"
+  ],
+  "sales": [
+   "vendite"
+  ],
+  "satellite": [
+   "satellite"
+  ],
+  "saving": [
+   "risparmio",
+   "salvataggio"
+  ],
+  "scared": [
+   "spaventato",
+   "impaurito"
+  ],
+  "scholarship": [
+   "borsa di studio"
+  ],
+  "score": [
+   "punteggio",
+   "segnare"
+  ],
+  "scream": [
+   "urlare",
+   "urlo",
+   "grido"
+  ],
+  "script": [
+   "copione",
+   "sceneggiatura",
+   "script"
+  ],
+  "search": [
+   "cercare",
+   "ricerca"
+  ],
+  "seat": [
+   "posto (a sedere)",
+   "sedile"
+  ],
+  "secure": [
+   "sicuro",
+   "proteggere",
+   "ottenere"
+  ],
+  "seize": [
+   "afferrare",
+   "sequestrare",
+   "cogliere"
+  ],
+  "select": [
+   "selezionare",
+   "scegliere"
+  ],
+  "self": [
+   "sé",
+   "io"
+  ],
+  "senior": [
+   "anziano",
+   "superiore",
+   "senior"
+  ],
+  "separate": [
+   "separato",
+   "separare"
+  ],
+  "serious": [
+   "serio",
+   "grave"
+  ],
+  "setting": [
+   "ambientazione",
+   "impostazione",
+   "contesto"
+  ],
+  "settle": [
+   "sistemare",
+   "stabilirsi",
+   "risolvere"
+  ],
+  "settlement": [
+   "accordo",
+   "insediamento"
+  ],
+  "severe": [
+   "grave",
+   "severo"
+  ],
+  "shall": [
+   "dovere (futuro/proposta)"
+  ],
+  "shelf": [
+   "scaffale",
+   "mensola"
+  ],
+  "shock": [
+   "shock",
+   "scioccare"
+  ],
+  "shooting": [
+   "sparatoria",
+   "riprese (film)"
+  ],
+  "shore": [
+   "riva",
+   "costa"
+  ],
+  "short": [
+   "corto",
+   "breve",
+   "basso"
+  ],
+  "shortly": [
+   "a breve",
+   "tra poco"
+  ],
+  "should": [
+   "dovrebbe",
+   "dovresti"
+  ],
+  "shout": [
+   "gridare",
+   "urlare",
+   "grido"
+  ],
+  "shut": [
+   "chiudere",
+   "chiuso"
+  ],
+  "sigh": [
+   "sospirare",
+   "sospiro"
+  ],
+  "sign": [
+   "segno",
+   "cartello",
+   "firmare"
+  ],
+  "silver": [
+   "argento",
+   "d'argento"
+  ],
+  "sin": [
+   "peccato",
+   "peccare"
+  ],
+  "sink": [
+   "lavandino",
+   "affondare"
+  ],
+  "site": [
+   "sito",
+   "luogo",
+   "cantiere"
+  ],
+  "slave": [
+   "schiavo"
+  ],
+  "slide": [
+   "scivolare",
+   "diapositiva"
+  ],
+  "slip": [
+   "scivolare",
+   "foglietto"
+  ],
+  "snap": [
+   "spezzare",
+   "scattare (foto)",
+   "schiocco"
+  ],
+  "soil": [
+   "suolo",
+   "terreno",
+   "sporcare"
+  ],
+  "sometimes": [
+   "a volte",
+   "talvolta"
+  ],
+  "sort": [
+   "tipo",
+   "specie",
+   "ordinare"
+  ],
+  "soup": [
+   "zuppa",
+   "minestra"
+  ],
+  "spin": [
+   "girare",
+   "ruotare",
+   "rotazione"
+  ],
+  "split": [
+   "dividere",
+   "spaccare",
+   "diviso"
+  ],
+  "spot": [
+   "posto",
+   "macchia",
+   "individuare"
+  ],
+  "spread": [
+   "diffondere",
+   "spalmare",
+   "diffusione"
+  ],
+  "squeeze": [
+   "spremere",
+   "stringere"
+  ],
+  "stair": [
+   "gradino",
+   "scala"
+  ],
+  "stake": [
+   "posta in gioco",
+   "quota",
+   "palo"
+  ],
+  "stand": [
+   "stare in piedi",
+   "sopportare",
+   "bancarella"
+  ],
+  "standing": [
+   "posizione",
+   "reputazione",
+   "in piedi"
+  ],
+  "start": [
+   "iniziare",
+   "cominciare",
+   "inizio"
+  ],
+  "stay": [
+   "restare",
+   "stare",
+   "soggiorno"
+  ],
+  "step": [
+   "passo",
+   "gradino",
+   "fare un passo"
+  ],
+  "stick": [
+   "bastone",
+   "attaccare",
+   "incollare"
+  ],
+  "stir": [
+   "mescolare"
+  ],
+  "stock": [
+   "scorta",
+   "azioni",
+   "avere in magazzino"
+  ],
+  "stone": [
+   "pietra",
+   "sasso"
+  ],
+  "stop": [
+   "fermare",
+   "smettere",
+   "fermata"
+  ],
+  "storage": [
+   "conservazione",
+   "deposito",
+   "memoria (dati)"
+  ],
+  "store": [
+   "negozio",
+   "conservare",
+   "immagazzinare"
+  ],
+  "stream": [
+   "ruscello",
+   "flusso",
+   "trasmettere in streaming"
+  ],
+  "stress": [
+   "stress",
+   "sottolineare",
+   "enfatizzare"
+  ],
+  "string": [
+   "spago",
+   "corda",
+   "stringa"
+  ],
+  "strip": [
+   "striscia",
+   "spogliare"
+  ],
+  "stroke": [
+   "ictus",
+   "colpo",
+   "accarezzare"
+  ],
+  "struggle": [
+   "lottare",
+   "faticare",
+   "lotta"
+  ],
+  "student": [
+   "studente",
+   "alunno"
+  ],
+  "stuff": [
+   "roba",
+   "cose",
+   "riempire"
+  ],
+  "submit": [
+   "presentare",
+   "inviare",
+   "sottomettersi"
+  ],
+  "successful": [
+   "di successo",
+   "riuscito"
+  ],
+  "such": [
+   "tale",
+   "così"
+  ],
+  "supply": [
+   "fornire",
+   "fornitura",
+   "rifornimento"
+  ],
+  "support": [
+   "sostenere",
+   "supportare",
+   "sostegno"
+  ],
+  "supposed": [
+   "presunto",
+   "dover (be supposed to)"
+  ],
+  "sure": [
+   "sicuro",
+   "certo"
+  ],
+  "survey": [
+   "sondaggio",
+   "indagine"
+  ],
+  "suspect": [
+   "sospettare",
+   "sospettato"
+  ],
+  "swear": [
+   "giurare",
+   "imprecare"
+  ],
+  "swing": [
+   "oscillare",
+   "dondolare",
+   "altalena"
+  ],
+  "switch": [
+   "interruttore",
+   "cambiare",
+   "passare"
+  ],
+  "tablespoon": [
+   "cucchiaio (da tavola)"
+  ],
+  "tank": [
+   "serbatoio",
+   "vasca",
+   "carro armato"
+  ],
+  "tap": [
+   "rubinetto",
+   "toccare leggermente"
+  ],
+  "tax": [
+   "tassa",
+   "imposta"
+  ],
+  "tell": [
+   "dire",
+   "raccontare"
+  ],
+  "tend": [
+   "tendere",
+   "avere tendenza",
+   "prendersi cura"
+  ],
+  "testing": [
+   "test",
+   "collaudo",
+   "prova"
+  ],
+  "theater": [
+   "teatro"
+  ],
+  "their": [
+   "loro",
+   "il loro"
+  ],
+  "there": [
+   "lì",
+   "là",
+   "ci (esserci)"
+  ],
+  "these": [
+   "questi",
+   "queste"
+  ],
+  "thick": [
+   "spesso",
+   "denso"
+  ],
+  "thinking": [
+   "pensiero",
+   "ragionamento"
+  ],
+  "those": [
+   "quelli",
+   "quelle"
+  ],
+  "throughout": [
+   "per tutto",
+   "in tutto"
+  ],
+  "throw": [
+   "lanciare",
+   "gettare",
+   "tirare"
+  ],
+  "tie": [
+   "legare",
+   "cravatta",
+   "pareggio"
+  ],
+  "tire": [
+   "pneumatico",
+   "stancare",
+   "stancarsi"
+  ],
+  "to": [
+   "a",
+   "verso",
+   "per"
+  ],
+  "too": [
+   "anche",
+   "troppo"
+  ],
+  "top": [
+   "cima",
+   "superiore",
+   "parte alta"
+  ],
+  "town": [
+   "città",
+   "cittadina"
+  ],
+  "trade": [
+   "commercio",
+   "commerciare",
+   "scambiare"
+  ],
+  "trail": [
+   "sentiero",
+   "traccia",
+   "seguire"
+  ],
+  "training": [
+   "formazione",
+   "allenamento",
+   "addestramento"
+  ],
+  "travel": [
+   "viaggiare",
+   "viaggi"
+  ],
+  "treat": [
+   "trattare",
+   "curare",
+   "offrire",
+   "regalo"
+  ],
+  "trial": [
+   "processo",
+   "prova",
+   "sperimentazione"
+  ],
+  "trick": [
+   "trucco",
+   "ingannare"
+  ],
+  "trip": [
+   "viaggio",
+   "gita",
+   "inciampare"
+  ],
+  "troop": [
+   "truppe",
+   "truppa"
+  ],
+  "trouble": [
+   "guaio",
+   "problema",
+   "disturbare"
+  ],
+  "turn": [
+   "girare",
+   "svoltare",
+   "turno"
+  ],
+  "type": [
+   "tipo",
+   "genere",
+   "digitare"
+  ],
+  "understand": [
+   "capire",
+   "comprendere"
+  ],
+  "unless": [
+   "a meno che",
+   "salvo che"
+  ],
+  "unusual": [
+   "insolito",
+   "fuori dal comune"
+  ],
+  "urge": [
+   "esortare",
+   "sollecitare",
+   "impulso"
+  ],
+  "use": [
+   "usare",
+   "utilizzare",
+   "uso"
+  ],
+  "usually": [
+   "di solito",
+   "solitamente"
+  ],
+  "venture": [
+   "impresa",
+   "iniziativa",
+   "avventurarsi"
+  ],
+  "vessel": [
+   "nave",
+   "recipiente",
+   "vaso (sanguigno)"
+  ],
+  "via": [
+   "tramite",
+   "attraverso"
+  ],
+  "view": [
+   "vista",
+   "opinione",
+   "vedere"
+  ],
+  "virtually": [
+   "praticamente",
+   "virtualmente"
+  ],
+  "vote": [
+   "votare",
+   "voto"
+  ],
+  "wake": [
+   "svegliarsi",
+   "svegliare",
+   "scia"
+  ],
+  "wander": [
+   "vagare",
+   "girovagare"
+  ],
+  "warn": [
+   "avvertire",
+   "avvisare"
+  ],
+  "weather": [
+   "tempo (atmosferico)",
+   "meteo"
+  ],
+  "wedding": [
+   "matrimonio",
+   "nozze"
+  ],
+  "weekly": [
+   "settimanale",
+   "ogni settimana"
+  ],
+  "welfare": [
+   "benessere",
+   "assistenza sociale"
+  ],
+  "what": [
+   "che cosa",
+   "cosa",
+   "che"
+  ],
+  "whenever": [
+   "ogni volta che",
+   "quando"
+  ],
+  "whereas": [
+   "mentre",
+   "laddove"
+  ],
+  "whisper": [
+   "sussurrare",
+   "sussurro"
+  ],
+  "whole": [
+   "intero",
+   "tutto"
+  ],
+  "whom": [
+   "chi",
+   "cui"
+  ],
+  "will": [
+   "volontà",
+   "testamento",
+   "futuro (will)"
+  ],
+  "win": [
+   "vincere",
+   "vittoria"
+  ],
+  "wire": [
+   "filo",
+   "cavo",
+   "cablare"
+  ],
+  "with": [
+   "con",
+   "insieme a"
+  ],
+  "without": [
+   "senza",
+   "privo di"
+  ],
+  "witness": [
+   "testimone",
+   "assistere a",
+   "testimoniare"
+  ],
+  "wonder": [
+   "chiedersi",
+   "domandarsi",
+   "meraviglia"
+  ],
+  "wood": [
+   "legno",
+   "bosco"
+  ],
+  "work": [
+   "lavorare",
+   "lavoro",
+   "funzionare",
+   "opera"
+  ],
+  "workshop": [
+   "laboratorio",
+   "officina",
+   "workshop"
+  ],
+  "worth": [
+   "valere",
+   "del valore di",
+   "che vale la pena"
+  ],
+  "would": [
+   "condizionale (would)",
+   "vorrebbe"
+  ],
+  "wrap": [
+   "avvolgere",
+   "incartare"
+  ],
+  "writing": [
+   "scrittura",
+   "scritto"
+  ],
+  "yeah": [
+   "sì",
+   "già"
+  ],
+  "yell": [
+   "urlare",
+   "gridare",
+   "urlo"
+  ],
+  "yield": [
+   "rendere",
+   "produrre",
+   "cedere",
+   "resa"
+  ],
+  "yours": [
+   "tuo",
+   "vostro",
+   "il tuo"
+  ],
+  "moreover": [
+   "inoltre",
+   "per di più"
+  ],
+  "hail": [
+   "grandine",
+   "grandinare"
+  ],
+  "alert": [
+   "vigile",
+   "all'erta",
+   "allertare"
+  ]
+ },
+ "remove": [
+  "AM",
+  "n't"
+ ]
+}

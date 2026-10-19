@@ -17,7 +17,9 @@
   {
     "front": "appeal",
     "back": [
-      "ricorrere"
+      "fare appello",
+      "ricorrere",
+      "appello"
     ],
     "level": "B1"
   },
@@ -71,16 +73,19 @@
     "level": "B1"
   },
   {
-    "front": "spun",
+    "front": "spin",
     "back": [
-      "girare"
+      "girare",
+      "ruotare"
     ],
     "level": null
   },
   {
     "front": "smash",
     "back": [
-      "distruggere"
+      "frantumare",
+      "distruggere",
+      "schiacciare"
     ],
     "level": "B2"
   },
@@ -94,6 +99,8 @@
   {
     "front": "contend",
     "back": [
+      "sostenere",
+      "competere",
       "lottare"
     ],
     "level": null
@@ -174,7 +181,8 @@
     "front": "either",
     "back": [
       "o",
-      "entrambi"
+      "l'uno o l'altro",
+      "neanche"
     ],
     "level": "A1"
   },
@@ -202,7 +210,8 @@
   {
     "front": "berserk",
     "back": [
-      "frenetico"
+      "furioso",
+      "fuori di sé"
     ],
     "level": null
   },
@@ -221,7 +230,7 @@
     "level": "B1"
   },
   {
-    "front": "Moreover",
+    "front": "moreover",
     "back": [
       "inoltre"
     ],
@@ -251,7 +260,8 @@
   {
     "front": "troubleshoot",
     "back": [
-      "risoluzione dei problemi"
+      "risolvere i problemi",
+      "diagnosticare"
     ],
     "level": null
   },
@@ -294,7 +304,8 @@
   {
     "front": "stride",
     "back": [
-      "passo"
+      "passo",
+      "camminare a grandi passi"
     ],
     "level": "B2"
   },
@@ -322,7 +333,8 @@
   {
     "front": "sake",
     "back": [
-      "interesse"
+      "bene",
+      "per amore di"
     ],
     "level": "A2"
   },
@@ -373,6 +385,8 @@
   {
     "front": "claim",
     "back": [
+      "affermare",
+      "rivendicare",
       "richiesta"
     ],
     "level": "A2"
@@ -408,13 +422,16 @@
   {
     "front": "aid",
     "back": [
-      "aiuto"
+      "aiuto",
+      "aiutare"
     ],
     "level": "B1"
   },
   {
     "front": "keen",
     "back": [
+      "appassionato",
+      "desideroso",
       "acuto"
     ],
     "level": "B2"
@@ -429,7 +446,7 @@
   {
     "front": "matter",
     "back": [
-      "importa",
+      "importare",
       "questione"
     ],
     "level": "A1"
@@ -459,7 +476,9 @@
   {
     "front": "dummy",
     "back": [
-      "manichino"
+      "manichino",
+      "fantoccio",
+      "finto"
     ],
     "level": null
   },
@@ -473,19 +492,22 @@
   {
     "front": "span",
     "back": [
-      "durata"
+      "durata",
+      "arco",
+      "estendersi"
     ],
     "level": "B2"
   },
   {
     "front": "grading",
     "back": [
-      "classificazione"
+      "valutazione",
+      "voto"
     ],
     "level": null
   },
   {
-    "front": "Fairly",
+    "front": "fairly",
     "back": [
       "abbastanza"
     ],
@@ -618,8 +640,9 @@
   {
     "front": "concern",
     "back": [
-      "preocuppazione",
-      "interessare"
+      "preoccupazione",
+      "riguardare",
+      "preoccupare"
     ],
     "level": "A2"
   },
@@ -682,7 +705,9 @@
   {
     "front": "endeavor",
     "back": [
-      "tentativo"
+      "sforzo",
+      "impegno",
+      "sforzarsi"
     ],
     "level": "B2"
   },
@@ -738,10 +763,10 @@
     "level": "B2"
   },
   {
-    "front": "so on",
+    "front": "and so on",
     "back": [
-      "presto",
-      "appena"
+      "e così via",
+      "eccetera"
     ],
     "level": "A1"
   },
@@ -798,13 +823,16 @@
   {
     "front": "flat",
     "back": [
-      "piatta"
+      "piatto",
+      "appartamento"
     ],
     "level": "A1"
   },
   {
     "front": "skew",
     "back": [
+      "distorcere",
+      "falsare",
       "storto"
     ],
     "level": "C2"
@@ -817,8 +845,9 @@
     "level": "B1"
   },
   {
-    "front": "deal of",
+    "front": "a great deal of",
     "back": [
+      "molto",
       "un sacco di"
     ],
     "level": "A2"
@@ -826,7 +855,9 @@
   {
     "front": "lookout",
     "back": [
-      "attenzione"
+      "vedetta",
+      "sentinella",
+      "stare all'erta"
     ],
     "level": null
   },
@@ -876,6 +907,8 @@
   {
     "front": "halt",
     "back": [
+      "fermare",
+      "fermarsi",
       "arresto"
     ],
     "level": null
@@ -904,7 +937,8 @@
   {
     "front": "stock",
     "back": [
-      "azione"
+      "azioni",
+      "scorta"
     ],
     "level": "B2"
   }

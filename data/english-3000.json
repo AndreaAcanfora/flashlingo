@@ -25,7 +25,9 @@
   {
     "front": "about",
     "back": [
-      "di"
+      "di",
+      "circa",
+      "riguardo a"
     ],
     "level": "A1"
   },
@@ -83,7 +85,9 @@
   {
     "front": "act",
     "back": [
-      "atto"
+      "agire",
+      "atto",
+      "recitare"
     ],
     "level": "A2"
   },
@@ -122,9 +126,7 @@
   {
     "front": "add",
     "back": [
-      "Inserisci",
-      "aggiungere",
-      "addizionare"
+      "aggiungere"
     ],
     "level": "A2",
     "topic": "Numbers & maths"
@@ -148,7 +150,9 @@
   {
     "front": "adjustment",
     "back": [
-      "registrazione"
+      "regolazione",
+      "adattamento",
+      "modifica"
     ],
     "level": "B2"
   },
@@ -194,6 +198,7 @@
   {
     "front": "again",
     "back": [
+      "di nuovo",
       "ancora"
     ],
     "level": "A1"
@@ -224,7 +229,8 @@
   {
     "front": "aid",
     "back": [
-      "aiuto"
+      "aiuto",
+      "aiutare"
     ],
     "level": "B1"
   },
@@ -239,7 +245,8 @@
     "front": "aim",
     "back": [
       "scopo",
-      "obiettivo"
+      "obiettivo",
+      "mirare"
     ],
     "level": "B1",
     "topic": "Ideas & abstract"
@@ -254,7 +261,8 @@
   {
     "front": "all",
     "back": [
-      "tutti"
+      "tutti",
+      "tutto"
     ],
     "level": "A1"
   },
@@ -270,7 +278,8 @@
   {
     "front": "ally",
     "back": [
-      "alleato"
+      "alleato",
+      "allearsi"
     ],
     "level": "B2"
   },
@@ -280,13 +289,6 @@
       "modificare"
     ],
     "level": "B2"
-  },
-  {
-    "front": "AM",
-    "back": [
-      "AM"
-    ],
-    "level": "A1"
   },
   {
     "front": "amazing",
@@ -322,7 +324,8 @@
   {
     "front": "anybody",
     "back": [
-      "nessuno"
+      "chiunque",
+      "qualcuno"
     ],
     "level": "A1"
   },
@@ -336,14 +339,16 @@
   {
     "front": "anything",
     "back": [
-      "nulla"
+      "qualcosa",
+      "qualsiasi cosa",
+      "niente"
     ],
     "level": "A1"
   },
   {
     "front": "anyway",
     "back": [
-      "Comunque"
+      "comunque"
     ],
     "level": "A2"
   },
@@ -377,7 +382,8 @@
     "front": "appeal",
     "back": [
       "appello",
-      "ricorso"
+      "fare appello",
+      "attrarre"
     ],
     "level": "C1",
     "topic": "Law & crime"
@@ -400,7 +406,6 @@
   {
     "front": "appropriate",
     "back": [
-      "adeguata",
       "appropriato",
       "adeguato"
     ],
@@ -419,7 +424,8 @@
   {
     "front": "area",
     "back": [
-      "la zona"
+      "zona",
+      "area"
     ],
     "level": "A2"
   },
@@ -478,6 +484,8 @@
   {
     "front": "arrangement",
     "back": [
+      "accordo",
+      "sistemazione",
       "preparativi"
     ],
     "level": "B1"
@@ -492,7 +500,6 @@
   {
     "front": "ask",
     "back": [
-      "Chiedi",
       "chiedere",
       "domandare"
     ],
@@ -532,20 +539,23 @@
   {
     "front": "asset",
     "back": [
-      "risorsa"
+      "risorsa",
+      "bene"
     ],
     "level": null
   },
   {
     "front": "assignment",
     "back": [
-      "Incarico"
+      "incarico",
+      "compito"
     ],
     "level": "B1"
   },
   {
     "front": "associate",
     "back": [
+      "associare",
       "socio"
     ],
     "level": "B1"
@@ -553,7 +563,6 @@
   {
     "front": "assumption",
     "back": [
-      "assunzione",
       "supposizione",
       "presupposto"
     ],
@@ -586,6 +595,8 @@
   {
     "front": "attend",
     "back": [
+      "frequentare",
+      "partecipare",
       "assistere"
     ],
     "level": "B1"
@@ -601,6 +612,7 @@
   {
     "front": "attorney",
     "back": [
+      "avvocato",
       "procuratore"
     ],
     "level": null
@@ -623,7 +635,8 @@
   {
     "front": "attribute",
     "back": [
-      "attributo"
+      "attributo",
+      "attribuire"
     ],
     "level": "B2"
   },
@@ -647,7 +660,9 @@
   {
     "front": "back",
     "back": [
-      "indietro"
+      "indietro",
+      "schiena",
+      "sostenere"
     ],
     "level": "A1"
   },
@@ -668,9 +683,7 @@
   {
     "front": "bag",
     "back": [
-      "Borsa",
-      "borsa",
-      "sacchetto"
+      "borsa"
     ],
     "level": "A1",
     "topic": "Objects"
@@ -752,9 +765,8 @@
   {
     "front": "begin",
     "back": [
-      "inizio",
-      "cominciare",
-      "iniziare"
+      "iniziare",
+      "cominciare"
     ],
     "level": "A1",
     "topic": "Common verbs"
@@ -794,9 +806,8 @@
   {
     "front": "benefit",
     "back": [
-      "beneficiare",
       "beneficio",
-      "vantaggio"
+      "beneficiare"
     ],
     "level": "B1",
     "topic": "Ideas & abstract"
@@ -813,7 +824,6 @@
   {
     "front": "besides",
     "back": [
-      "Oltretutto",
       "inoltre",
       "oltre a"
     ],
@@ -830,7 +840,8 @@
   {
     "front": "bit",
     "back": [
-      "po"
+      "pezzetto",
+      "un po'"
     ],
     "level": "A2"
   },
@@ -862,7 +873,8 @@
   {
     "front": "blow",
     "back": [
-      "soffio"
+      "soffiare",
+      "colpo"
     ],
     "level": "A1"
   },
@@ -870,7 +882,8 @@
     "front": "board",
     "back": [
       "tavola",
-      "asse"
+      "consiglio",
+      "salire a bordo"
     ],
     "level": "A2",
     "topic": "Tools & materials"
@@ -914,7 +927,6 @@
   {
     "front": "borrow",
     "back": [
-      "prestito",
       "prendere in prestito"
     ],
     "level": "B1",
@@ -923,9 +935,8 @@
   {
     "front": "bottom",
     "back": [
-      "parte inferiore",
       "fondo",
-      "parte bassa"
+      "parte inferiore"
     ],
     "level": "A2",
     "topic": "Position & direction"
@@ -940,7 +951,8 @@
   {
     "front": "breast",
     "back": [
-      "Seno"
+      "seno",
+      "petto"
     ],
     "level": "B1"
   },
@@ -955,7 +967,7 @@
   {
     "front": "British",
     "back": [
-      "Britannico"
+      "britannico"
     ],
     "level": null
   },
@@ -970,9 +982,7 @@
     "front": "brush",
     "back": [
       "spazzola",
-      "pennello",
-      "spazzolare",
-      "lavarsi (i denti)"
+      "spazzolare"
     ],
     "level": "A2",
     "topic": "Tools & materials"
@@ -980,7 +990,8 @@
   {
     "front": "buck",
     "back": [
-      "secchio"
+      "dollaro",
+      "maschio (di cervo)"
     ],
     "level": null
   },
@@ -1004,7 +1015,9 @@
   {
     "front": "burden",
     "back": [
-      "fardello"
+      "fardello",
+      "peso",
+      "gravare"
     ],
     "level": "B1"
   },
@@ -1018,9 +1031,9 @@
   {
     "front": "business",
     "back": [
-      "attività commerciale",
       "affari",
-      "azienda"
+      "azienda",
+      "attività commerciale"
     ],
     "level": "A2",
     "topic": "Business & economy"
@@ -1037,8 +1050,8 @@
   {
     "front": "buy",
     "back": [
-      "acquistare",
-      "comprare"
+      "comprare",
+      "acquistare"
     ],
     "level": "A1",
     "topic": "Common verbs"
@@ -1053,22 +1066,25 @@
   {
     "front": "by",
     "back": [
-      "di"
+      "da",
+      "entro",
+      "vicino a"
     ],
     "level": "A1"
   },
   {
     "front": "cabinet",
     "back": [
-      "Consiglio dei ministri"
+      "armadietto",
+      "consiglio dei ministri"
     ],
     "level": "B2"
   },
   {
     "front": "camera",
     "back": [
-      "telecamera",
-      "macchina fotografica"
+      "macchina fotografica",
+      "telecamera"
     ],
     "level": "A1",
     "topic": "Technology"
@@ -1106,7 +1122,6 @@
   {
     "front": "carefully",
     "back": [
-      "accuratamente",
       "con attenzione",
       "attentamente"
     ],
@@ -1116,21 +1131,26 @@
   {
     "front": "carrier",
     "back": [
-      "vettore"
+      "vettore",
+      "corriere"
     ],
     "level": "C1"
   },
   {
     "front": "case",
     "back": [
-      "Astuccio"
+      "caso",
+      "custodia",
+      "astuccio"
     ],
     "level": "A1"
   },
   {
     "front": "cast",
     "back": [
-      "getto"
+      "lanciare",
+      "gettare",
+      "cast"
     ],
     "level": "B2"
   },
@@ -1169,7 +1189,7 @@
   {
     "front": "CEO",
     "back": [
-      "Amministratore delegato"
+      "amministratore delegato"
     ],
     "level": null
   },
@@ -1192,14 +1212,14 @@
   {
     "front": "chamber",
     "back": [
-      "Camera"
+      "camera",
+      "sala"
     ],
     "level": null
   },
   {
     "front": "chance",
     "back": [
-      "opportunità",
       "possibilità",
       "occasione"
     ],
@@ -1209,11 +1229,9 @@
   {
     "front": "change",
     "back": [
-      "modificare",
-      "resto",
-      "spiccioli",
+      "cambiare",
       "cambiamento",
-      "cambiare"
+      "resto (soldi)"
     ],
     "level": "A2",
     "topic": "Money & shopping"
@@ -1221,7 +1239,8 @@
   {
     "front": "changing",
     "back": [
-      "mutevole"
+      "mutevole",
+      "che cambia"
     ],
     "level": null
   },
@@ -1245,9 +1264,9 @@
   {
     "front": "check",
     "back": [
-      "dai un'occhiata",
       "controllare",
-      "verificare"
+      "verificare",
+      "controllo"
     ],
     "level": "A2",
     "topic": "Common verbs"
@@ -1287,7 +1306,8 @@
   {
     "front": "chip",
     "back": [
-      "patata fritta"
+      "patatina",
+      "chip"
     ],
     "level": "B2"
   },
@@ -1302,9 +1322,9 @@
   {
     "front": "claim",
     "back": [
-      "Richiesta",
       "affermare",
-      "sostenere"
+      "rivendicare",
+      "richiesta"
     ],
     "level": "B2",
     "topic": "Thinking & speaking"
@@ -1312,7 +1332,8 @@
   {
     "front": "class",
     "back": [
-      "classe"
+      "classe",
+      "lezione"
     ],
     "level": "A1"
   },
@@ -1328,16 +1349,18 @@
   {
     "front": "clear",
     "back": [
-      "chiaro"
+      "chiaro",
+      "liberare",
+      "sgomberare"
     ],
     "level": "A2"
   },
   {
     "front": "climb",
     "back": [
-      "scalata",
       "arrampicarsi",
-      "scalare"
+      "scalare",
+      "salita"
     ],
     "level": "A2",
     "topic": "Movement"
@@ -1345,8 +1368,8 @@
   {
     "front": "close",
     "back": [
-      "vicino",
-      "chiudere"
+      "chiudere",
+      "vicino"
     ],
     "level": "A1",
     "topic": "Common verbs"
@@ -1368,8 +1391,8 @@
   {
     "front": "cloud",
     "back": [
-      "nube",
-      "nuvola"
+      "nuvola",
+      "nube"
     ],
     "level": "A2",
     "topic": "Nature & weather"
@@ -1377,6 +1400,7 @@
   {
     "front": "clue",
     "back": [
+      "indizio",
       "traccia"
     ],
     "level": "A2"
@@ -1414,6 +1438,7 @@
   {
     "front": "collapse",
     "back": [
+      "crollare",
       "crollo"
     ],
     "level": "B1"
@@ -1437,7 +1462,8 @@
   {
     "front": "college",
     "back": [
-      "Università"
+      "università",
+      "istituto superiore"
     ],
     "level": "A1"
   },
@@ -1460,9 +1486,9 @@
   {
     "front": "comfort",
     "back": [
-      "comfort",
+      "comodità",
       "conforto",
-      "comodità"
+      "confortare"
     ],
     "level": "B1",
     "topic": "Emotions"
@@ -1484,7 +1510,8 @@
   {
     "front": "committee",
     "back": [
-      "Comitato"
+      "comitato",
+      "commissione"
     ],
     "level": "A2"
   },
@@ -1521,7 +1548,9 @@
   {
     "front": "competition",
     "back": [
-      "concorrenza"
+      "competizione",
+      "concorrenza",
+      "gara"
     ],
     "level": "A2"
   },
@@ -1543,7 +1572,6 @@
   {
     "front": "complaint",
     "back": [
-      "denuncia",
       "reclamo",
       "lamentela"
     ],
@@ -1553,9 +1581,9 @@
   {
     "front": "comprehensive",
     "back": [
-      "globale",
       "completo",
-      "esaustivo"
+      "esaustivo",
+      "globale"
     ],
     "level": "C1",
     "topic": "Describing"
@@ -1563,7 +1591,8 @@
   {
     "front": "concentrate",
     "back": [
-      "concentrato"
+      "concentrarsi",
+      "concentrare"
     ],
     "level": "A2"
   },
@@ -1580,15 +1609,16 @@
   {
     "front": "concerned",
     "back": [
-      "ha riguardato"
+      "preoccupato",
+      "interessato"
     ],
     "level": "B1"
   },
   {
     "front": "concrete",
     "back": [
-      "calcestruzzo",
-      "cemento"
+      "concreto",
+      "calcestruzzo"
     ],
     "level": "B2",
     "topic": "Tools & materials"
@@ -1596,6 +1626,7 @@
   {
     "front": "conduct",
     "back": [
+      "condurre",
       "condotta"
     ],
     "level": "B1"
@@ -1628,14 +1659,13 @@
   {
     "front": "congressional",
     "back": [
-      "Congresso"
+      "del Congresso"
     ],
     "level": null
   },
   {
     "front": "connect",
     "back": [
-      "Collegare",
       "collegare",
       "connettere"
     ],
@@ -1652,6 +1682,7 @@
   {
     "front": "conservative",
     "back": [
+      "conservatore",
       "prudente"
     ],
     "level": "B1"
@@ -1659,8 +1690,8 @@
   {
     "front": "consider",
     "back": [
-      "ritenere",
-      "considerare"
+      "considerare",
+      "ritenere"
     ],
     "level": "B1",
     "topic": "Thinking & speaking"
@@ -1720,9 +1751,8 @@
   {
     "front": "content",
     "back": [
-      "soddisfare",
-      "soddisfatto",
-      "contento"
+      "contenuto",
+      "soddisfatto"
     ],
     "level": "B2",
     "topic": "Emotions"
@@ -1730,14 +1760,15 @@
   {
     "front": "contest",
     "back": [
-      "concorso"
+      "concorso",
+      "gara",
+      "contestare"
     ],
     "level": "A1"
   },
   {
     "front": "continue",
     "back": [
-      "Continua",
       "continuare"
     ],
     "level": "A2",
@@ -1746,15 +1777,16 @@
   {
     "front": "continued",
     "back": [
-      "continua"
+      "continuo",
+      "proseguito"
     ],
     "level": null
   },
   {
     "front": "contract",
     "back": [
-      "contrarre",
-      "contratto"
+      "contratto",
+      "contrarre"
     ],
     "level": "B1",
     "topic": "Business & economy"
@@ -1777,14 +1809,17 @@
   {
     "front": "cooking",
     "back": [
-      "cucinando"
+      "cucina",
+      "il cucinare"
     ],
     "level": "A2"
   },
   {
     "front": "cool",
     "back": [
-      "freddo"
+      "fresco",
+      "figo",
+      "raffreddare"
     ],
     "level": "A1"
   },
@@ -1798,9 +1833,8 @@
   {
     "front": "cope",
     "back": [
-      "far fronte",
       "farcela",
-      "affrontare"
+      "far fronte"
     ],
     "level": "B2",
     "topic": "Common verbs"
@@ -1817,9 +1851,7 @@
   {
     "front": "corn",
     "back": [
-      "Mais",
-      "mais",
-      "granturco"
+      "mais"
     ],
     "level": "B1",
     "topic": "Food & drink"
@@ -1848,21 +1880,24 @@
   {
     "front": "could",
     "back": [
-      "poteva"
+      "poteva",
+      "potrebbe"
     ],
     "level": "A1"
   },
   {
     "front": "counselor",
     "back": [
-      "consulente"
+      "consulente",
+      "consigliere"
     ],
     "level": null
   },
   {
     "front": "count",
     "back": [
-      "contare"
+      "contare",
+      "conteggio"
     ],
     "level": "A2",
     "topic": "Quantity & measure"
@@ -1877,9 +1912,9 @@
   {
     "front": "court",
     "back": [
-      "Tribunale",
       "tribunale",
-      "corte"
+      "corte",
+      "campo (da gioco)"
     ],
     "level": "B1",
     "topic": "Law & crime"
@@ -1887,8 +1922,9 @@
   {
     "front": "cover",
     "back": [
+      "coprire",
       "copertina",
-      "coprire"
+      "copertura"
     ],
     "level": "A2",
     "topic": "Common verbs"
@@ -1896,21 +1932,26 @@
   {
     "front": "crack",
     "back": [
-      "crepa"
+      "crepa",
+      "incrinare"
     ],
     "level": "B2"
   },
   {
     "front": "craft",
     "back": [
-      "mestiere"
+      "mestiere",
+      "artigianato",
+      "creare"
     ],
     "level": "B1"
   },
   {
     "front": "crash",
     "back": [
-      "schianto"
+      "schianto",
+      "schiantarsi",
+      "incidente"
     ],
     "level": "B1"
   },
@@ -1941,9 +1982,9 @@
   {
     "front": "crop",
     "back": [
-      "Ritaglia",
       "raccolto",
-      "coltura"
+      "coltura",
+      "ritagliare"
     ],
     "level": "B2",
     "topic": "Environment"
@@ -1973,8 +2014,8 @@
   {
     "front": "custom",
     "back": [
-      "costume",
-      "usanza"
+      "usanza",
+      "costume"
     ],
     "level": "B1",
     "topic": "History & society"
@@ -1982,14 +2023,16 @@
   {
     "front": "cycle",
     "back": [
-      "ciclo"
+      "ciclo",
+      "andare in bicicletta"
     ],
     "level": "B1"
   },
   {
     "front": "daily",
     "back": [
-      "quotidiano"
+      "quotidiano",
+      "quotidianamente"
     ],
     "level": "A2"
   },
@@ -2018,23 +2061,25 @@
   {
     "front": "deal",
     "back": [
-      "affare"
+      "affare",
+      "accordo",
+      "occuparsi di"
     ],
     "level": "A2"
   },
   {
     "front": "dealer",
     "back": [
-      "commerciante"
+      "commerciante",
+      "rivenditore"
     ],
     "level": "B1"
   },
   {
     "front": "debate",
     "back": [
-      "discussione",
-      "dibattere",
-      "dibattito"
+      "dibattito",
+      "discutere"
     ],
     "level": "B2",
     "topic": "Thinking & speaking"
@@ -2058,8 +2103,8 @@
   {
     "front": "deck",
     "back": [
-      "ponte",
-      "ponte (di nave)"
+      "ponte (di nave)",
+      "mazzo (di carte)"
     ],
     "level": "B2",
     "topic": "Travel & transport"
@@ -2068,8 +2113,8 @@
     "front": "decline",
     "back": [
       "declino",
-      "declinare",
-      "diminuire"
+      "diminuire",
+      "rifiutare"
     ],
     "level": "B2",
     "topic": "Change & action"
@@ -2085,7 +2130,8 @@
   {
     "front": "defeat",
     "back": [
-      "la sconfitta"
+      "sconfitta",
+      "sconfiggere"
     ],
     "level": "B1"
   },
@@ -2099,6 +2145,7 @@
   {
     "front": "deficit",
     "back": [
+      "deficit",
       "disavanzo"
     ],
     "level": "B2"
@@ -2106,6 +2153,7 @@
   {
     "front": "definitely",
     "back": [
+      "sicuramente",
       "decisamente"
     ],
     "level": "B1"
@@ -2114,7 +2162,8 @@
     "front": "demand",
     "back": [
       "richiesta",
-      "domanda"
+      "domanda",
+      "esigere"
     ],
     "level": "B2",
     "topic": "Business & economy"
@@ -2122,16 +2171,16 @@
   {
     "front": "depending",
     "back": [
-      "Dipendente"
+      "a seconda di",
+      "dipende da"
     ],
     "level": null
   },
   {
     "front": "depict",
     "back": [
-      "rappresentare",
       "raffigurare",
-      "descrivere"
+      "rappresentare"
     ],
     "level": "C1",
     "topic": "Thinking & speaking"
@@ -2146,7 +2195,9 @@
   {
     "front": "designer",
     "back": [
-      "progettista"
+      "designer",
+      "progettista",
+      "stilista"
     ],
     "level": "B1"
   },
@@ -2182,6 +2233,7 @@
   {
     "front": "detect",
     "back": [
+      "rilevare",
       "individuare"
     ],
     "level": "B2"
@@ -2189,7 +2241,7 @@
   {
     "front": "developing",
     "back": [
-      "sviluppando"
+      "in via di sviluppo"
     ],
     "level": "B2"
   },
@@ -2203,6 +2255,7 @@
   {
     "front": "dining",
     "back": [
+      "sala da pranzo",
       "cenare"
     ],
     "level": null
@@ -2210,13 +2263,15 @@
   {
     "front": "dirt",
     "back": [
-      "sporco"
+      "sporcizia",
+      "terra"
     ],
     "level": "B1"
   },
   {
     "front": "disability",
     "back": [
+      "disabilità",
       "invalidità"
     ],
     "level": "B1"
@@ -2240,7 +2295,9 @@
   {
     "front": "dismiss",
     "back": [
-      "respingere"
+      "licenziare",
+      "respingere",
+      "congedare"
     ],
     "level": "B2"
   },
@@ -2254,7 +2311,8 @@
   {
     "front": "dispute",
     "back": [
-      "controversie"
+      "controversia",
+      "disputa"
     ],
     "level": "B2"
   },
@@ -2293,14 +2351,14 @@
   {
     "front": "dominate",
     "back": [
-      "dominato"
+      "dominare"
     ],
     "level": "B2"
   },
   {
     "front": "downtown",
     "back": [
-      "centro",
+      "in centro",
       "centro città"
     ],
     "level": "B1",
@@ -2318,7 +2376,8 @@
   {
     "front": "drama",
     "back": [
-      "Dramma"
+      "dramma",
+      "teatro"
     ],
     "level": "A1"
   },
@@ -2344,8 +2403,6 @@
     "front": "dress",
     "back": [
       "vestito",
-      "vestito (da donna)",
-      "abito",
       "vestirsi"
     ],
     "level": "A2",
@@ -2364,7 +2421,8 @@
     "front": "drop",
     "back": [
       "far cadere",
-      "lasciar cadere"
+      "goccia",
+      "calare"
     ],
     "level": "A2",
     "topic": "Common verbs"
@@ -2396,7 +2454,9 @@
   {
     "front": "ease",
     "back": [
-      "sollievo"
+      "facilità",
+      "sollievo",
+      "alleviare"
     ],
     "level": "B2"
   },
@@ -2418,7 +2478,8 @@
   {
     "front": "education",
     "back": [
-      "formazione scolastica"
+      "istruzione",
+      "formazione"
     ],
     "level": "A2"
   },
@@ -2439,7 +2500,9 @@
   {
     "front": "either",
     "back": [
-      "o"
+      "o",
+      "l'uno o l'altro",
+      "neanche"
     ],
     "level": "A1"
   },
@@ -2454,7 +2517,8 @@
   {
     "front": "else",
     "back": [
-      "altro"
+      "altro",
+      "altrimenti"
     ],
     "level": "A1"
   },
@@ -2468,6 +2532,7 @@
   {
     "front": "embrace",
     "back": [
+      "abbracciare",
       "abbraccio"
     ],
     "level": "B2"
@@ -2515,21 +2580,24 @@
   {
     "front": "encounter",
     "back": [
-      "incontrare"
+      "incontrare",
+      "incontro"
     ],
     "level": "B1"
   },
   {
     "front": "enforcement",
     "back": [
-      "rinforzo"
+      "applicazione (della legge)",
+      "esecuzione"
     ],
     "level": null
   },
   {
     "front": "engage",
     "back": [
-      "ingaggiare"
+      "coinvolgere",
+      "impegnarsi"
     ],
     "level": "B1"
   },
@@ -2554,6 +2622,7 @@
     "front": "enjoy",
     "back": [
       "godere",
+      "divertirsi",
       "gustare"
     ],
     "level": "A1"
@@ -2561,8 +2630,9 @@
   {
     "front": "enter",
     "back": [
-      "accedere",
-      "entrare"
+      "entrare",
+      "inserire",
+      "accedere"
     ],
     "level": "A2",
     "topic": "Common verbs"
@@ -2578,6 +2648,8 @@
   {
     "front": "entry",
     "back": [
+      "ingresso",
+      "voce",
       "iscrizione"
     ],
     "level": "B1"
@@ -2592,9 +2664,9 @@
   {
     "front": "equal",
     "back": [
-      "pari",
       "uguale",
-      "equivalere"
+      "pari",
+      "eguagliare"
     ],
     "level": "B1",
     "topic": "Describing"
@@ -2609,10 +2681,9 @@
   {
     "front": "escape",
     "back": [
-      "fuga",
       "scappare",
       "fuggire",
-      "evadere"
+      "fuga"
     ],
     "level": "B1",
     "topic": "Movement"
@@ -2629,7 +2700,9 @@
   {
     "front": "establishment",
     "back": [
-      "istituzione"
+      "istituzione",
+      "fondazione",
+      "stabilimento"
     ],
     "level": "B1"
   },
@@ -2637,6 +2710,7 @@
     "front": "estate",
     "back": [
       "proprietà",
+      "tenuta",
       "patrimonio"
     ],
     "level": "B2",
@@ -2659,7 +2733,9 @@
   {
     "front": "even",
     "back": [
-      "anche"
+      "anche",
+      "perfino",
+      "pari"
     ],
     "level": "A2"
   },
@@ -2673,9 +2749,8 @@
   {
     "front": "eventually",
     "back": [
-      "infine",
       "alla fine",
-      "col tempo"
+      "prima o poi"
     ],
     "level": "B2",
     "topic": "Adverbs & linking"
@@ -2683,15 +2758,14 @@
   {
     "front": "everything",
     "back": [
-      "Tutto quanto"
+      "tutto"
     ],
     "level": "A1"
   },
   {
     "front": "everywhere",
     "back": [
-      "da tutte le parti",
-      "dovunque",
+      "dappertutto",
       "ovunque"
     ],
     "level": "A2",
@@ -2700,7 +2774,6 @@
   {
     "front": "exactly",
     "back": [
-      "Esattamente",
       "esattamente"
     ],
     "level": "A2",
@@ -2709,6 +2782,7 @@
   {
     "front": "examination",
     "back": [
+      "esame",
       "visita medica"
     ],
     "level": "B1"
@@ -2731,6 +2805,7 @@
     "front": "exchange",
     "back": [
       "scambio",
+      "scambiare",
       "cambio"
     ],
     "level": "B1",
@@ -2739,7 +2814,9 @@
   {
     "front": "exhibit",
     "back": [
-      "mostra"
+      "esporre",
+      "mostrare",
+      "reperto"
     ],
     "level": "B2"
   },
@@ -2776,8 +2853,8 @@
   {
     "front": "experiment",
     "back": [
-      "sperimentare",
-      "esperimento"
+      "esperimento",
+      "sperimentare"
     ],
     "level": "B1",
     "topic": "Science"
@@ -2785,7 +2862,8 @@
   {
     "front": "express",
     "back": [
-      "esprimere"
+      "esprimere",
+      "espresso"
     ],
     "level": "A2"
   },
@@ -2799,9 +2877,9 @@
   {
     "front": "extent",
     "back": [
-      "estensione",
       "misura",
-      "grado"
+      "portata",
+      "estensione"
     ],
     "level": "C1",
     "topic": "Ideas & abstract"
@@ -2818,8 +2896,9 @@
   {
     "front": "facility",
     "back": [
-      "servizio",
-      "struttura"
+      "struttura",
+      "impianto",
+      "servizio"
     ],
     "level": "B1"
   },
@@ -2856,6 +2935,8 @@
   {
     "front": "fall",
     "back": [
+      "cadere",
+      "caduta",
       "autunno"
     ],
     "level": "A2"
@@ -2863,8 +2944,8 @@
   {
     "front": "farmer",
     "back": [
-      "contadino",
-      "agricoltore"
+      "agricoltore",
+      "contadino"
     ],
     "level": "A2",
     "topic": "Work & jobs"
@@ -2886,7 +2967,9 @@
   {
     "front": "feature",
     "back": [
-      "caratteristica"
+      "caratteristica",
+      "includere",
+      "presentare"
     ],
     "level": "B1",
     "topic": "Ideas & abstract"
@@ -2894,16 +2977,18 @@
   {
     "front": "feed",
     "back": [
-      "alimentazione"
+      "nutrire",
+      "dare da mangiare",
+      "alimentare"
     ],
     "level": "A1"
   },
   {
     "front": "feel",
     "back": [
-      "Tatto",
       "sentire",
-      "sentirsi"
+      "sentirsi",
+      "provare"
     ],
     "level": "A1",
     "topic": "Senses"
@@ -2935,6 +3020,7 @@
   {
     "front": "fiction",
     "back": [
+      "narrativa",
       "finzione"
     ],
     "level": "A2"
@@ -2942,14 +3028,17 @@
   {
     "front": "fight",
     "back": [
-      "combattimento"
+      "combattere",
+      "litigare",
+      "lotta"
     ],
     "level": "A1"
   },
   {
     "front": "fighting",
     "back": [
-      "battagliero"
+      "combattimento",
+      "lotta"
     ],
     "level": "B2"
   },
@@ -2963,15 +3052,16 @@
   {
     "front": "find",
     "back": [
-      "trova"
+      "trovare"
     ],
     "level": "A1"
   },
   {
     "front": "firm",
     "back": [
+      "azienda",
       "ditta",
-      "azienda"
+      "solido"
     ],
     "level": "B2",
     "topic": "Work & jobs"
@@ -2986,7 +3076,9 @@
   {
     "front": "fit",
     "back": [
-      "in forma"
+      "in forma",
+      "adattarsi",
+      "stare bene (vestito)"
     ],
     "level": "A2"
   },
@@ -3028,6 +3120,7 @@
   {
     "front": "flavor",
     "back": [
+      "sapore",
       "gusto"
     ],
     "level": "B1"
@@ -3049,7 +3142,6 @@
   {
     "front": "float",
     "back": [
-      "galleggiante",
       "galleggiare"
     ],
     "level": "B1",
@@ -3067,6 +3159,8 @@
   {
     "front": "focus",
     "back": [
+      "concentrarsi",
+      "fuoco",
       "messa a fuoco"
     ],
     "level": "A1"
@@ -3081,21 +3175,22 @@
   {
     "front": "following",
     "back": [
-      "a seguire"
+      "seguente",
+      "successivo"
     ],
     "level": "A1"
   },
   {
     "front": "force",
     "back": [
-      "forza"
+      "forza",
+      "costringere"
     ],
     "level": "A2"
   },
   {
     "front": "foreign",
     "back": [
-      "straniera",
       "straniero",
       "estero"
     ],
@@ -3105,7 +3200,9 @@
   {
     "front": "form",
     "back": [
-      "modulo"
+      "modulo",
+      "forma",
+      "formare"
     ],
     "level": "B1",
     "topic": "Media & language"
@@ -3120,16 +3217,16 @@
   {
     "front": "forth",
     "back": [
-      "via"
+      "avanti",
+      "fuori"
     ],
     "level": "B1"
   },
   {
     "front": "forward",
     "back": [
-      "inoltrare",
       "avanti",
-      "in avanti"
+      "inoltrare"
     ],
     "level": "B1",
     "topic": "Position & direction"
@@ -3137,9 +3234,9 @@
   {
     "front": "frame",
     "back": [
-      "portafoto",
       "cornice",
-      "telaio"
+      "telaio",
+      "inquadrare"
     ],
     "level": "B1",
     "topic": "Objects"
@@ -3156,7 +3253,9 @@
   {
     "front": "free",
     "back": [
-      "gratuito"
+      "libero",
+      "gratuito",
+      "liberare"
     ],
     "level": "A1"
   },
@@ -3171,22 +3270,24 @@
   {
     "front": "from",
     "back": [
-      "a partire dal"
+      "da"
     ],
     "level": "A1"
   },
   {
     "front": "front",
     "back": [
-      "davanti"
+      "davanti",
+      "parte anteriore",
+      "fronte"
     ],
     "level": "A1"
   },
   {
     "front": "full",
     "back": [
-      "completo",
-      "pieno"
+      "pieno",
+      "completo"
     ],
     "level": "A2",
     "topic": "Describing"
@@ -3201,8 +3302,8 @@
   {
     "front": "fund",
     "back": [
-      "finanziare",
-      "fondo"
+      "fondo",
+      "finanziare"
     ],
     "level": "B2",
     "topic": "Business & economy"
@@ -3217,7 +3318,6 @@
   {
     "front": "furniture",
     "back": [
-      "Arredamento",
       "mobili",
       "arredamento"
     ],
@@ -3234,6 +3334,8 @@
   {
     "front": "gain",
     "back": [
+      "guadagnare",
+      "ottenere",
       "guadagno"
     ],
     "level": "B1"
@@ -3241,14 +3343,18 @@
   {
     "front": "gap",
     "back": [
-      "spacco"
+      "divario",
+      "spazio vuoto",
+      "lacuna"
     ],
     "level": "B1"
   },
   {
     "front": "garage",
     "back": [
-      "box auto"
+      "garage",
+      "box auto",
+      "officina"
     ],
     "level": "A2"
   },
@@ -3281,14 +3387,16 @@
   {
     "front": "gear",
     "back": [
-      "Ingranaggio"
+      "attrezzatura",
+      "ingranaggio",
+      "marcia"
     ],
     "level": "B2"
   },
   {
     "front": "gender",
     "back": [
-      "Genere"
+      "genere"
     ],
     "level": "A2"
   },
@@ -3302,8 +3410,8 @@
   {
     "front": "generate",
     "back": [
-      "creare",
-      "generare"
+      "generare",
+      "creare"
     ],
     "level": "B2",
     "topic": "Common verbs"
@@ -3379,15 +3487,16 @@
   {
     "front": "grab",
     "back": [
-      "preda"
+      "afferrare",
+      "prendere"
     ],
     "level": "B1"
   },
   {
     "front": "grade",
     "back": [
-      "grado",
       "voto",
+      "grado",
       "classe"
     ],
     "level": "B1",
@@ -3396,7 +3505,9 @@
   {
     "front": "graduate",
     "back": [
-      "laureato"
+      "laureato",
+      "diplomato",
+      "laurearsi"
     ],
     "level": "A2"
   },
@@ -3410,35 +3521,42 @@
   {
     "front": "grand",
     "back": [
-      "mille dollari"
+      "grandioso",
+      "imponente"
     ],
     "level": "B2"
   },
   {
     "front": "grant",
     "back": [
-      "concedere"
+      "concedere",
+      "sovvenzione",
+      "borsa di studio"
     ],
     "level": "B1"
   },
   {
     "front": "grocery",
     "back": [
-      "drogheria"
+      "alimentari",
+      "negozio di alimentari"
     ],
     "level": null
   },
   {
     "front": "ground",
     "back": [
-      "terreno"
+      "terreno",
+      "suolo",
+      "terra"
     ],
     "level": "A1"
   },
   {
     "front": "guarantee",
     "back": [
-      "garanzia"
+      "garanzia",
+      "garantire"
     ],
     "level": "B1"
   },
@@ -3452,7 +3570,8 @@
   {
     "front": "guideline",
     "back": [
-      "orientamento"
+      "linea guida",
+      "direttiva"
     ],
     "level": "B2"
   },
@@ -3499,7 +3618,8 @@
   {
     "front": "hang",
     "back": [
-      "appendere"
+      "appendere",
+      "pendere"
     ],
     "level": "B1"
   },
@@ -3531,8 +3651,8 @@
   {
     "front": "headquarters",
     "back": [
-      "Sede centrale",
-      "sede centrale"
+      "sede centrale",
+      "quartier generale"
     ],
     "level": "C1",
     "topic": "Work & jobs"
@@ -3556,7 +3676,9 @@
   {
     "front": "heat",
     "back": [
-      "calore"
+      "calore",
+      "caldo",
+      "riscaldare"
     ],
     "level": "A2"
   },
@@ -3579,6 +3701,8 @@
   {
     "front": "her",
     "back": [
+      "lei",
+      "la",
       "sua"
     ],
     "level": "A1"
@@ -3623,8 +3747,9 @@
   {
     "front": "hold",
     "back": [
-      "presa",
-      "tenere"
+      "tenere",
+      "reggere",
+      "presa"
     ],
     "level": "A2",
     "topic": "Daily life"
@@ -3632,14 +3757,16 @@
   {
     "front": "hole",
     "back": [
-      "Foro"
+      "buco",
+      "foro"
     ],
     "level": "A1"
   },
   {
     "front": "holy",
     "back": [
-      "Santo"
+      "santo",
+      "sacro"
     ],
     "level": "B1"
   },
@@ -3653,13 +3780,16 @@
   {
     "front": "host",
     "back": [
-      "ospite"
+      "ospite",
+      "padrone di casa",
+      "ospitare"
     ],
     "level": "A2"
   },
   {
     "front": "hot",
     "back": [
+      "caldo",
       "piccante"
     ],
     "level": "A1"
@@ -3667,9 +3797,9 @@
   {
     "front": "household",
     "back": [
-      "domestico",
       "famiglia",
-      "nucleo familiare"
+      "nucleo familiare",
+      "domestico"
     ],
     "level": "B2",
     "topic": "House & home"
@@ -3698,9 +3828,9 @@
   {
     "front": "hurt",
     "back": [
-      "male",
       "fare male",
-      "ferire"
+      "ferire",
+      "ferito"
     ],
     "level": "A2",
     "topic": "Common verbs"
@@ -3708,7 +3838,8 @@
   {
     "front": "ie",
     "back": [
-      "cioè"
+      "cioè",
+      "ossia"
     ],
     "level": null
   },
@@ -3731,6 +3862,8 @@
   {
     "front": "implement",
     "back": [
+      "attuare",
+      "implementare",
       "strumento"
     ],
     "level": "B2"
@@ -3738,7 +3871,6 @@
   {
     "front": "implication",
     "back": [
-      "coinvolgimento",
       "implicazione",
       "conseguenza"
     ],
@@ -3762,14 +3894,14 @@
   {
     "front": "impressive",
     "back": [
-      "degno di nota"
+      "impressionante",
+      "notevole"
     ],
     "level": "B1"
   },
   {
     "front": "improve",
     "back": [
-      "Ottimizzare",
       "migliorare"
     ],
     "level": "B1",
@@ -3785,7 +3917,8 @@
   {
     "front": "including",
     "back": [
-      "Compreso"
+      "compreso",
+      "incluso"
     ],
     "level": "B1"
   },
@@ -3801,8 +3934,8 @@
   {
     "front": "increase",
     "back": [
-      "aumento",
-      "aumentare"
+      "aumentare",
+      "aumento"
     ],
     "level": "B1",
     "topic": "Common verbs"
@@ -3810,7 +3943,8 @@
   {
     "front": "increased",
     "back": [
-      "è aumentato"
+      "aumentato",
+      "maggiore"
     ],
     "level": null
   },
@@ -3855,6 +3989,7 @@
   {
     "front": "inform",
     "back": [
+      "informare",
       "far sapere"
     ],
     "level": "B1"
@@ -3878,7 +4013,9 @@
   {
     "front": "inquiry",
     "back": [
-      "inchiesta"
+      "inchiesta",
+      "indagine",
+      "richiesta di informazioni"
     ],
     "level": "B1"
   },
@@ -3894,14 +4031,14 @@
   {
     "front": "instance",
     "back": [
-      "esempio"
+      "esempio",
+      "caso"
     ],
     "level": "B1"
   },
   {
     "front": "instead",
     "back": [
-      "Invece",
       "invece"
     ],
     "level": "B1",
@@ -3974,8 +4111,8 @@
   {
     "front": "iron",
     "back": [
-      "ferro da stiro",
       "ferro",
+      "ferro da stiro",
       "stirare"
     ],
     "level": "B1",
@@ -3998,7 +4135,8 @@
   {
     "front": "itself",
     "back": [
-      "si"
+      "sé stesso",
+      "se stesso"
     ],
     "level": "A2"
   },
@@ -4026,8 +4164,9 @@
   {
     "front": "join",
     "back": [
+      "unirsi",
       "aderire",
-      "unirsi"
+      "iscriversi"
     ],
     "level": "A2",
     "topic": "Common verbs"
@@ -4035,9 +4174,9 @@
   {
     "front": "joint",
     "back": [
-      "giunto",
+      "comune",
       "congiunto",
-      "comune"
+      "articolazione"
     ],
     "level": "B2",
     "topic": "Describing"
@@ -4045,7 +4184,8 @@
   {
     "front": "journal",
     "back": [
-      "rivista"
+      "rivista (specialistica)",
+      "diario"
     ],
     "level": "B1"
   },
@@ -4076,14 +4216,15 @@
   {
     "front": "kid",
     "back": [
-      "ragazzo"
+      "bambino",
+      "ragazzo",
+      "scherzare"
     ],
     "level": "A1"
   },
   {
     "front": "kill",
     "back": [
-      "uccisione",
       "uccidere"
     ],
     "level": "A2",
@@ -4092,14 +4233,16 @@
   {
     "front": "labor",
     "back": [
-      "lavoro"
+      "lavoro",
+      "manodopera"
     ],
     "level": "A2"
   },
   {
     "front": "lack",
     "back": [
-      "la mancanza"
+      "mancanza",
+      "mancare"
     ],
     "level": "A2"
   },
@@ -4113,8 +4256,8 @@
   {
     "front": "language",
     "back": [
-      "linguaggio",
-      "lingua"
+      "lingua",
+      "linguaggio"
     ],
     "level": "A1",
     "topic": "Media & language"
@@ -4122,7 +4265,8 @@
   {
     "front": "lap",
     "back": [
-      "giro"
+      "giro (di pista)",
+      "grembo"
     ],
     "level": "B2"
   },
@@ -4143,7 +4287,8 @@
   {
     "front": "later",
     "back": [
-      "dopo"
+      "dopo",
+      "più tardi"
     ],
     "level": "A1"
   },
@@ -4164,51 +4309,58 @@
   {
     "front": "lawn",
     "back": [
-      "Prato"
+      "prato"
     ],
     "level": "B2"
   },
   {
     "front": "lawsuit",
     "back": [
-      "causa"
+      "causa (legale)"
     ],
     "level": "B2"
   },
   {
     "front": "lay",
     "back": [
-      "posare"
+      "posare",
+      "stendere",
+      "deporre"
     ],
     "level": "B1"
   },
   {
     "front": "lead",
     "back": [
-      "guida"
+      "guidare",
+      "condurre",
+      "piombo"
     ],
     "level": "A2"
   },
   {
     "front": "leadership",
     "back": [
-      "comando"
+      "leadership",
+      "guida",
+      "direzione"
     ],
     "level": "B1"
   },
   {
     "front": "leading",
     "back": [
-      "primo"
+      "principale",
+      "di primo piano"
     ],
     "level": "B1"
   },
   {
     "front": "lean",
     "back": [
-      "pendere",
       "appoggiarsi",
-      "inclinarsi"
+      "inclinarsi",
+      "magro"
     ],
     "level": "B2",
     "topic": "Movement"
@@ -4223,7 +4375,8 @@
   {
     "front": "least",
     "back": [
-      "meno"
+      "il meno",
+      "minimo"
     ],
     "level": "A2"
   },
@@ -4239,7 +4392,9 @@
   {
     "front": "leave",
     "back": [
-      "partire"
+      "partire",
+      "lasciare",
+      "congedo"
     ],
     "level": "A1"
   },
@@ -4269,13 +4424,16 @@
   {
     "front": "lie",
     "back": [
-      "menzogna"
+      "mentire",
+      "bugia",
+      "sdraiarsi"
     ],
     "level": "A2"
   },
   {
     "front": "lifetime",
     "back": [
+      "vita",
       "tutta la vita"
     ],
     "level": "B2"
@@ -4283,9 +4441,9 @@
   {
     "front": "lift",
     "back": [
-      "sollevamento",
       "sollevare",
-      "alzare"
+      "alzare",
+      "ascensore"
     ],
     "level": "A2",
     "topic": "Movement"
@@ -4293,7 +4451,9 @@
   {
     "front": "light",
     "back": [
-      "leggero"
+      "luce",
+      "leggero",
+      "accendere"
     ],
     "level": "A2",
     "topic": "Describing"
@@ -4301,7 +4461,8 @@
   {
     "front": "like",
     "back": [
-      "Come"
+      "come",
+      "piacere"
     ],
     "level": "A1"
   },
@@ -4316,7 +4477,9 @@
   {
     "front": "list",
     "back": [
-      "elenco"
+      "elenco",
+      "lista",
+      "elencare"
     ],
     "level": "A1"
   },
@@ -4330,6 +4493,7 @@
   {
     "front": "little",
     "back": [
+      "piccolo",
       "poco"
     ],
     "level": "A1"
@@ -4337,14 +4501,18 @@
   {
     "front": "live",
     "back": [
-      "abitare"
+      "vivere",
+      "abitare",
+      "dal vivo"
     ],
     "level": "A1"
   },
   {
     "front": "living",
     "back": [
-      "vita"
+      "vivente",
+      "vita",
+      "sostentamento"
     ],
     "level": "A1"
   },
@@ -4366,7 +4534,8 @@
   {
     "front": "location",
     "back": [
-      "Posizione"
+      "posizione",
+      "luogo"
     ],
     "level": "B1"
   },
@@ -4382,8 +4551,9 @@
   {
     "front": "look",
     "back": [
-      "Guarda",
-      "guardare"
+      "guardare",
+      "sembrare",
+      "sguardo"
     ],
     "level": "A1",
     "topic": "Senses"
@@ -4391,9 +4561,9 @@
   {
     "front": "loose",
     "back": [
+      "allentato",
       "sciolto",
-      "lento",
-      "allentato"
+      "largo"
     ],
     "level": "B1",
     "topic": "Describing"
@@ -4401,23 +4571,24 @@
   {
     "front": "lost",
     "back": [
-      "perduto"
+      "perso",
+      "smarrito"
     ],
     "level": "A2"
   },
   {
     "front": "lot",
     "back": [
-      "quantità"
+      "molto",
+      "un sacco"
     ],
     "level": "A1"
   },
   {
     "front": "loud",
     "back": [
-      "ad alta voce",
-      "rumoroso",
-      "forte"
+      "forte",
+      "rumoroso"
     ],
     "level": "A2",
     "topic": "Describing"
@@ -4425,8 +4596,8 @@
   {
     "front": "love",
     "back": [
-      "amore",
-      "amare"
+      "amare",
+      "amore"
     ],
     "level": "A1",
     "topic": "Relationships"
@@ -4434,13 +4605,16 @@
   {
     "front": "lovely",
     "back": [
-      "amabile"
+      "bello",
+      "delizioso",
+      "incantevole"
     ],
     "level": "A1"
   },
   {
     "front": "lower",
     "back": [
+      "abbassare",
       "inferiore"
     ],
     "level": "B2"
@@ -4455,7 +4629,6 @@
   {
     "front": "lunch",
     "back": [
-      "il pranzo",
       "pranzo"
     ],
     "level": "A1",
@@ -4479,7 +4652,8 @@
   {
     "front": "mail",
     "back": [
-      "posta"
+      "posta",
+      "spedire"
     ],
     "level": "A1"
   },
@@ -4494,6 +4668,7 @@
   {
     "front": "maker",
     "back": [
+      "produttore",
       "creatore"
     ],
     "level": "A2"
@@ -4522,14 +4697,14 @@
   {
     "front": "manufacturing",
     "back": [
-      "produzione"
+      "produzione",
+      "manifattura"
     ],
     "level": "B2"
   },
   {
     "front": "map",
     "back": [
-      "carta geografica",
       "mappa",
       "cartina"
     ],
@@ -4539,6 +4714,7 @@
   {
     "front": "mark",
     "back": [
+      "segno",
       "segnare",
       "voto"
     ],
@@ -4548,7 +4724,8 @@
   {
     "front": "market",
     "back": [
-      "mercato"
+      "mercato",
+      "commercializzare"
     ],
     "level": "A2",
     "topic": "Money & shopping"
@@ -4565,8 +4742,9 @@
   {
     "front": "mass",
     "back": [
-      "messa",
-      "massa"
+      "massa",
+      "di massa",
+      "messa"
     ],
     "level": "B2",
     "topic": "Science"
@@ -4581,9 +4759,9 @@
   {
     "front": "match",
     "back": [
-      "incontro",
       "partita",
-      "fiammifero"
+      "fiammifero",
+      "abbinare"
     ],
     "level": "B1",
     "topic": "Sports & leisure"
@@ -4592,6 +4770,7 @@
     "front": "matter",
     "back": [
       "questione",
+      "importare",
       "materia"
     ],
     "level": "B2",
@@ -4600,14 +4779,16 @@
   {
     "front": "may",
     "back": [
-      "Maggio"
+      "potere (possibilità)",
+      "può darsi",
+      "maggio"
     ],
     "level": "A1"
   },
   {
     "front": "mayor",
     "back": [
-      "Sindaco"
+      "sindaco"
     ],
     "level": "B1"
   },
@@ -4652,9 +4833,9 @@
   {
     "front": "mention",
     "back": [
-      "citare",
       "menzionare",
-      "accennare"
+      "citare",
+      "menzione"
     ],
     "level": "B1",
     "topic": "Thinking & speaking"
@@ -4678,7 +4859,9 @@
   {
     "front": "mess",
     "back": [
-      "disordine"
+      "disordine",
+      "pasticcio",
+      "scompigliare"
     ],
     "level": "B1"
   },
@@ -4692,15 +4875,17 @@
   {
     "front": "miss",
     "back": [
-      "Perdere"
+      "perdere",
+      "mancare",
+      "sentire la mancanza"
     ],
     "level": "A1"
   },
   {
     "front": "mistake",
     "back": [
-      "sbaglio",
-      "errore"
+      "errore",
+      "sbaglio"
     ],
     "level": "A2",
     "topic": "Ideas & abstract"
@@ -4708,7 +4893,8 @@
   {
     "front": "mix",
     "back": [
-      "mescolare"
+      "mescolare",
+      "miscela"
     ],
     "level": "A2",
     "topic": "Kitchen & cooking"
@@ -4730,7 +4916,9 @@
   {
     "front": "monitor",
     "back": [
-      "tenere sotto controllo"
+      "monitorare",
+      "tenere sotto controllo",
+      "monitor"
     ],
     "level": "B1"
   },
@@ -4746,8 +4934,8 @@
   {
     "front": "moreover",
     "back": [
-      "Inoltre",
-      "inoltre"
+      "inoltre",
+      "per di più"
     ],
     "level": "C1",
     "topic": "Adverbs & linking"
@@ -4794,23 +4982,24 @@
   {
     "front": "motor",
     "back": [
-      "il motore"
+      "motore"
     ],
     "level": "B1"
   },
   {
     "front": "mount",
     "back": [
-      "montare"
+      "montare",
+      "salire"
     ],
     "level": "B1"
   },
   {
     "front": "move",
     "back": [
-      "spostare",
       "muovere",
-      "muoversi"
+      "spostare",
+      "trasferirsi"
     ],
     "level": "A1",
     "topic": "Common verbs"
@@ -4818,13 +5007,15 @@
   {
     "front": "Mr",
     "back": [
-      "Sig"
+      "signor",
+      "sig."
     ],
     "level": "A1"
   },
   {
     "front": "much",
     "back": [
+      "molto",
       "tanto"
     ],
     "level": "A1"
@@ -4854,7 +5045,6 @@
   {
     "front": "nearby",
     "back": [
-      "qui vicino",
       "vicino",
       "nelle vicinanze"
     ],
@@ -4872,7 +5062,6 @@
   {
     "front": "negotiation",
     "back": [
-      "negoziazione",
       "negoziato",
       "trattativa"
     ],
@@ -4889,7 +5078,8 @@
   {
     "front": "neither",
     "back": [
-      "nessuno dei due"
+      "nessuno dei due",
+      "né"
     ],
     "level": "B2"
   },
@@ -4903,8 +5093,8 @@
   {
     "front": "net",
     "back": [
-      "netto",
-      "rete"
+      "rete",
+      "netto"
     ],
     "level": "A2",
     "topic": "Sports & leisure"
@@ -4928,8 +5118,8 @@
   {
     "front": "news",
     "back": [
-      "notizia",
-      "notizie"
+      "notizie",
+      "notizia"
     ],
     "level": "A2",
     "topic": "Media & language"
@@ -4937,7 +5127,6 @@
   {
     "front": "newspaper",
     "back": [
-      "giornale quotidiano",
       "giornale"
     ],
     "level": "A2",
@@ -4946,15 +5135,17 @@
   {
     "front": "nice",
     "back": [
-      "simpatico"
+      "carino",
+      "simpatico",
+      "piacevole"
     ],
     "level": "A1"
   },
   {
     "front": "nod",
     "back": [
-      "cenno",
-      "annuire"
+      "annuire",
+      "cenno del capo"
     ],
     "level": "B2",
     "topic": "Senses"
@@ -4997,10 +5188,8 @@
   {
     "front": "notice",
     "back": [
-      "avviso",
       "notare",
-      "accorgersi",
-      "preavviso"
+      "avviso"
     ],
     "level": "B1",
     "topic": "Senses"
@@ -5016,22 +5205,17 @@
   {
     "front": "now",
     "back": [
-      "Ora"
+      "ora",
+      "adesso"
     ],
     "level": "A1"
   },
   {
-    "front": "n't",
-    "back": [
-      "no"
-    ],
-    "level": null
-  },
-  {
     "front": "nurse",
     "back": [
+      "infermiere",
       "infermiera",
-      "infermiere"
+      "curare"
     ],
     "level": "A2",
     "topic": "Body & health"
@@ -5039,9 +5223,9 @@
   {
     "front": "nut",
     "back": [
-      "Noce",
       "noce",
-      "frutto secco"
+      "frutta secca",
+      "dado"
     ],
     "level": "B1",
     "topic": "Food & drink"
@@ -5049,7 +5233,8 @@
   {
     "front": "objective",
     "back": [
-      "obbiettivo"
+      "obiettivo",
+      "oggettivo"
     ],
     "level": "B1"
   },
@@ -5096,28 +5281,34 @@
   {
     "front": "okay",
     "back": [
-      "va bene"
+      "va bene",
+      "ok"
     ],
     "level": "A1"
   },
   {
     "front": "on",
     "back": [
-      "Su"
+      "su",
+      "sopra",
+      "acceso"
     ],
     "level": "A1"
   },
   {
     "front": "online",
     "back": [
-      "in linea"
+      "online",
+      "in rete"
     ],
     "level": "A2"
   },
   {
     "front": "only",
     "back": [
-      "soltanto"
+      "solo",
+      "soltanto",
+      "unico"
     ],
     "level": "A1"
   },
@@ -5147,7 +5338,9 @@
   {
     "front": "opposite",
     "back": [
-      "di fronte"
+      "opposto",
+      "di fronte",
+      "contrario"
     ],
     "level": "A2"
   },
@@ -5168,6 +5361,7 @@
   {
     "front": "ought",
     "back": [
+      "dovere (consiglio)",
       "dovrebbe"
     ],
     "level": null
@@ -5184,8 +5378,9 @@
   {
     "front": "outside",
     "back": [
-      "al di fuori",
-      "fuori"
+      "fuori",
+      "esterno",
+      "all'esterno"
     ],
     "level": "A1",
     "topic": "Position & direction"
@@ -5201,16 +5396,18 @@
   {
     "front": "over",
     "back": [
-      "terminato"
+      "sopra",
+      "finito",
+      "oltre"
     ],
     "level": "A1"
   },
   {
     "front": "overall",
     "back": [
-      "globale",
       "complessivo",
-      "generale"
+      "globale",
+      "nel complesso"
     ],
     "level": "B2",
     "topic": "Describing"
@@ -5225,9 +5422,8 @@
   {
     "front": "owe",
     "back": [
-      "essere debitore",
-      "dovere (denaro)",
-      "essere in debito"
+      "dovere (soldi)",
+      "essere debitore"
     ],
     "level": "B1",
     "topic": "Business & economy"
@@ -5235,7 +5431,8 @@
   {
     "front": "own",
     "back": [
-      "possedere"
+      "possedere",
+      "proprio"
     ],
     "level": "B1",
     "topic": "Common verbs"
@@ -5250,16 +5447,18 @@
   {
     "front": "pace",
     "back": [
-      "ritmo"
+      "ritmo",
+      "andatura",
+      "camminare avanti e indietro"
     ],
     "level": "B1"
   },
   {
     "front": "pack",
     "back": [
-      "pacchetto",
-      "fare i bagagli",
-      "impacchettare"
+      "fare le valigie",
+      "impacchettare",
+      "pacco"
     ],
     "level": "A2",
     "topic": "Common verbs"
@@ -5289,9 +5488,9 @@
   {
     "front": "painting",
     "back": [
-      "la pittura",
       "dipinto",
-      "pittura"
+      "pittura",
+      "quadro"
     ],
     "level": "B1",
     "topic": "Sports & leisure"
@@ -5372,6 +5571,7 @@
   {
     "front": "party",
     "back": [
+      "festa",
       "partito"
     ],
     "level": "B1",
@@ -5380,9 +5580,9 @@
   {
     "front": "pass",
     "back": [
-      "passaggio",
       "passare",
-      "superare"
+      "superare",
+      "passaggio"
     ],
     "level": "A2",
     "topic": "Common verbs"
@@ -5397,10 +5597,9 @@
   {
     "front": "pattern",
     "back": [
-      "modello",
       "schema",
-      "motivo",
-      "sequenza"
+      "modello",
+      "motivo"
     ],
     "level": "B1",
     "topic": "Ideas & abstract"
@@ -5417,14 +5616,18 @@
   {
     "front": "peer",
     "back": [
-      "pari"
+      "coetaneo",
+      "pari",
+      "scrutare"
     ],
     "level": "B2"
   },
   {
     "front": "penalty",
     "back": [
-      "pena"
+      "pena",
+      "sanzione",
+      "rigore"
     ],
     "level": "B2"
   },
@@ -5433,7 +5636,7 @@
     "back": [
       "prestazione",
       "esibizione",
-      "spettacolo"
+      "rendimento"
     ],
     "level": "B2",
     "topic": "Music"
@@ -5441,8 +5644,8 @@
   {
     "front": "permission",
     "back": [
-      "autorizzazione",
-      "permesso"
+      "permesso",
+      "autorizzazione"
     ],
     "level": "B1",
     "topic": "Media & language"
@@ -5491,9 +5694,9 @@
   {
     "front": "pitch",
     "back": [
-      "montare",
-      "piantare",
-      "campo (da gioco)"
+      "campo (da gioco)",
+      "tono",
+      "lanciare"
     ],
     "level": "B2",
     "topic": "Sports & leisure"
@@ -5517,8 +5720,9 @@
   {
     "front": "plot",
     "back": [
+      "trama",
       "complotto",
-      "trama"
+      "appezzamento"
     ],
     "level": "B2",
     "topic": "Media & language"
@@ -5526,6 +5730,7 @@
   {
     "front": "PM",
     "back": [
+      "del pomeriggio",
       "pomeridiano"
     ],
     "level": "A1"
@@ -5540,7 +5745,6 @@
   {
     "front": "police",
     "back": [
-      "Polizia Stradale",
       "polizia"
     ],
     "level": "A2",
@@ -5550,7 +5754,8 @@
     "front": "policy",
     "back": [
       "politica",
-      "linea di condotta"
+      "linea di condotta",
+      "polizza"
     ],
     "level": "B2",
     "topic": "Society & politics"
@@ -5586,6 +5791,7 @@
   {
     "front": "possibly",
     "back": [
+      "forse",
       "possibilmente"
     ],
     "level": "A2"
@@ -5593,7 +5799,10 @@
   {
     "front": "post",
     "back": [
-      "inviare"
+      "pubblicare",
+      "spedire",
+      "posta",
+      "palo"
     ],
     "level": "A1"
   },
@@ -5615,7 +5824,9 @@
   {
     "front": "pound",
     "back": [
-      "libbra"
+      "sterlina",
+      "libbra",
+      "battere"
     ],
     "level": "B1"
   },
@@ -5662,8 +5873,9 @@
   {
     "front": "present",
     "back": [
+      "presente",
       "regalo",
-      "presente"
+      "presentare"
     ],
     "level": "A2",
     "topic": "Time"
@@ -5671,7 +5883,8 @@
   {
     "front": "preserve",
     "back": [
-      "conserva"
+      "conservare",
+      "preservare"
     ],
     "level": "B1"
   },
@@ -5687,8 +5900,8 @@
   {
     "front": "pretend",
     "back": [
-      "far finta",
-      "fingere"
+      "fingere",
+      "far finta"
     ],
     "level": "B1",
     "topic": "Thinking & speaking"
@@ -5696,9 +5909,9 @@
   {
     "front": "pretty",
     "back": [
-      "bello",
       "carino",
-      "grazioso"
+      "grazioso",
+      "abbastanza"
     ],
     "level": "A1",
     "topic": "Character"
@@ -5723,7 +5936,8 @@
   {
     "front": "primarily",
     "back": [
-      "in primis"
+      "principalmente",
+      "in primo luogo"
     ],
     "level": "B1"
   },
@@ -5738,6 +5952,7 @@
   {
     "front": "prior",
     "back": [
+      "precedente",
       "prima"
     ],
     "level": "B2"
@@ -5754,8 +5969,8 @@
   {
     "front": "prominent",
     "back": [
-      "prominente",
-      "di spicco"
+      "di spicco",
+      "prominente"
     ],
     "level": "C1",
     "topic": "Describing"
@@ -5772,7 +5987,9 @@
   {
     "front": "proper",
     "back": [
-      "corretto"
+      "corretto",
+      "adeguato",
+      "vero e proprio"
     ],
     "level": "A2"
   },
@@ -5823,7 +6040,6 @@
   {
     "front": "pull",
     "back": [
-      "tiro",
       "tirare"
     ],
     "level": "A1",
@@ -5841,15 +6057,17 @@
   {
     "front": "qualify",
     "back": [
-      "qualificarsi"
+      "qualificarsi",
+      "avere diritto"
     ],
     "level": "B1"
   },
   {
     "front": "quarter",
     "back": [
+      "quarto",
       "trimestre",
-      "quarto"
+      "quartiere"
     ],
     "level": "A2",
     "topic": "Quantity & measure"
@@ -5857,7 +6075,8 @@
   {
     "front": "quick",
     "back": [
-      "Presto"
+      "veloce",
+      "rapido"
     ],
     "level": "A2"
   },
@@ -5891,7 +6110,9 @@
   {
     "front": "quit",
     "back": [
-      "uscire"
+      "smettere",
+      "lasciare",
+      "abbandonare"
     ],
     "level": "A2"
   },
@@ -5907,9 +6128,9 @@
   {
     "front": "quote",
     "back": [
-      "Citazione",
       "citare",
-      "citazione"
+      "citazione",
+      "preventivo"
     ],
     "level": "B2",
     "topic": "Media & language"
@@ -5917,8 +6138,10 @@
   {
     "front": "race",
     "back": [
+      "gara",
       "corsa",
-      "gara"
+      "razza",
+      "correre"
     ],
     "level": "A2",
     "topic": "Sports & leisure"
@@ -5933,22 +6156,24 @@
   {
     "front": "radio",
     "back": [
-      "Radio"
+      "radio"
     ],
     "level": "A1"
   },
   {
     "front": "rail",
     "back": [
-      "recintare"
+      "rotaia",
+      "ringhiera",
+      "binario"
     ],
     "level": "B1"
   },
   {
     "front": "rain",
     "back": [
-      "piovere",
-      "pioggia"
+      "pioggia",
+      "piovere"
     ],
     "level": "A1",
     "topic": "Nature & weather"
@@ -5956,7 +6181,10 @@
   {
     "front": "raise",
     "back": [
-      "raccogliere"
+      "alzare",
+      "sollevare",
+      "raccogliere (fondi)",
+      "aumento"
     ],
     "level": "A2"
   },
@@ -5964,7 +6192,8 @@
     "front": "range",
     "back": [
       "gamma",
-      "intervallo"
+      "intervallo",
+      "variare"
     ],
     "level": "B2",
     "topic": "Ideas & abstract"
@@ -5972,7 +6201,9 @@
   {
     "front": "rank",
     "back": [
-      "classifica"
+      "grado",
+      "classifica",
+      "classificare"
     ],
     "level": "B1"
   },
@@ -6045,7 +6276,6 @@
   {
     "front": "recommend",
     "back": [
-      "consiglio",
       "raccomandare",
       "consigliare"
     ],
@@ -6055,9 +6285,9 @@
   {
     "front": "record",
     "back": [
-      "disco",
       "registrare",
-      "registro"
+      "record",
+      "disco"
     ],
     "level": "B1",
     "topic": "Media & language"
@@ -6089,8 +6319,8 @@
   {
     "front": "refer",
     "back": [
-      "fare riferimento",
-      "riferirsi"
+      "riferirsi",
+      "fare riferimento"
     ],
     "level": "B2",
     "topic": "Common verbs"
@@ -6112,8 +6342,8 @@
   {
     "front": "refugee",
     "back": [
-      "profugo",
-      "rifugiato"
+      "rifugiato",
+      "profugo"
     ],
     "level": "B2",
     "topic": "Society & politics"
@@ -6121,7 +6351,8 @@
   {
     "front": "regard",
     "back": [
-      "considerare"
+      "considerare",
+      "riguardo"
     ],
     "level": "B1"
   },
@@ -6135,7 +6366,8 @@
   {
     "front": "regardless",
     "back": [
-      "indipendentemente"
+      "indipendentemente",
+      "comunque"
     ],
     "level": "B2"
   },
@@ -6158,7 +6390,9 @@
   {
     "front": "relate",
     "back": [
-      "relazionare"
+      "riferirsi",
+      "essere collegato",
+      "raccontare"
     ],
     "level": "B1"
   },
@@ -6173,7 +6407,9 @@
   {
     "front": "release",
     "back": [
-      "pubblicazione"
+      "rilasciare",
+      "pubblicare",
+      "uscita"
     ],
     "level": "A2"
   },
@@ -6222,9 +6458,9 @@
   {
     "front": "remote",
     "back": [
-      "a distanza",
       "remoto",
-      "lontano"
+      "lontano",
+      "telecomando"
     ],
     "level": "B2",
     "topic": "Describing"
@@ -6240,8 +6476,9 @@
     "front": "report",
     "back": [
       "rapporto",
-      "reportage",
-      "relazione"
+      "relazione",
+      "riferire",
+      "segnalare"
     ],
     "level": "B1",
     "topic": "Media & language"
@@ -6256,7 +6493,8 @@
   {
     "front": "representation",
     "back": [
-      "rappresentazione"
+      "rappresentazione",
+      "rappresentanza"
     ],
     "level": null
   },
@@ -6270,21 +6508,22 @@
   {
     "front": "Republican",
     "back": [
-      "Repubblicano"
+      "repubblicano"
     ],
     "level": null
   },
   {
     "front": "requirement",
     "back": [
-      "Requisiti"
+      "requisito"
     ],
     "level": "B1"
   },
   {
     "front": "research",
     "back": [
-      "ricerca"
+      "ricerca",
+      "fare ricerca"
     ],
     "level": "B2",
     "topic": "School & study"
@@ -6299,6 +6538,7 @@
   {
     "front": "resort",
     "back": [
+      "località turistica",
       "ricorrere"
     ],
     "level": "B1"
@@ -6306,6 +6546,7 @@
   {
     "front": "respondent",
     "back": [
+      "intervistato",
       "rispondente"
     ],
     "level": null
@@ -6314,7 +6555,8 @@
     "front": "rest",
     "back": [
       "riposo",
-      "riposare"
+      "riposare",
+      "resto"
     ],
     "level": "A2",
     "topic": "Daily life"
@@ -6322,9 +6564,9 @@
   {
     "front": "restore",
     "back": [
-      "ristabilire",
       "ripristinare",
-      "restaurare"
+      "restaurare",
+      "ristabilire"
     ],
     "level": "B2",
     "topic": "Common verbs"
@@ -6349,16 +6591,17 @@
   {
     "front": "retirement",
     "back": [
-      "la pensione"
+      "pensione",
+      "pensionamento"
     ],
     "level": "B2"
   },
   {
     "front": "return",
     "back": [
-      "Restituzione",
       "tornare",
-      "restituire"
+      "restituire",
+      "ritorno"
     ],
     "level": "A2",
     "topic": "Common verbs"
@@ -6375,8 +6618,7 @@
   {
     "front": "revenue",
     "back": [
-      "reddito",
-      "ricavo",
+      "ricavi",
       "entrate"
     ],
     "level": "C1",
@@ -6386,7 +6628,8 @@
     "front": "review",
     "back": [
       "recensione",
-      "rivedere"
+      "rivedere",
+      "revisione"
     ],
     "level": "B1",
     "topic": "Media & language"
@@ -6394,6 +6637,7 @@
   {
     "front": "rid",
     "back": [
+      "liberarsi",
       "sbarazzarsi"
     ],
     "level": "B1"
@@ -6401,7 +6645,9 @@
   {
     "front": "ride",
     "back": [
-      "giro"
+      "andare (in bici/a cavallo)",
+      "giro",
+      "corsa"
     ],
     "level": "A1"
   },
@@ -6415,15 +6661,18 @@
   {
     "front": "rise",
     "back": [
-      "salita"
+      "salire",
+      "aumentare",
+      "aumento"
     ],
     "level": "B1"
   },
   {
     "front": "rock",
     "back": [
+      "roccia",
       "musica rock",
-      "roccia"
+      "dondolare"
     ],
     "level": "A2",
     "topic": "Nature & weather"
@@ -6431,8 +6680,9 @@
   {
     "front": "roll",
     "back": [
-      "Rotolo",
-      "rotolare"
+      "rotolare",
+      "rotolo",
+      "panino"
     ],
     "level": "B1",
     "topic": "Movement"
@@ -6440,9 +6690,9 @@
   {
     "front": "room",
     "back": [
-      "Camera",
       "stanza",
-      "camera"
+      "camera",
+      "spazio"
     ],
     "level": "A1",
     "topic": "House & home"
@@ -6468,8 +6718,9 @@
   {
     "front": "round",
     "back": [
-      "il giro",
-      "rotondo"
+      "rotondo",
+      "giro",
+      "turno"
     ],
     "level": "A2",
     "topic": "Shapes & colours"
@@ -6486,7 +6737,9 @@
   {
     "front": "row",
     "back": [
-      "riga"
+      "fila",
+      "riga",
+      "remare"
     ],
     "level": "A1"
   },
@@ -6501,14 +6754,16 @@
   {
     "front": "rule",
     "back": [
-      "regola"
+      "regola",
+      "governare"
     ],
     "level": "A1"
   },
   {
     "front": "running",
     "back": [
-      "in esecuzione"
+      "corsa",
+      "funzionamento"
     ],
     "level": "A2"
   },
@@ -6539,6 +6794,7 @@
   {
     "front": "sale",
     "back": [
+      "vendita",
       "saldi"
     ],
     "level": "A1"
@@ -6546,14 +6802,13 @@
   {
     "front": "sales",
     "back": [
-      "saldi"
+      "vendite"
     ],
     "level": null
   },
   {
     "front": "satellite",
     "back": [
-      "satellitare",
       "satellite"
     ],
     "level": "B2",
@@ -6562,15 +6817,16 @@
   {
     "front": "saving",
     "back": [
-      "Salvataggio"
+      "risparmio",
+      "salvataggio"
     ],
     "level": "B2"
   },
   {
     "front": "scared",
     "back": [
-      "impaurito",
-      "spaventato"
+      "spaventato",
+      "impaurito"
     ],
     "level": "A2",
     "topic": "Emotions"
@@ -6595,14 +6851,13 @@
   {
     "front": "scholarship",
     "back": [
-      "Borsa di studio"
+      "borsa di studio"
     ],
     "level": "B1"
   },
   {
     "front": "score",
     "back": [
-      "punto",
       "punteggio",
       "segnare"
     ],
@@ -6612,9 +6867,9 @@
   {
     "front": "scream",
     "back": [
-      "grido",
       "urlare",
-      "strillare"
+      "urlo",
+      "grido"
     ],
     "level": "B1",
     "topic": "Thinking & speaking"
@@ -6622,8 +6877,9 @@
   {
     "front": "script",
     "back": [
+      "copione",
       "sceneggiatura",
-      "copione"
+      "script"
     ],
     "level": "B2",
     "topic": "Media & language"
@@ -6631,6 +6887,7 @@
   {
     "front": "search",
     "back": [
+      "cercare",
       "ricerca"
     ],
     "level": "A2"
@@ -6648,14 +6905,17 @@
   {
     "front": "seat",
     "back": [
-      "posto a sedere"
+      "posto (a sedere)",
+      "sedile"
     ],
     "level": "A1"
   },
   {
     "front": "secure",
     "back": [
-      "sicuro"
+      "sicuro",
+      "proteggere",
+      "ottenere"
     ],
     "level": "B1"
   },
@@ -6670,15 +6930,17 @@
   {
     "front": "seize",
     "back": [
-      "prendere"
+      "afferrare",
+      "sequestrare",
+      "cogliere"
     ],
     "level": "B1"
   },
   {
     "front": "select",
     "back": [
-      "Selezionare",
-      "selezionare"
+      "selezionare",
+      "scegliere"
     ],
     "level": "B1",
     "topic": "Common verbs"
@@ -6686,14 +6948,17 @@
   {
     "front": "self",
     "back": [
-      "se stesso"
+      "sé",
+      "io"
     ],
     "level": "A1"
   },
   {
     "front": "senior",
     "back": [
-      "anziano"
+      "anziano",
+      "superiore",
+      "senior"
     ],
     "level": "A2"
   },
@@ -6717,8 +6982,8 @@
   {
     "front": "serious",
     "back": [
-      "grave",
-      "serio"
+      "serio",
+      "grave"
     ],
     "level": "A2",
     "topic": "Describing"
@@ -6733,20 +6998,25 @@
   {
     "front": "setting",
     "back": [
-      "collocamento"
+      "ambientazione",
+      "impostazione",
+      "contesto"
     ],
     "level": "B1"
   },
   {
     "front": "settle",
     "back": [
-      "fissare"
+      "sistemare",
+      "stabilirsi",
+      "risolvere"
     ],
     "level": "B1"
   },
   {
     "front": "settlement",
     "back": [
+      "accordo",
       "insediamento"
     ],
     "level": "B1"
@@ -6763,9 +7033,8 @@
   {
     "front": "severe",
     "back": [
-      "acuto",
-      "severo",
-      "grave"
+      "grave",
+      "severo"
     ],
     "level": "B2",
     "topic": "Describing"
@@ -6773,7 +7042,7 @@
   {
     "front": "shall",
     "back": [
-      "deve"
+      "dovere (futuro/proposta)"
     ],
     "level": "A2"
   },
@@ -6789,7 +7058,6 @@
   {
     "front": "shelf",
     "back": [
-      "lo scaffale",
       "scaffale",
       "mensola"
     ],
@@ -6824,7 +7092,7 @@
     "front": "shock",
     "back": [
       "shock",
-      "trauma"
+      "scioccare"
     ],
     "level": "B1",
     "topic": "Emotions"
@@ -6832,7 +7100,8 @@
   {
     "front": "shooting",
     "back": [
-      "tiro"
+      "sparatoria",
+      "riprese (film)"
     ],
     "level": "B2"
   },
@@ -6846,8 +7115,8 @@
   {
     "front": "shore",
     "back": [
-      "costa",
-      "riva"
+      "riva",
+      "costa"
     ],
     "level": "B2",
     "topic": "Nature & weather"
@@ -6855,8 +7124,8 @@
   {
     "front": "short",
     "back": [
-      "breve",
       "corto",
+      "breve",
       "basso"
     ],
     "level": "A1",
@@ -6865,23 +7134,25 @@
   {
     "front": "shortly",
     "back": [
-      "in breve"
+      "a breve",
+      "tra poco"
     ],
     "level": "B1"
   },
   {
     "front": "should",
     "back": [
-      "dovrebbe"
+      "dovrebbe",
+      "dovresti"
     ],
     "level": "A1"
   },
   {
     "front": "shout",
     "back": [
-      "urlo",
       "gridare",
-      "urlare"
+      "urlare",
+      "grido"
     ],
     "level": "A2",
     "topic": "Thinking & speaking"
@@ -6896,8 +7167,8 @@
   {
     "front": "shut",
     "back": [
-      "chiuso",
-      "chiudere"
+      "chiudere",
+      "chiuso"
     ],
     "level": "A2",
     "topic": "Common verbs"
@@ -6905,8 +7176,8 @@
   {
     "front": "sigh",
     "back": [
-      "sospiro",
-      "sospirare"
+      "sospirare",
+      "sospiro"
     ],
     "level": "B2",
     "topic": "Senses"
@@ -6921,9 +7192,9 @@
   {
     "front": "sign",
     "back": [
+      "segno",
       "cartello",
-      "firmare",
-      "segno"
+      "firmare"
     ],
     "level": "A2",
     "topic": "Media & language"
@@ -6954,8 +7225,8 @@
   {
     "front": "silver",
     "back": [
-      "d'argento",
-      "argento"
+      "argento",
+      "d'argento"
     ],
     "level": "A2",
     "topic": "Tools & materials"
@@ -6978,7 +7249,8 @@
   {
     "front": "sin",
     "back": [
-      "peccato"
+      "peccato",
+      "peccare"
     ],
     "level": null
   },
@@ -6992,7 +7264,6 @@
   {
     "front": "sink",
     "back": [
-      "Lavello",
       "lavandino",
       "affondare"
     ],
@@ -7009,7 +7280,9 @@
   {
     "front": "site",
     "back": [
-      "posto"
+      "sito",
+      "luogo",
+      "cantiere"
     ],
     "level": "A1"
   },
@@ -7041,16 +7314,15 @@
   {
     "front": "slave",
     "back": [
-      "Schiavo"
+      "schiavo"
     ],
     "level": "A2"
   },
   {
     "front": "slide",
     "back": [
-      "diapositiva",
       "scivolare",
-      "far scorrere"
+      "diapositiva"
     ],
     "level": "B1",
     "topic": "Movement"
@@ -7072,8 +7344,8 @@
   {
     "front": "slip",
     "back": [
-      "scontrino",
-      "scivolare"
+      "scivolare",
+      "foglietto"
     ],
     "level": "B1",
     "topic": "Movement"
@@ -7090,7 +7362,9 @@
   {
     "front": "snap",
     "back": [
-      "affrettato"
+      "spezzare",
+      "scattare (foto)",
+      "schiocco"
     ],
     "level": "B2"
   },
@@ -7112,7 +7386,8 @@
     "front": "soil",
     "back": [
       "suolo",
-      "terreno"
+      "terreno",
+      "sporcare"
     ],
     "level": "B2",
     "topic": "Environment"
@@ -7128,8 +7403,8 @@
   {
     "front": "sometimes",
     "back": [
-      "A volte",
-      "a volte"
+      "a volte",
+      "talvolta"
     ],
     "level": "A1",
     "topic": "Time"
@@ -7144,8 +7419,9 @@
   {
     "front": "sort",
     "back": [
-      "ordinare",
-      "smistare"
+      "tipo",
+      "specie",
+      "ordinare"
     ],
     "level": "B1",
     "topic": "Common verbs"
@@ -7153,7 +7429,6 @@
   {
     "front": "soup",
     "back": [
-      "la minestra",
       "zuppa",
       "minestra"
     ],
@@ -7193,9 +7468,9 @@
   {
     "front": "spin",
     "back": [
-      "rotazione",
       "girare",
-      "ruotare"
+      "ruotare",
+      "rotazione"
     ],
     "level": "B2",
     "topic": "Movement"
@@ -7203,6 +7478,8 @@
   {
     "front": "split",
     "back": [
+      "dividere",
+      "spaccare",
       "diviso"
     ],
     "level": "A2"
@@ -7217,6 +7494,8 @@
   {
     "front": "spot",
     "back": [
+      "posto",
+      "macchia",
       "individuare"
     ],
     "level": "A1"
@@ -7224,9 +7503,9 @@
   {
     "front": "spread",
     "back": [
-      "propagazione",
       "diffondere",
-      "spalmare"
+      "spalmare",
+      "diffusione"
     ],
     "level": "B1",
     "topic": "Common verbs"
@@ -7234,7 +7513,6 @@
   {
     "front": "squeeze",
     "back": [
-      "stretta",
       "spremere",
       "stringere"
     ],
@@ -7253,6 +7531,7 @@
   {
     "front": "stair",
     "back": [
+      "gradino",
       "scala"
     ],
     "level": "A2"
@@ -7260,6 +7539,8 @@
   {
     "front": "stake",
     "back": [
+      "posta in gioco",
+      "quota",
       "palo"
     ],
     "level": "B2"
@@ -7267,8 +7548,9 @@
   {
     "front": "stand",
     "back": [
-      "In piedi",
-      "stare in piedi"
+      "stare in piedi",
+      "sopportare",
+      "bancarella"
     ],
     "level": "A1",
     "topic": "Movement"
@@ -7276,6 +7558,8 @@
   {
     "front": "standing",
     "back": [
+      "posizione",
+      "reputazione",
       "in piedi"
     ],
     "level": "C2"
@@ -7291,7 +7575,9 @@
   {
     "front": "start",
     "back": [
-      "cominciare"
+      "iniziare",
+      "cominciare",
+      "inizio"
     ],
     "level": "A1"
   },
@@ -7299,7 +7585,8 @@
     "front": "stay",
     "back": [
       "restare",
-      "stare"
+      "stare",
+      "soggiorno"
     ],
     "level": "A1",
     "topic": "Common verbs"
@@ -7332,6 +7619,8 @@
   {
     "front": "step",
     "back": [
+      "passo",
+      "gradino",
       "fare un passo"
     ],
     "level": "A1"
@@ -7339,16 +7628,16 @@
   {
     "front": "stick",
     "back": [
-      "bastone"
+      "bastone",
+      "attaccare",
+      "incollare"
     ],
     "level": "B1"
   },
   {
     "front": "stir",
     "back": [
-      "mescolata",
-      "mescolare",
-      "girare"
+      "mescolare"
     ],
     "level": "B1",
     "topic": "Kitchen & cooking"
@@ -7358,7 +7647,7 @@
     "back": [
       "scorta",
       "azioni",
-      "magazzino"
+      "avere in magazzino"
     ],
     "level": "B2",
     "topic": "Business & economy"
@@ -7366,7 +7655,6 @@
   {
     "front": "stone",
     "back": [
-      "calcolo",
       "pietra",
       "sasso"
     ],
@@ -7377,7 +7665,8 @@
     "front": "stop",
     "back": [
       "fermare",
-      "smettere"
+      "smettere",
+      "fermata"
     ],
     "level": "A1",
     "topic": "Common verbs"
@@ -7385,22 +7674,27 @@
   {
     "front": "storage",
     "back": [
-      "Conservazione"
+      "conservazione",
+      "deposito",
+      "memoria (dati)"
     ],
     "level": "B1"
   },
   {
     "front": "store",
     "back": [
-      "negozio"
+      "negozio",
+      "conservare",
+      "immagazzinare"
     ],
     "level": "A1"
   },
   {
     "front": "stream",
     "back": [
+      "ruscello",
       "flusso",
-      "ruscello"
+      "trasmettere in streaming"
     ],
     "level": "B1",
     "topic": "Nature & weather"
@@ -7415,8 +7709,9 @@
   {
     "front": "stress",
     "back": [
-      "fatica",
-      "stress"
+      "stress",
+      "sottolineare",
+      "enfatizzare"
     ],
     "level": "B1",
     "topic": "Emotions"
@@ -7433,8 +7728,9 @@
   {
     "front": "string",
     "back": [
+      "spago",
       "corda",
-      "spago"
+      "stringa"
     ],
     "level": "B1",
     "topic": "Objects"
@@ -7442,23 +7738,26 @@
   {
     "front": "strip",
     "back": [
-      "striscia"
+      "striscia",
+      "spogliare"
     ],
     "level": "B1"
   },
   {
     "front": "stroke",
     "back": [
-      "ictus"
+      "ictus",
+      "colpo",
+      "accarezzare"
     ],
     "level": "B2"
   },
   {
     "front": "struggle",
     "back": [
-      "lotta",
       "lottare",
-      "faticare"
+      "faticare",
+      "lotta"
     ],
     "level": "B1",
     "topic": "Common verbs"
@@ -7466,8 +7765,8 @@
   {
     "front": "student",
     "back": [
-      "alunno",
-      "studente"
+      "studente",
+      "alunno"
     ],
     "level": "A1",
     "topic": "School & study"
@@ -7475,16 +7774,18 @@
   {
     "front": "stuff",
     "back": [
-      "roba"
+      "roba",
+      "cose",
+      "riempire"
     ],
     "level": "A2"
   },
   {
     "front": "submit",
     "back": [
-      "Sottoscrivi",
       "presentare",
-      "sottoporre"
+      "inviare",
+      "sottomettersi"
     ],
     "level": "B2",
     "topic": "Common verbs"
@@ -7514,6 +7815,7 @@
   {
     "front": "successful",
     "back": [
+      "di successo",
       "riuscito"
     ],
     "level": "A1"
@@ -7528,7 +7830,8 @@
   {
     "front": "such",
     "back": [
-      "tale"
+      "tale",
+      "così"
     ],
     "level": "A2"
   },
@@ -7569,9 +7872,9 @@
   {
     "front": "supply",
     "back": [
-      "la fornitura",
-      "offerta",
-      "fornitura"
+      "fornire",
+      "fornitura",
+      "rifornimento"
     ],
     "level": "B2",
     "topic": "Business & economy"
@@ -7579,8 +7882,9 @@
   {
     "front": "support",
     "back": [
-      "sostegno",
-      "sostenere"
+      "sostenere",
+      "supportare",
+      "sostegno"
     ],
     "level": "B1",
     "topic": "Relationships"
@@ -7595,14 +7899,16 @@
   {
     "front": "supposed",
     "back": [
-      "ipotetico"
+      "presunto",
+      "dover (be supposed to)"
     ],
     "level": null
   },
   {
     "front": "sure",
     "back": [
-      "Sicuro"
+      "sicuro",
+      "certo"
     ],
     "level": "A1"
   },
@@ -7632,8 +7938,8 @@
   {
     "front": "survey",
     "back": [
-      "indagine",
-      "sondaggio"
+      "sondaggio",
+      "indagine"
     ],
     "level": "B2",
     "topic": "Academic"
@@ -7657,8 +7963,8 @@
   {
     "front": "swear",
     "back": [
-      "imprecare",
-      "giurare"
+      "giurare",
+      "imprecare"
     ],
     "level": "B2",
     "topic": "Thinking & speaking"
@@ -7674,14 +7980,18 @@
   {
     "front": "swing",
     "back": [
-      "oscillazione"
+      "oscillare",
+      "dondolare",
+      "altalena"
     ],
     "level": "B2"
   },
   {
     "front": "switch",
     "back": [
-      "interruttore"
+      "interruttore",
+      "cambiare",
+      "passare"
     ],
     "level": "B1",
     "topic": "House & home"
@@ -7689,7 +7999,7 @@
   {
     "front": "tablespoon",
     "back": [
-      "cucchiaio"
+      "cucchiaio (da tavola)"
     ],
     "level": "A2"
   },
@@ -7711,6 +8021,8 @@
   {
     "front": "tank",
     "back": [
+      "serbatoio",
+      "vasca",
       "carro armato"
     ],
     "level": "B1"
@@ -7718,7 +8030,8 @@
   {
     "front": "tap",
     "back": [
-      "rubinetto"
+      "rubinetto",
+      "toccare leggermente"
     ],
     "level": "B1",
     "topic": "House & home"
@@ -7726,8 +8039,8 @@
   {
     "front": "tax",
     "back": [
-      "imposta",
-      "tassa"
+      "tassa",
+      "imposta"
     ],
     "level": "B1",
     "topic": "Money & shopping"
@@ -7756,6 +8069,7 @@
   {
     "front": "tell",
     "back": [
+      "dire",
       "raccontare"
     ],
     "level": "A1"
@@ -7763,7 +8077,9 @@
   {
     "front": "tend",
     "back": [
-      "tende"
+      "tendere",
+      "avere tendenza",
+      "prendersi cura"
     ],
     "level": "B1"
   },
@@ -7784,7 +8100,9 @@
   {
     "front": "testing",
     "back": [
-      "test"
+      "test",
+      "collaudo",
+      "prova"
     ],
     "level": null
   },
@@ -7798,14 +8116,15 @@
   {
     "front": "theater",
     "back": [
-      "Teatro"
+      "teatro"
     ],
     "level": "A1"
   },
   {
     "front": "their",
     "back": [
-      "i loro"
+      "loro",
+      "il loro"
     ],
     "level": "A1"
   },
@@ -7819,7 +8138,9 @@
   {
     "front": "there",
     "back": [
-      "là"
+      "lì",
+      "là",
+      "ci (esserci)"
     ],
     "level": "A1"
   },
@@ -7835,6 +8156,7 @@
   {
     "front": "these",
     "back": [
+      "questi",
       "queste"
     ],
     "level": "A1"
@@ -7842,7 +8164,8 @@
   {
     "front": "thick",
     "back": [
-      "di spessore"
+      "spesso",
+      "denso"
     ],
     "level": "A1"
   },
@@ -7858,14 +8181,16 @@
   {
     "front": "thinking",
     "back": [
-      "pensiero"
+      "pensiero",
+      "ragionamento"
     ],
     "level": null
   },
   {
     "front": "those",
     "back": [
-      "quelli"
+      "quelli",
+      "quelle"
     ],
     "level": "A1"
   },
@@ -7910,15 +8235,17 @@
   {
     "front": "throughout",
     "back": [
-      "per tutto"
+      "per tutto",
+      "in tutto"
     ],
     "level": "B1"
   },
   {
     "front": "throw",
     "back": [
+      "lanciare",
       "gettare",
-      "lanciare"
+      "tirare"
     ],
     "level": "A2",
     "topic": "Common verbs"
@@ -7935,7 +8262,7 @@
     "back": [
       "legare",
       "cravatta",
-      "annodare"
+      "pareggio"
     ],
     "level": "B1",
     "topic": "Clothes"
@@ -7951,7 +8278,9 @@
   {
     "front": "tire",
     "back": [
-      "pneumatico"
+      "pneumatico",
+      "stancare",
+      "stancarsi"
     ],
     "level": "B1"
   },
@@ -7965,7 +8294,9 @@
   {
     "front": "to",
     "back": [
-      "a"
+      "a",
+      "verso",
+      "per"
     ],
     "level": "A1"
   },
@@ -7979,7 +8310,8 @@
   {
     "front": "too",
     "back": [
-      "pure"
+      "anche",
+      "troppo"
     ],
     "level": "A1"
   },
@@ -8004,8 +8336,8 @@
   {
     "front": "top",
     "back": [
-      "superiore",
       "cima",
+      "superiore",
       "parte alta"
     ],
     "level": "A2",
@@ -8029,8 +8361,8 @@
   {
     "front": "town",
     "back": [
-      "cittadina",
-      "paese"
+      "città",
+      "cittadina"
     ],
     "level": "A1",
     "topic": "City & places"
@@ -8038,7 +8370,9 @@
   {
     "front": "trade",
     "back": [
-      "commercio"
+      "commercio",
+      "commerciare",
+      "scambiare"
     ],
     "level": "B1",
     "topic": "Business & economy"
@@ -8046,15 +8380,18 @@
   {
     "front": "trail",
     "back": [
-      "sentiero"
+      "sentiero",
+      "traccia",
+      "seguire"
     ],
     "level": "B1"
   },
   {
     "front": "training",
     "back": [
-      "addestramento",
-      "allenamento"
+      "formazione",
+      "allenamento",
+      "addestramento"
     ],
     "level": "B1",
     "topic": "Sports & leisure"
@@ -8085,7 +8422,7 @@
     "front": "travel",
     "back": [
       "viaggiare",
-      "viaggio"
+      "viaggi"
     ],
     "level": "A1",
     "topic": "Travel & transport"
@@ -8094,7 +8431,9 @@
     "front": "treat",
     "back": [
       "trattare",
-      "curare"
+      "curare",
+      "offrire",
+      "regalo"
     ],
     "level": "B1",
     "topic": "Common verbs"
@@ -8111,7 +8450,9 @@
   {
     "front": "trial",
     "back": [
-      "processo"
+      "processo",
+      "prova",
+      "sperimentazione"
     ],
     "level": "B2",
     "topic": "Law & crime"
@@ -8129,7 +8470,8 @@
     "front": "trip",
     "back": [
       "viaggio",
-      "gita"
+      "gita",
+      "inciampare"
     ],
     "level": "A2",
     "topic": "Travel & transport"
@@ -8137,14 +8479,17 @@
   {
     "front": "troop",
     "back": [
-      "truppe"
+      "truppe",
+      "truppa"
     ],
     "level": "B2"
   },
   {
     "front": "trouble",
     "back": [
-      "guaio"
+      "guaio",
+      "problema",
+      "disturbare"
     ],
     "level": "A2"
   },
@@ -8159,9 +8504,9 @@
   {
     "front": "turn",
     "back": [
-      "giro",
       "girare",
-      "voltare"
+      "svoltare",
+      "turno"
     ],
     "level": "A1",
     "topic": "Common verbs"
@@ -8177,7 +8522,9 @@
   {
     "front": "type",
     "back": [
-      "genere"
+      "tipo",
+      "genere",
+      "digitare"
     ],
     "level": "A1"
   },
@@ -8198,6 +8545,7 @@
   {
     "front": "understand",
     "back": [
+      "capire",
       "comprendere"
     ],
     "level": "A2"
@@ -8212,6 +8560,7 @@
   {
     "front": "unless",
     "back": [
+      "a meno che",
       "salvo che"
     ],
     "level": "B1"
@@ -8233,8 +8582,8 @@
   {
     "front": "unusual",
     "back": [
-      "fuori dal comune",
-      "insolito"
+      "insolito",
+      "fuori dal comune"
     ],
     "level": "B1",
     "topic": "Describing"
@@ -8256,14 +8605,18 @@
   {
     "front": "urge",
     "back": [
-      "sollecitare"
+      "esortare",
+      "sollecitare",
+      "impulso"
     ],
     "level": "B1"
   },
   {
     "front": "use",
     "back": [
-      "utilizzo"
+      "usare",
+      "utilizzare",
+      "uso"
     ],
     "level": "A1"
   },
@@ -8279,8 +8632,8 @@
   {
     "front": "usually",
     "back": [
-      "generalmente",
-      "di solito"
+      "di solito",
+      "solitamente"
     ],
     "level": "A2",
     "topic": "Adverbs & linking"
@@ -8310,6 +8663,8 @@
   {
     "front": "venture",
     "back": [
+      "impresa",
+      "iniziativa",
       "avventurarsi"
     ],
     "level": "B2"
@@ -8317,13 +8672,16 @@
   {
     "front": "vessel",
     "back": [
-      "nave"
+      "nave",
+      "recipiente",
+      "vaso (sanguigno)"
     ],
     "level": "B1"
   },
   {
     "front": "via",
     "back": [
+      "tramite",
       "attraverso"
     ],
     "level": "B1"
@@ -8331,7 +8689,9 @@
   {
     "front": "view",
     "back": [
-      "Visualizza"
+      "vista",
+      "opinione",
+      "vedere"
     ],
     "level": "A2"
   },
@@ -8345,6 +8705,7 @@
   {
     "front": "virtually",
     "back": [
+      "praticamente",
       "virtualmente"
     ],
     "level": "B2"
@@ -8366,9 +8727,8 @@
   {
     "front": "vote",
     "back": [
-      "votazione",
-      "voto",
-      "votare"
+      "votare",
+      "voto"
     ],
     "level": "B1",
     "topic": "Society & politics"
@@ -8392,14 +8752,15 @@
   {
     "front": "wake",
     "back": [
-      "veglia"
+      "svegliarsi",
+      "svegliare",
+      "scia"
     ],
     "level": "A1"
   },
   {
     "front": "wander",
     "back": [
-      "passeggiata",
       "vagare",
       "girovagare"
     ],
@@ -8409,8 +8770,8 @@
   {
     "front": "warn",
     "back": [
-      "avvisare",
-      "avvertire"
+      "avvertire",
+      "avvisare"
     ],
     "level": "B1",
     "topic": "Thinking & speaking"
@@ -8448,7 +8809,6 @@
   {
     "front": "weather",
     "back": [
-      "tempo metereologico",
       "tempo (atmosferico)",
       "meteo"
     ],
@@ -8458,8 +8818,8 @@
   {
     "front": "wedding",
     "back": [
-      "nozze",
-      "matrimonio"
+      "matrimonio",
+      "nozze"
     ],
     "level": "A2",
     "topic": "Life events"
@@ -8481,7 +8841,8 @@
   {
     "front": "weekly",
     "back": [
-      "settimanalmente"
+      "settimanale",
+      "ogni settimana"
     ],
     "level": "A2"
   },
@@ -8520,7 +8881,9 @@
   {
     "front": "what",
     "back": [
-      "che cosa"
+      "che cosa",
+      "cosa",
+      "che"
     ],
     "level": "A1"
   },
@@ -8535,14 +8898,14 @@
   {
     "front": "whenever",
     "back": [
-      "Ogni volta che"
+      "ogni volta che",
+      "quando"
     ],
     "level": "B1"
   },
   {
     "front": "whereas",
     "back": [
-      "invece",
       "mentre",
       "laddove"
     ],
@@ -8552,8 +8915,8 @@
   {
     "front": "whisper",
     "back": [
-      "sussurro",
-      "sussurrare"
+      "sussurrare",
+      "sussurro"
     ],
     "level": "B2",
     "topic": "Thinking & speaking"
@@ -8561,7 +8924,6 @@
   {
     "front": "whole",
     "back": [
-      "totale",
       "intero",
       "tutto"
     ],
@@ -8571,7 +8933,8 @@
   {
     "front": "whom",
     "back": [
-      "chi"
+      "chi",
+      "cui"
     ],
     "level": "A2"
   },
@@ -8600,7 +8963,9 @@
   {
     "front": "will",
     "back": [
-      "volere"
+      "volontà",
+      "testamento",
+      "futuro (will)"
     ],
     "level": "A1"
   },
@@ -8614,8 +8979,8 @@
   {
     "front": "win",
     "back": [
-      "vincita",
-      "vincere"
+      "vincere",
+      "vittoria"
     ],
     "level": "A1",
     "topic": "Sports & leisure"
@@ -8633,7 +8998,8 @@
     "front": "wire",
     "back": [
       "filo",
-      "cavo"
+      "cavo",
+      "cablare"
     ],
     "level": "B2",
     "topic": "Tools & materials"
@@ -8656,6 +9022,7 @@
   {
     "front": "with",
     "back": [
+      "con",
       "insieme a"
     ],
     "level": "A1"
@@ -8670,16 +9037,17 @@
   {
     "front": "without",
     "back": [
-      "privo di",
-      "senza"
+      "senza",
+      "privo di"
     ],
     "level": "A2"
   },
   {
     "front": "witness",
     "back": [
-      "testimonianza",
-      "testimone"
+      "testimone",
+      "assistere a",
+      "testimoniare"
     ],
     "level": "B2",
     "topic": "Law & crime"
@@ -8687,6 +9055,8 @@
   {
     "front": "wonder",
     "back": [
+      "chiedersi",
+      "domandarsi",
       "meraviglia"
     ],
     "level": "A2"
@@ -8702,10 +9072,8 @@
   {
     "front": "wood",
     "back": [
-      "Di legno",
       "legno",
-      "bosco",
-      "legna"
+      "bosco"
     ],
     "level": "A2",
     "topic": "Tools & materials"
@@ -8713,9 +9081,10 @@
   {
     "front": "work",
     "back": [
-      "opera",
+      "lavorare",
       "lavoro",
-      "lavorare"
+      "funzionare",
+      "opera"
     ],
     "level": "A1",
     "topic": "Work & jobs"
@@ -8723,16 +9092,18 @@
   {
     "front": "workshop",
     "back": [
-      "officina"
+      "laboratorio",
+      "officina",
+      "workshop"
     ],
     "level": "B1"
   },
   {
     "front": "worth",
     "back": [
-      "di valore",
-      "valore",
-      "che vale"
+      "valere",
+      "del valore di",
+      "che vale la pena"
     ],
     "level": "B1",
     "topic": "Business & economy"
@@ -8740,7 +9111,8 @@
   {
     "front": "would",
     "back": [
-      "voluto"
+      "condizionale (would)",
+      "vorrebbe"
     ],
     "level": "A1"
   },
@@ -8756,20 +9128,24 @@
   {
     "front": "writing",
     "back": [
-      "scrivere"
+      "scrittura",
+      "scritto"
     ],
     "level": "A2"
   },
   {
     "front": "yeah",
     "back": [
-      "Sì"
+      "sì",
+      "già"
     ],
     "level": "A2"
   },
   {
     "front": "yell",
     "back": [
+      "urlare",
+      "gridare",
       "urlo"
     ],
     "level": "B1"
@@ -8777,14 +9153,19 @@
   {
     "front": "yield",
     "back": [
-      "prodotto"
+      "rendere",
+      "produrre",
+      "cedere",
+      "resa"
     ],
     "level": "B2"
   },
   {
     "front": "yours",
     "back": [
-      "il vostro"
+      "tuo",
+      "vostro",
+      "il tuo"
     ],
     "level": "A1"
   },
@@ -21890,7 +22271,8 @@
   {
     "front": "hail",
     "back": [
-      "grandine"
+      "grandine",
+      "grandinare"
     ],
     "level": "B2",
     "topic": "Nature & weather"
@@ -23559,7 +23941,8 @@
     "front": "alert",
     "back": [
       "vigile",
-      "all'erta"
+      "all'erta",
+      "allertare"
     ],
     "level": "B2",
     "topic": "Describing"
