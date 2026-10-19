@@ -27,7 +27,7 @@ clean, inspectable project.
 
 - **Repeat until learned** — the default goal: cards you miss keep coming back
   until you get them right, and the session ends once you've learned them all.
-  (Or pick a quick fixed-length session instead.)
+  You choose how many words per session: 20, 50, 100 or all.
 - **Spaced repetition** — a Leitner 5-box scheduler weights the cards you miss
   more often and spaces out the ones you know across sessions.
 - **Three answer modes** — self-grade (flip and rate yourself), **typing-check**
