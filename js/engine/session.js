@@ -55,9 +55,10 @@ export function createSession(deck, { mode, gradeMode, filters, length, learn = 
     // cards of equal weight (e.g. all unseen) end up in random order so the
     // session doesn't always start from the same card.
     const sorted = shuffle([...pool]).sort((a, b) => weight(b, statOf(b), sessionCount) - weight(a, statOf(a), sessionCount));
-    poolSize = sorted.length;
-    queue = learn ? sorted : sorted.slice(0, length > 0 ? length : sorted.length);
-    if (!learn) poolSize = queue.length;
+    // Both goals take only `length` cards (0 = all); "learn" then repeats
+    // missed ones until every selected card is answered correctly.
+    queue = sorted.slice(0, length > 0 ? length : sorted.length);
+    poolSize = queue.length;
   }
 
   let started = false;
@@ -83,7 +84,7 @@ export function createSession(deck, { mode, gradeMode, filters, length, learn = 
     adaptive: !!adaptive,
     learn,
     get total() {
-      return adaptive ? 0 : poolSize; // adaptive is open-ended
+      return adaptive ? 0 : poolSize; // adaptive shows the level instead
     },
     get position() {
       return learned.size; // cards learned so far (meaningful in both learn & adaptive)
@@ -103,6 +104,7 @@ export function createSession(deck, { mode, gradeMode, filters, length, learn = 
     next() {
       ensureStarted();
       if (adaptive) {
+        if (length > 0 && learned.size >= length) return null; // learned enough words
         const c = pickAdaptive();
         if (c) recent.push(c._id);
         return c;

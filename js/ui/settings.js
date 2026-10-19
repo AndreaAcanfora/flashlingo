@@ -51,8 +51,8 @@ export function renderSettings(container) {
 
     h('section', { class: 'mb-6' },
       row(t('theme'), select(s.theme, [['system', t('system')], ['light', t('light')], ['dark', t('dark')]], (v) => { updateSettings({ theme: v }); initTheme(); })),
-      row(t('mode'), select(s.defaultGradeMode, [['selfgrade', t('selfgrade')], ['typing', t('typing')]], (v) => updateSettings({ defaultGradeMode: v }))),
-      row(t('length'), select(String(s.sessionLength), [['10', '10'], ['20', '20'], ['30', '30'], ['50', '50'], ['0', t('all')]], (v) => updateSettings({ sessionLength: Number(v) }))),
+      row(t('mode'), select(s.defaultGradeMode, [['selfgrade', t('selfgrade')], ['typing', t('typing')], ['multiple', t('multiple')]], (v) => updateSettings({ defaultGradeMode: v }))),
+      row(t('length'), select(String(s.sessionLength), [['20', '20'], ['50', '50'], ['100', '100'], ['0', t('all')]], (v) => updateSettings({ sessionLength: Number(v) }))),
       speechSupported() ? row(t('voice'), select(s.voiceURI || '', voiceOptions, (v) => updateSettings({ voiceURI: v || null }))) : null,
       speechSupported() ? row(t('autoSpeak'), toggle(s.autoSpeak, (v) => updateSettings({ autoSpeak: v }))) : null,
       row(t('nearMiss'), toggle(s.typingNearMiss, (v) => updateSettings({ typingNearMiss: v }))),

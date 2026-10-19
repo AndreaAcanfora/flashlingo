@@ -33,7 +33,7 @@ export async function renderSetup(container, { id }) {
     topics: new Set(),
     adaptive: false,
     startLevel: 'A1',
-    length: settings.sessionLength,
+    length: [20, 50, 100, 0].includes(settings.sessionLength) ? settings.sessionLength : 20,
   };
 
   const section = (title, node, hint) =>
@@ -52,7 +52,6 @@ export async function renderSetup(container, { id }) {
     const n = countMatching();
     countLabel.textContent = n ? `${n} ${t('cards')}` : t('emptyFilter');
     startBtn.disabled = n === 0;
-    if (lengthBlock) lengthBlock.style.display = state.learn ? 'none' : '';
   }
 
   // Mode (self-grade / typing / multiple choice)
@@ -129,17 +128,17 @@ export async function renderSetup(container, { id }) {
     blocks.push(section(t('continents'), area));
   }
 
-  // Length (only for quick mode)
+  // How many words to study (both goals)
   const lengthRow = h('div', { class: 'flex flex-wrap gap-2' });
   function renderLength() {
-    const opts = [10, 20, 30, 50, 0];
+    const opts = [20, 50, 100, 0];
     mount(lengthRow, ...opts.map((n) => chip(n === 0 ? t('all') : String(n), {
       active: state.length === n,
       onClick: () => { state.length = n; renderLength(); },
     })));
   }
   renderLength();
-  lengthBlock = section(t('length'), lengthRow);
+  lengthBlock = section(t('length'), lengthRow, t('lengthHint'));
   blocks.push(lengthBlock);
 
   countLabel = h('span', { class: 'text-sm text-slate-500 dark:text-slate-400' });
