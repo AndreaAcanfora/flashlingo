@@ -21,8 +21,10 @@ const SOURCES_DIR = join(__dirname, 'sources');
 const DATA_DIR = join(__dirname, '..', 'data');
 
 function loadRaw(deck) {
-  const text = readFileSync(join(RAW_DIR, deck.raw), 'utf8');
-  return JSON.parse(text); // all current raw files are JSON arrays
+  const files = Array.isArray(deck.raw) ? deck.raw : [deck.raw];
+  const out = [];
+  for (const f of files) out.push(...JSON.parse(readFileSync(join(RAW_DIR, f), 'utf8')));
+  return out; // all current raw files are JSON arrays
 }
 
 // Index existing enrichment (meanings/synonyms/example) by dedupe key of front.
@@ -62,7 +64,8 @@ export function convert({ levelMap }) {
       }
       seen.add(key);
 
-      if (deck.levels) card.level = levelForFront(card.front, levelMap);
+      // Explicit level on the card (advanced file) wins; else derive from CEFR map.
+      if (deck.levels && !card.level) card.level = levelForFront(card.front, levelMap);
 
       if (deck.meta.mode === 'capitals') {
         const cc = isoFor(card.front);

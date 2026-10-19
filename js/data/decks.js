@@ -57,3 +57,8 @@ export function levelsIn(cards) {
 export function groupsIn(cards) {
   return [...new Set(cards.map((c) => c.group).filter(Boolean))].sort();
 }
+
+// Distinct topics present in a deck (for the optional topic filter).
+export function topicsIn(cards) {
+  return [...new Set(cards.map((c) => c.topic).filter(Boolean))].sort();
+}

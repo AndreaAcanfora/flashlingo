@@ -8,7 +8,9 @@ import { continentOf } from './countries.js';
 export const DECKS = [
   {
     id: 'english-3000',
-    raw: '3000words.js',
+    // Second file adds hand-authored advanced (C1/C2) words with explicit levels
+    // so the top levels aren't nearly empty (otherwise adaptive loops 2 cards).
+    raw: ['3000words.js', 'english-advanced.json'],
     format: 'json',
     levels: true,
     meta: {
@@ -21,7 +23,12 @@ export const DECKS = [
       mode: 'flashcard',
       source: 'CEFR-J / Octanove levels',
     },
-    map: (o) => ({ front: clean(joinEn(o.en)), back: toList(o.it) }),
+    map: (o) => {
+      const card = { front: clean(joinEn(o.en)), back: toList(o.it) };
+      if (o.level) card.level = o.level; // explicit level (advanced file) overrides derivation
+      if (o.topic) card.topic = clean(o.topic);
+      return card;
+    },
   },
   {
     id: 'phrasal-verbs',

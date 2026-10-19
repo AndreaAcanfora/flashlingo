@@ -25,13 +25,19 @@ clean, inspectable project.
 
 ## Features
 
-- **Spaced repetition** — a Leitner 5-box scheduler shows the cards you miss more
-  often and spaces out the ones you know.
-- **Two study modes** — self-grade (flip and rate yourself) or **typing-check**,
+- **Repeat until learned** — the default goal: cards you miss keep coming back
+  until you get them right, and the session ends once you've learned them all.
+  (Or pick a quick fixed-length session instead.)
+- **Spaced repetition** — a Leitner 5-box scheduler weights the cards you miss
+  more often and spaces out the ones you know across sessions.
+- **Two answer modes** — self-grade (flip and rate yourself) or **typing-check**,
   which accepts any valid answer or synonym, is accent/case-insensitive, handles
   comma-joined verb forms, and forgives small typos.
 - **CEFR levels & adaptive mode** — for *English · 3000*, filter by level (A1–C2)
   or let **Adaptive** mode start at your level and move up/down based on how you do.
+  The top levels are padded with hand-picked C1/C2 words so it never runs dry.
+- **Topics (optional)** — narrow a deck to certain subjects (e.g. *Character*,
+  *Describing*, *Change & action*).
 - **Pronunciation** — tap 🔊 (or press `S`) to hear the word via the browser's
   speech synthesis, in the right language per deck. No audio files to host.
 - **Flags** — the capitals deck shows each country's flag (static SVGs).

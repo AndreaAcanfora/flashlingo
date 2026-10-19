@@ -7810,5 +7810,535 @@
       "gioventù"
     ],
     "level": "A2"
+  },
+  {
+    "front": "ubiquitous",
+    "back": [
+      "onnipresente"
+    ],
+    "level": "C2",
+    "topic": "Describing"
+  },
+  {
+    "front": "ephemeral",
+    "back": [
+      "effimero"
+    ],
+    "level": "C2",
+    "topic": "Describing"
+  },
+  {
+    "front": "cumbersome",
+    "back": [
+      "ingombrante",
+      "macchinoso"
+    ],
+    "level": "C2",
+    "topic": "Describing"
+  },
+  {
+    "front": "meticulous",
+    "back": [
+      "meticoloso"
+    ],
+    "level": "C2",
+    "topic": "Character"
+  },
+  {
+    "front": "inexorable",
+    "back": [
+      "inesorabile"
+    ],
+    "level": "C2",
+    "topic": "Describing"
+  },
+  {
+    "front": "quintessential",
+    "back": [
+      "per eccellenza",
+      "tipico"
+    ],
+    "level": "C2",
+    "topic": "Describing"
+  },
+  {
+    "front": "serendipity",
+    "back": [
+      "serendipità",
+      "fortuna fortuita"
+    ],
+    "level": "C2",
+    "topic": "Thinking & speaking"
+  },
+  {
+    "front": "surreptitious",
+    "back": [
+      "furtivo",
+      "clandestino"
+    ],
+    "level": "C2",
+    "topic": "Describing"
+  },
+  {
+    "front": "idiosyncrasy",
+    "back": [
+      "idiosincrasia",
+      "peculiarità"
+    ],
+    "level": "C2",
+    "topic": "Character"
+  },
+  {
+    "front": "juxtapose",
+    "back": [
+      "giustapporre",
+      "accostare"
+    ],
+    "level": "C2",
+    "topic": "Thinking & speaking"
+  },
+  {
+    "front": "nuance",
+    "back": [
+      "sfumatura"
+    ],
+    "level": "C2",
+    "topic": "Thinking & speaking"
+  },
+  {
+    "front": "pragmatic",
+    "back": [
+      "pragmatico"
+    ],
+    "level": "C2",
+    "topic": "Character"
+  },
+  {
+    "front": "tenacious",
+    "back": [
+      "tenace"
+    ],
+    "level": "C2",
+    "topic": "Character"
+  },
+  {
+    "front": "venerable",
+    "back": [
+      "venerabile",
+      "venerando"
+    ],
+    "level": "C2",
+    "topic": "Describing"
+  },
+  {
+    "front": "ambivalent",
+    "back": [
+      "ambivalente"
+    ],
+    "level": "C2",
+    "topic": "Emotions"
+  },
+  {
+    "front": "cacophony",
+    "back": [
+      "cacofonia"
+    ],
+    "level": "C2",
+    "topic": "Describing"
+  },
+  {
+    "front": "deride",
+    "back": [
+      "deridere"
+    ],
+    "level": "C2",
+    "topic": "Thinking & speaking"
+  },
+  {
+    "front": "eloquent",
+    "back": [
+      "eloquente"
+    ],
+    "level": "C2",
+    "topic": "Thinking & speaking"
+  },
+  {
+    "front": "fastidious",
+    "back": [
+      "pignolo",
+      "meticoloso"
+    ],
+    "level": "C2",
+    "topic": "Character"
+  },
+  {
+    "front": "gregarious",
+    "back": [
+      "socievole"
+    ],
+    "level": "C2",
+    "topic": "Character"
+  },
+  {
+    "front": "harbinger",
+    "back": [
+      "presagio",
+      "foriero"
+    ],
+    "level": "C2",
+    "topic": "Describing"
+  },
+  {
+    "front": "impeccable",
+    "back": [
+      "impeccabile"
+    ],
+    "level": "C2",
+    "topic": "Describing"
+  },
+  {
+    "front": "laconic",
+    "back": [
+      "laconico"
+    ],
+    "level": "C2",
+    "topic": "Thinking & speaking"
+  },
+  {
+    "front": "magnanimous",
+    "back": [
+      "magnanimo"
+    ],
+    "level": "C2",
+    "topic": "Character"
+  },
+  {
+    "front": "nonchalant",
+    "back": [
+      "noncurante",
+      "disinvolto"
+    ],
+    "level": "C2",
+    "topic": "Character"
+  },
+  {
+    "front": "obfuscate",
+    "back": [
+      "offuscare",
+      "confondere"
+    ],
+    "level": "C2",
+    "topic": "Thinking & speaking"
+  },
+  {
+    "front": "peruse",
+    "back": [
+      "esaminare attentamente",
+      "leggere con cura"
+    ],
+    "level": "C2",
+    "topic": "Work & study"
+  },
+  {
+    "front": "quandary",
+    "back": [
+      "dilemma",
+      "imbarazzo"
+    ],
+    "level": "C2",
+    "topic": "Thinking & speaking"
+  },
+  {
+    "front": "rhetoric",
+    "back": [
+      "retorica"
+    ],
+    "level": "C2",
+    "topic": "Thinking & speaking"
+  },
+  {
+    "front": "esoteric",
+    "back": [
+      "esoterico"
+    ],
+    "level": "C2",
+    "topic": "Describing"
+  },
+  {
+    "front": "pernicious",
+    "back": [
+      "pernicioso",
+      "nocivo"
+    ],
+    "level": "C2",
+    "topic": "Describing"
+  },
+  {
+    "front": "ostensible",
+    "back": [
+      "apparente",
+      "presunto"
+    ],
+    "level": "C2",
+    "topic": "Describing"
+  },
+  {
+    "front": "endeavour",
+    "back": [
+      "sforzarsi",
+      "impegnarsi",
+      "impresa"
+    ],
+    "level": "C1",
+    "topic": "Work & study"
+  },
+  {
+    "front": "scrutiny",
+    "back": [
+      "esame accurato",
+      "scrutinio"
+    ],
+    "level": "C1",
+    "topic": "Work & study"
+  },
+  {
+    "front": "compelling",
+    "back": [
+      "avvincente",
+      "convincente"
+    ],
+    "level": "C1",
+    "topic": "Describing"
+  },
+  {
+    "front": "resilient",
+    "back": [
+      "resiliente"
+    ],
+    "level": "C1",
+    "topic": "Character"
+  },
+  {
+    "front": "coherent",
+    "back": [
+      "coerente"
+    ],
+    "level": "C1",
+    "topic": "Thinking & speaking"
+  },
+  {
+    "front": "prevalent",
+    "back": [
+      "diffuso",
+      "prevalente"
+    ],
+    "level": "C1",
+    "topic": "Describing"
+  },
+  {
+    "front": "inherent",
+    "back": [
+      "intrinseco",
+      "inerente"
+    ],
+    "level": "C1",
+    "topic": "Describing"
+  },
+  {
+    "front": "explicit",
+    "back": [
+      "esplicito"
+    ],
+    "level": "C1",
+    "topic": "Thinking & speaking"
+  },
+  {
+    "front": "plausible",
+    "back": [
+      "plausibile"
+    ],
+    "level": "C1",
+    "topic": "Thinking & speaking"
+  },
+  {
+    "front": "ambiguous",
+    "back": [
+      "ambiguo"
+    ],
+    "level": "C1",
+    "topic": "Thinking & speaking"
+  },
+  {
+    "front": "feasible",
+    "back": [
+      "fattibile",
+      "realizzabile"
+    ],
+    "level": "C1",
+    "topic": "Work & study"
+  },
+  {
+    "front": "robust",
+    "back": [
+      "robusto",
+      "solido"
+    ],
+    "level": "C1",
+    "topic": "Describing"
+  },
+  {
+    "front": "intricate",
+    "back": [
+      "intricato",
+      "complesso"
+    ],
+    "level": "C1",
+    "topic": "Describing"
+  },
+  {
+    "front": "profound",
+    "back": [
+      "profondo"
+    ],
+    "level": "C1",
+    "topic": "Describing"
+  },
+  {
+    "front": "versatile",
+    "back": [
+      "versatile",
+      "poliedrico"
+    ],
+    "level": "C1",
+    "topic": "Character"
+  },
+  {
+    "front": "diligent",
+    "back": [
+      "diligente"
+    ],
+    "level": "C1",
+    "topic": "Character"
+  },
+  {
+    "front": "candid",
+    "back": [
+      "franco",
+      "sincero"
+    ],
+    "level": "C1",
+    "topic": "Character"
+  },
+  {
+    "front": "lucid",
+    "back": [
+      "lucido",
+      "chiaro"
+    ],
+    "level": "C1",
+    "topic": "Thinking & speaking"
+  },
+  {
+    "front": "prudent",
+    "back": [
+      "prudente"
+    ],
+    "level": "C1",
+    "topic": "Character"
+  },
+  {
+    "front": "vivid",
+    "back": [
+      "vivido",
+      "vivace"
+    ],
+    "level": "C1",
+    "topic": "Describing"
+  },
+  {
+    "front": "abolish",
+    "back": [
+      "abolire"
+    ],
+    "level": "C1",
+    "topic": "Change & action"
+  },
+  {
+    "front": "alleviate",
+    "back": [
+      "alleviare",
+      "mitigare"
+    ],
+    "level": "C1",
+    "topic": "Change & action"
+  },
+  {
+    "front": "compile",
+    "back": [
+      "compilare",
+      "raccogliere"
+    ],
+    "level": "C1",
+    "topic": "Work & study"
+  },
+  {
+    "front": "foster",
+    "back": [
+      "favorire",
+      "promuovere"
+    ],
+    "level": "C1",
+    "topic": "Change & action"
+  },
+  {
+    "front": "hinder",
+    "back": [
+      "ostacolare"
+    ],
+    "level": "C1",
+    "topic": "Change & action"
+  },
+  {
+    "front": "mitigate",
+    "back": [
+      "mitigare",
+      "attenuare"
+    ],
+    "level": "C1",
+    "topic": "Change & action"
+  },
+  {
+    "front": "undermine",
+    "back": [
+      "minare",
+      "indebolire"
+    ],
+    "level": "C1",
+    "topic": "Change & action"
+  },
+  {
+    "front": "advocate",
+    "back": [
+      "sostenere",
+      "perorare"
+    ],
+    "level": "C1",
+    "topic": "Thinking & speaking"
+  },
+  {
+    "front": "discrepancy",
+    "back": [
+      "discrepanza"
+    ],
+    "level": "C1",
+    "topic": "Thinking & speaking"
+  },
+  {
+    "front": "inevitable",
+    "back": [
+      "inevitabile"
+    ],
+    "level": "C1",
+    "topic": "Describing"
   }
 ]

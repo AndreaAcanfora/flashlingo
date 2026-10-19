@@ -53,10 +53,10 @@ export function renderResults(container, { id }) {
     if (onlyMissed) {
       const missedIds = new Set(s.missed.map((c) => c._id));
       const subset = { ...deck, cards: deck.cards.filter((c) => missedIds.has(c._id)) };
-      const session = createSession(subset, { mode: deck.meta.mode, gradeMode: cfg.gradeMode, filters: { levels: new Set(), groups: new Set(), adaptive: false }, length: 0 });
+      const session = createSession(subset, { mode: deck.meta.mode, gradeMode: cfg.gradeMode, learn: true, filters: { levels: new Set(), groups: new Set(), topics: new Set(), adaptive: false }, length: 0 });
       setSession(deck, session, cfg);
     } else {
-      const session = createSession(deck, { mode: deck.meta.mode, gradeMode: cfg.gradeMode, filters: { levels: cfg.levels, groups: cfg.groups, adaptive: cfg.adaptive, startLevel: cfg.startLevel }, length: cfg.length });
+      const session = createSession(deck, { mode: deck.meta.mode, gradeMode: cfg.gradeMode, learn: cfg.learn, filters: { levels: cfg.levels, groups: cfg.groups, topics: cfg.topics || new Set(), adaptive: cfg.adaptive, startLevel: cfg.startLevel }, length: cfg.length });
       setSession(deck, session, cfg);
     }
     navigate(routes.study(id));

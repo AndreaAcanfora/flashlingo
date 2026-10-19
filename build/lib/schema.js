@@ -16,6 +16,7 @@ export const cardSchema = {
     synonyms: { type: 'array', items: nonEmptyString },
     example: { type: 'string' },
     group: { type: 'string' },
+    topic: { type: 'string' },
     level: { type: ['string', 'null'], enum: [...LEVELS, null] },
     cc: { type: 'string', pattern: '^[a-z]{2}$' },
   },
@@ -51,7 +52,7 @@ export const manifestSchema = {
 };
 
 // Order used when serializing cards, for diff-friendly output.
-export const CARD_KEY_ORDER = ['front', 'back', 'meanings', 'synonyms', 'example', 'level', 'group', 'cc'];
+export const CARD_KEY_ORDER = ['front', 'back', 'meanings', 'synonyms', 'example', 'level', 'topic', 'group', 'cc'];
 export const MANIFEST_KEY_ORDER = [
   'id', 'title', 'desc', 'count', 'speakSide', 'speakLang',
   'frontLabel', 'backLabel', 'mode', 'source', 'enriched',
