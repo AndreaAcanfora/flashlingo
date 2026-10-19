@@ -11,7 +11,24 @@ import { dirname, join } from 'node:path';
 import { DECKS } from './lib/mapping.js';
 import { buildLevelMap, levelForFront } from './lib/cefr.js';
 import { isoFor } from './lib/countries.js';
-import { dedupeKey } from './lib/normalize.js';
+import { dedupeKey, clean } from './lib/normalize.js';
+
+// Merge near-duplicate topic labels so the filter stays tidy.
+const TOPIC_ALIASES = {
+  'Work & study': 'Work & jobs',
+  'School subjects': 'School & study',
+  'Space & science': 'Science',
+  'Advanced adjectives': 'Describing',
+  'Advanced verbs': 'Common verbs',
+  'Communication': 'Media & language',
+  'Finance': 'Business & economy',
+  'Appearance': 'Character',
+};
+function normTopic(topic) {
+  if (!topic) return topic;
+  const t = clean(topic);
+  return TOPIC_ALIASES[t] || t;
+}
 import { writeJSONAtomic, readJSON } from './lib/io.js';
 import { CARD_KEY_ORDER } from './lib/schema.js';
 
@@ -58,6 +75,7 @@ export function convert({ levelMap }) {
         dropped++;
         continue;
       }
+      if (card.topic) card.topic = normTopic(card.topic);
       const key = dedupeKey(card.front);
 
       if (byKey.has(key)) {

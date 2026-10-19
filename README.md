@@ -16,7 +16,7 @@ clean, inspectable project.
 
 | Deck | Cards | Notes |
 |------|------:|-------|
-| English · 3000 common words | 1521 | CEFR level per word · level filter + adaptive mode · topics |
+| English · 3000 common words | 3010 | CEFR level per word · level filter + adaptive mode · topics |
 | English · Phrasal verbs | 187 | with example sentences |
 | English · Tricky vocabulary | 127 | CEFR-leveled |
 | English · Irregular verbs | 159 | Italian → base/past/participle |
